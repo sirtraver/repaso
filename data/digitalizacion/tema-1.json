@@ -1,0 +1,316 @@
+{
+  "asignatura": "DIGITALIZACIÓN APLICADA A LOS SECTORES PRODUCTIVOS (GS)(B)",
+  "tema": 1,
+  "titulo": "Digitalización en los sectores productivos",
+  "resumen": "Recorrido por las cuatro revoluciones industriales hasta la Industria 4.0 (diap. 3-6).\nLa Industria 4.0 integra tecnologías digitales (IoT, Big Data, nube, IA, CPS) con procesos físicos de producción (diap. 7).\nSiete elementos la definen: IoT, Big Data/ML, nube, CPS, gemelos digitales, descentralización y conectividad (diap. 7-10).\nLos sistemas ciberfísicos combinan sensores, actuadores, controladores, redes y capa computacional edge/cloud (diap. 13-16).\nLa digitalización transforma organización, recursos y planificación de tareas de la empresa (diap. 17).\nIT (negocio) y OT (operación física) convergen; la Transformación Digital Híbrida integra ambos (diap. 18-20).\nLa empresa evoluciona de tradicional a parcialmente digitalizada y a inteligente, con ventajas en costes, datos, comunicación, sostenibilidad y conciliación (diap. 21-22).",
+  "conceptos": [
+    {
+      "termino": "Transformación digital",
+      "definicion": "Estos cambios forman parte de un proceso llamado transformación digital, que modifica la forma en la que trabajamos y nos relacionamos.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 3"
+    },
+    {
+      "termino": "Industria 4.0",
+      "definicion": "La Industria 4.0 (o Cuarta Revolución Industrial) es la integración de tecnologías digitales (IoT, Big Data, nube, inteligencia artificial, sistemas ciberfísicos) con procesos físicos de producción.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 7"
+    },
+    {
+      "termino": "Internet de las Cosas (IoT)",
+      "definicion": "Conexión de objetos físicos a Internet para que puedan recoger, enviar y recibir datos automáticamente.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 7"
+    },
+    {
+      "termino": "Big Data / Analítica avanzada / Machine Learning",
+      "definicion": "Procesamiento de enormes volúmenes de datos para identificar patrones, predecir resultados y optimizar procesos.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 8"
+    },
+    {
+      "termino": "Computación en la nube",
+      "definicion": "Almacenamiento y procesamiento de información en servidores externos accesibles por Internet, en lugar de en un único ordenador local.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 8"
+    },
+    {
+      "termino": "Sistemas ciberfísicos (CPS)",
+      "definicion": "Sistemas donde los procesos físicos y digitales se combinan, permitiendo que máquinas y sistemas interactúen con el mundo real mediante datos y control automático.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 9"
+    },
+    {
+      "termino": "Gemelos digitales (Digital Twins)",
+      "definicion": "Réplicas virtuales de activos físicos (máquinas, edificios, procesos) que permiten simular y monitorizar su comportamiento en tiempo real.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 9"
+    },
+    {
+      "termino": "Descentralización y autonomía",
+      "definicion": "Sistemas capaces de tomar decisiones locales sin depender de un centro de control único.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 10"
+    },
+    {
+      "termino": "Conectividad y redes industriales",
+      "definicion": "Redes robustas que permiten que máquinas, sistemas y personas compartan información de manera fiable y segura.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 10"
+    },
+    {
+      "termino": "Sistema ciber-físico (definición ampliada)",
+      "definicion": "Un sistema ciber-físico (CPS, Cyber-Physical System) es un sistema en el que componentes físicos (sensores, actuadores, máquinas, componentes mecánicos) están estrechamente integrados con componentes digitales (algoritmos, software, redes de comunicación).",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 13"
+    },
+    {
+      "termino": "IT (Tecnologías de la Información)",
+      "definicion": "sistemas orientados al negocio: ERP (gestiona la empresa por dentro), CRM (gestiona los clientes), gestión administrativa, servidores, redes, bases de datos, analítica.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 18"
+    },
+    {
+      "termino": "OT (Tecnología Operativa)",
+      "definicion": "sistemas orientados a la operación física: control de procesos, maquinaria, PLCs (controladores lógicos programables), sensores industriales, sistemas de producción.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 18"
+    },
+    {
+      "termino": "Transformación Digital Híbrida",
+      "definicion": "La Transformación Digital Híbrida es un enfoque en el que una organización integra entornos digitales tradicionales (IT) con entornos operativos industriales (OT) mediante arquitecturas mixtas/ híbridas, para aprovechar lo mejor de ambos mundos: la capacidad de procesamiento, análisis y escala del IT junto con la fiabilidad, latencia baja y control físico de OT.",
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 20"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Las cuatro revoluciones industriales",
+      "columnas": [
+        "Revolución",
+        "Época",
+        "Innovación clave",
+        "Transformación social/productiva"
+      ],
+      "filas": [
+        [
+          "Primera",
+          "finales del siglo XVIII – siglo XIX",
+          "la máquina de vapor y la mecanización",
+          "paso de una economía agraria a una industrial, aparición de fábricas con maquinaria motorizada"
+        ],
+        [
+          "Segunda",
+          "finales del siglo XIX – principios del XX",
+          "la electricidad, la producción en serie y el montaje en cadena",
+          "aumento masivo de la producción, fábricas modernas y gran desarrollo del transporte industrial"
+        ],
+        [
+          "Tercera",
+          "mediados del siglo XX (años 1950–70)",
+          "electrónica, automatización e informática",
+          "introducción del control digital de procesos, uso de robots en la industria y nacimiento de las primeras redes industriales"
+        ],
+        [
+          "Cuarta (Industria 4.0)",
+          "finales del siglo XX – comienzos del XXI – actualidad",
+          "conectividad, IoT, Big Data y sistemas ciberfísicos",
+          "convergencia entre lo físico y lo digital, creación de fábricas inteligentes y procesos totalmente conectados"
+        ]
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 4-5"
+    },
+    {
+      "titulo": "Elementos de un CPS",
+      "columnas": [
+        "Elemento",
+        "Función"
+      ],
+      "filas": [
+        [
+          "Sensores",
+          "Capturan datos físicos: temperatura, vibración, presión, posición, velocidad, etc."
+        ],
+        [
+          "Actuadores",
+          "Ejecutan acciones físicas: encender/apagar motores, válvulas, mover componentes, regular parámetros."
+        ],
+        [
+          "Controladores / Algoritmos",
+          "Procesan los datos, toman decisiones, implementan reglas, podrían usar IA o lógica adaptativa."
+        ],
+        [
+          "Redes de comunicación",
+          "Conectan sensores, actuadores, controladores; pueden ser alámbricas o inalámbricas. Importante la latencia, el ancho de banda, la fiabilidad."
+        ],
+        [
+          "Capa computacional (on-edge / cloud)",
+          "parte en el dispositivo físico (on-edge) para respuestas rápidas, parte en servidores o nube para análisis más pesados, simulaciones, gemelos digitales."
+        ]
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 14"
+    },
+    {
+      "titulo": "CPS: ventajas vs. desafíos",
+      "columnas": [
+        "Ventajas / beneficios",
+        "Desafíos y riesgos"
+      ],
+      "filas": [
+        [
+          "Mejora en eficiencia operativa",
+          "Complejidad técnica"
+        ],
+        [
+          "Mantenimiento predictivo",
+          "Latencia y fiabilidad"
+        ],
+        [
+          "Flexibilidad",
+          "Seguridad / ciberseguridad"
+        ],
+        [
+          "Mejora en la seguridad",
+          "Coste de implementación"
+        ],
+        [
+          "Mejor toma de decisiones",
+          "Interoperabilidad"
+        ]
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 16"
+    },
+    {
+      "titulo": "IT vs. OT",
+      "columnas": [
+        "Aspecto",
+        "IT",
+        "OT"
+      ],
+      "filas": [
+        [
+          "Orientación",
+          "sistemas orientados al negocio",
+          "sistemas orientados a la operación física"
+        ],
+        [
+          "Origen",
+          "oficinas y empresas de servicios",
+          "fábricas y entornos industriales"
+        ],
+        [
+          "Se centra en",
+          "datos, aplicaciones y procesos de negocio",
+          "control físico, tiempo real, seguridad operacional"
+        ],
+        [
+          "Similitudes",
+          "conectividad, ciberseguridad, interoperabilidad y disponibilidad",
+          "conectividad, ciberseguridad, interoperabilidad y disponibilidad"
+        ]
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 18"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Funcionamiento de un CPS",
+      "pasos": [
+        "Un sensor detecta un cambio en el entorno físico",
+        "un sistema digital procesa la información",
+        "y actúa sobre el sistema físico"
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 9"
+    },
+    {
+      "titulo": "Ejemplo práctico IT/OT",
+      "pasos": [
+        "Una línea de montaje detecta un aumento en defectos → el sensor OT envía alerta al ERP (IT)",
+        "El sistema IT genera una orden de mantenimiento, ajusta la velocidad de producción y replanifica los inventarios",
+        "Resultado: menos paradas no planificadas, más eficiencia"
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 19"
+    },
+    {
+      "titulo": "Transformación progresiva de la empresa",
+      "pasos": [
+        "1. Empresa tradicional: procesos manuales, datos aislados, poca automatización",
+        "2. Digitalización parcial: introducción de software ERP/MRP, sensores en algunas máquinas, control digital en áreas concretas",
+        "3. Empresa digitalizada / “inteligente”: activación plena de IT/OT integrados, analítica predictiva, automatización flexible, respuesta en tiempo real"
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 21"
+    },
+    {
+      "titulo": "Digitalización de las unidades de la empresa",
+      "pasos": [
+        "Organización: transversal y colaborativa, departamentos conectados; surgen roles nuevos (Data Scientist, Ingeniero de IoT, Especialista en Ciberseguridad industrial, Analista de operaciones inteligentes)",
+        "Recursos: humanos (formación continua, perfiles híbridos), tecnológicos (red, sensores, plataformas), de datos (gestión, almacenamiento, gobernanza, privacidad)",
+        "Planificación de tareas compartidas: plataformas ERP/MES, dashboards, alertas automáticas, interoperabilidad"
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 17"
+    },
+    {
+      "titulo": "Ventajas clave de la empresa digitalizada",
+      "pasos": [
+        "Eficiencia en costes",
+        "Nuevos mecanismos de análisis de datos para toma de decisiones",
+        "Canales de comunicación con clientes, proveedores y otros agentes",
+        "Contribución de la digitalización al desarrollo sostenible",
+        "Conciliación entre la vida personal y laboral"
+      ],
+      "fuente": "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive), diap. 22"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Cuál fue la innovación clave de la Primera Revolución Industrial?",
+      "respuesta": "La máquina de vapor y la mecanización (diap. 4)."
+    },
+    {
+      "pregunta": "¿Qué innovaciones caracterizan la Segunda Revolución Industrial?",
+      "respuesta": "La electricidad, la producción en serie y el montaje en cadena (diap. 4)."
+    },
+    {
+      "pregunta": "¿Qué diferencia la 3.ª de la 4.ª revolución?",
+      "respuesta": "En la 3.ª había control digital pero los sistemas no estaban interconectados masivamente; en la 4.ª procesos físicos, sensores y sistemas de información se combinan para formar redes inteligentes (diap. 6)."
+    },
+    {
+      "pregunta": "Define Industria 4.0.",
+      "respuesta": "Integración de tecnologías digitales (IoT, Big Data, nube, IA, sistemas ciberfísicos) con procesos físicos de producción (diap. 7)."
+    },
+    {
+      "pregunta": "Cita los 7 elementos que definen la Industria 4.0.",
+      "respuesta": "IoT; Big Data/Analítica/ML; Computación en la nube; Sistemas ciberfísicos; Gemelos digitales; Descentralización y autonomía; Conectividad y redes industriales (diap. 7-10)."
+    },
+    {
+      "pregunta": "¿Qué es un gemelo digital?",
+      "respuesta": "Réplica virtual de activos físicos que permite simular y monitorizar su comportamiento en tiempo real (diap. 9)."
+    },
+    {
+      "pregunta": "¿Qué cinco elementos involucra casi siempre un CPS?",
+      "respuesta": "Sensores, actuadores, controladores/algoritmos, redes de comunicación y capa computacional (on-edge/cloud) (diap. 14)."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre sensores y actuadores?",
+      "respuesta": "Los sensores capturan datos físicos; los actuadores ejecutan acciones físicas (diap. 14)."
+    },
+    {
+      "pregunta": "Cita dos desafíos de los CPS.",
+      "respuesta": "Por ejemplo: complejidad técnica, latencia y fiabilidad, ciberseguridad, coste de implementación, interoperabilidad (diap. 16)."
+    },
+    {
+      "pregunta": "¿Qué es IT y qué es OT?",
+      "respuesta": "IT: sistemas orientados al negocio (ERP, CRM...). OT: sistemas orientados a la operación física (control de procesos, PLCs, sensores) (diap. 18)."
+    },
+    {
+      "pregunta": "Completa: IT sin OT sería ___ y OT sin IT sería ___.",
+      "respuesta": "“ciego” / “sordo” (diap. 19)."
+    },
+    {
+      "pregunta": "¿Qué es la Transformación Digital Híbrida?",
+      "respuesta": "Enfoque que integra IT con OT mediante arquitecturas mixtas/híbridas para aprovechar lo mejor de ambos (diap. 20)."
+    },
+    {
+      "pregunta": "¿Cuáles son las tres etapas de la transformación progresiva?",
+      "respuesta": "Empresa tradicional → digitalización parcial → empresa digitalizada/“inteligente” (diap. 21)."
+    },
+    {
+      "pregunta": "¿Qué nuevos roles surgen con la digitalización?",
+      "respuesta": "Data Scientist, Ingeniero de IoT, Especialista en Ciberseguridad industrial, Analista de operaciones inteligentes (diap. 17)."
+    },
+    {
+      "pregunta": "¿Cómo contribuye la digitalización al desarrollo sostenible?",
+      "respuesta": "Uso eficiente de recursos, reducción de desperdicios, modelos circulares, transparencia y trazabilidad (diap. 22)."
+    }
+  ],
+  "fuentes": [
+    "Digitalización Tema 1.pdf (Canvas 76010, file 8450764; copia en Drive) — 24 diapositivas, texto extraído con pdftotext (no requirió OCR)"
+  ]
+}

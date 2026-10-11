@@ -1,0 +1,26 @@
+{
+ "version": "20261011024821",
+ "real": true,
+ "asignaturas": [
+  {
+   "asignatura": "DIGITALIZACIÓN APLICADA A LOS SECTORES PRODUCTIVOS (GS)(B)",
+   "slug": "digitalizacion",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Digitalización en los sectores productivos",
+     "file": "data/digitalizacion/tema-1.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Tecnologías Digitales Habilitadoras",
+     "file": "data/digitalizacion/tema-2.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    }
+   ]
+  }
+ ]
+}

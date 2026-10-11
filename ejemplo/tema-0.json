@@ -1,0 +1,7 @@
+{"asignatura":"Ejemplo","tema":0,"titulo":"EJEMPLO — Tema de prueba (borrar)","ejemplo":true,
+"resumen":"EJEMPLO. Este tema solo sirve para comprobar que la app se ve bien. Se oculta automáticamente cuando existan apuntes reales.\n\nSegundo párrafo de ejemplo sobre jerarquía tipográfica y retícula.",
+"conceptos":[{"termino":"Jerarquía tipográfica (EJEMPLO)","definicion":"Organización del texto por tamaño, peso y espacio para guiar la lectura.","fuente":"Apuntes de ejemplo, p. 1"},{"termino":"Marketing mix (EJEMPLO)","definicion":"Producto, precio, distribución y comunicación.","fuente":"Kotler (ejemplo)"}],
+"tablas":[{"titulo":"Comparativa de ejemplo","columnas":["Elemento","Función","Ejemplo","Nota","Extra"],"filas":[["Tipografía","Comunicar","Helvetica","Neutra","—"],["Color","Emocionar","Rojo","Urgencia","—"]]}],
+"esquemas":[{"titulo":"Proceso de diseño (EJEMPLO)","pasos":["Briefing","Investigación","Ideación","Prototipo","Entrega"]}],
+"tarjetas":[{"pregunta":"¿Qué son las 4P? (EJEMPLO)","respuesta":"Producto, precio, plaza y promoción."},{"pregunta":"¿Qué es la retícula? (EJEMPLO)","respuesta":"Estructura de columnas y márgenes que ordena la página."}],
+"fuentes":["Fuente de ejemplo — no real"]}

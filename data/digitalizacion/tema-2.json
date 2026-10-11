@@ -1,0 +1,374 @@
+{
+  "asignatura": "DIGITALIZACIÓN APLICADA A LOS SECTORES PRODUCTIVOS (GS)(B)",
+  "tema": 2,
+  "titulo": "Tecnologías Digitales Habilitadoras",
+  "resumen": "Las TDH son herramientas clave para la transformación digital y permiten nuevos modelos de negocio en la Industria 4.0 (diap. 3).\nSon transversales, modernizadoras, eficientes e innovadoras; lo importante es combinarlas (diap. 3-4).\nSe estudian IA, IoT, 5G y fibra óptica, nube y Big Data, DLT y blockchain (diap. 5-9).\nTambién realidades inmersivas (holograma, háptica, RV, RA, metaverso), robótica colaborativa y gemelos digitales (diap. 11-13).\nLa ciberseguridad garantiza confidencialidad, integridad y disponibilidad, y se distingue en IT y OT (diap. 14).\nLos sistemas digitalizados convierten información analógica en digital (diap. 15).\nSu implantación mejora la eficiencia y ayuda a anticiparse a problemas en industria, finanzas, automoción, sanidad, educación y comercio (diap. 16).",
+  "conceptos": [
+    {
+      "termino": "Tecnologías Digitales Habilitadoras (TDH)",
+      "definicion": "Son herramientas clave para la transformación digital. Permiten nuevos modelos de negocio dentro de la Industria 4.0.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 3"
+    },
+    {
+      "termino": "Inteligencia Artificial (IA)",
+      "definicion": "La IA es la capacidad de las máquinas para aprender, razonar y tomar decisiones a partir de los datos.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 5"
+    },
+    {
+      "termino": "Internet de las Cosas (IoT)",
+      "definicion": "Conecta objetos físicos a Internet mediante sensores y software. Permite recopilar y analizar datos en tiempo real.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 6"
+    },
+    {
+      "termino": "5G",
+      "definicion": "nueva generación de redes móviles. Conexión móvil inalámbrica.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 7"
+    },
+    {
+      "termino": "Latencia",
+      "definicion": "tiempo que tarda la información en ir desde tu dispositivo hasta el servidor y volver",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 7"
+    },
+    {
+      "termino": "Fibra óptica",
+      "definicion": "transmisión de datos mediante pulsos de luz, estable y rápida. Conexión mediante cable de fibra.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 7"
+    },
+    {
+      "termino": "Computación en la nube (Cloud computing)",
+      "definicion": "Permite usar servicios informáticos a través de Internet. Aporta flexibilidad y ahorro de costes.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 8"
+    },
+    {
+      "termino": "Big Data",
+      "definicion": "Analiza grandes volúmenes de datos para detectar patrones y tendencias. Mejora la toma de decisiones empresariales.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 8"
+    },
+    {
+      "termino": "DLT (Tecnología de Registro Distribuido)",
+      "definicion": "Es una tecnología que permite guardar la misma información en varios equipos de una red.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 9"
+    },
+    {
+      "termino": "Blockchain",
+      "definicion": "Es un tipo de DLT que organiza la información en bloques conectados entre sí, formando una cadena.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 9"
+    },
+    {
+      "termino": "Realidades inmersivas",
+      "definicion": "Se ocupan de replicar el mundo real a través de una experiencia digitalizada.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 11"
+    },
+    {
+      "termino": "Robótica colaborativa",
+      "definicion": "Robots que trabajan junto a personas de forma segura y cooperativa. Siempre bajo supervisión humana.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 12"
+    },
+    {
+      "termino": "Gemelos digitales",
+      "definicion": "Réplicas virtuales de objetos, procesos o instalaciones reales. Permiten simular y predecir resultados antes de fabricar o construir.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 13"
+    },
+    {
+      "termino": "Ciberseguridad",
+      "definicion": "La ciberseguridad es el conjunto de medidas y tecnologías destinadas a proteger los sistemas, redes y datos frente a accesos no autorizados, ataques o amenazas.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 14"
+    },
+    {
+      "termino": "Sistema digitalizado",
+      "definicion": "Un sistema digitalizado es una agrupación de tecnologías y procesos que convierten los datos o la información analógica en información digital.",
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 15"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Características principales de las TDH",
+      "columnas": [
+        "Característica",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Transversales",
+          "se aplican en todos los sectores (salud, automoción, educación...)"
+        ],
+        [
+          "Modernizadoras",
+          "mejoran calidad de productos y servicios"
+        ],
+        [
+          "Eficientes",
+          "aumentan productividad y reducen costes"
+        ],
+        [
+          "Innovadoras",
+          "impulsan nuevos modelos de negocio"
+        ]
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 4"
+    },
+    {
+      "titulo": "TDH y ejemplos de clase",
+      "columnas": [
+        "Tecnología",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "IA",
+          "Spotify usa IA para crear playlists personalizadas"
+        ],
+        [
+          "IoT",
+          "Zara usa sensores IoT para controlar el stock"
+        ],
+        [
+          "5G",
+          "Marcas de coches muestran test drives virtuales en ferias"
+        ],
+        [
+          "Nube",
+          "Canva permite crear y editar diseños desde Internet"
+        ],
+        [
+          "Big Data",
+          "Netflix recomienda series; Amazon predice compras"
+        ],
+        [
+          "Robótica colaborativa",
+          "Robots de Amazon en almacenes; robots camareros en hoteles"
+        ],
+        [
+          "Gemelos digitales",
+          "Visualizar un edificio antes de construirlo; probar un motor virtualmente"
+        ]
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 5-8, 12-13"
+    },
+    {
+      "titulo": "DLT vs. Blockchain",
+      "columnas": [
+        "Tecnología",
+        "Qué es"
+      ],
+      "filas": [
+        [
+          "DLT",
+          "tecnología para compartir un registro entre varios equipos"
+        ],
+        [
+          "Blockchain",
+          "un tipo de DLT que organiza ese registro en bloques encadenados"
+        ]
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 9"
+    },
+    {
+      "titulo": "Tipos de realidades inmersivas",
+      "columnas": [
+        "Tipo",
+        "Descripción",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Holograma",
+          "imagen óptica lograda a través de la luz que genera un láser; imagen en tres dimensiones",
+          "Samsung & LG: presentaciones con hologramas 3D"
+        ],
+        [
+          "Tecnología háptica",
+          "simula respuestas táctiles mediante dispositivos electrónicos (tacto 3D)",
+          "Guante que permite sentir el peso o tacto de un objeto virtual"
+        ],
+        [
+          "Realidad Virtual",
+          "Crea entornos digitales en 3D; se experimenta con gafas cascos",
+          "Gucci Town en Roblox"
+        ],
+        [
+          "Realidad Aumentada",
+          "Añade elementos digitales al mundo real (móviles, QR, apps)",
+          "Ikea Place"
+        ],
+        [
+          "Metaverso",
+          "mundo de realidad virtual donde es posible interactuar con otras personas y objetos",
+          "Fornite"
+        ]
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 11"
+    },
+    {
+      "titulo": "Objetivos de la ciberseguridad",
+      "columnas": [
+        "Principio",
+        "Significado"
+      ],
+      "filas": [
+        [
+          "Confidencialidad",
+          "solo acceden a la información las personas autorizadas"
+        ],
+        [
+          "Integridad",
+          "la información no se modifica de forma no autorizada"
+        ],
+        [
+          "Disponibilidad",
+          "los sistemas y datos están disponibles cuando se necesitan"
+        ]
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 14"
+    },
+    {
+      "titulo": "Ciberseguridad IT vs. OT",
+      "columnas": [
+        "Ámbito",
+        "Qué gestiona",
+        "Qué protege la ciberseguridad"
+      ],
+      "filas": [
+        [
+          "IT",
+          "gestiona información",
+          "los ordenadores, servidores y datos de una empresa"
+        ],
+        [
+          "OT",
+          "controla procesos físicos",
+          "los sistemas que controlan las máquinas y procesos de una fábrica"
+        ]
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 14"
+    },
+    {
+      "titulo": "Beneficios de las TDH por sector",
+      "columnas": [
+        "Sector",
+        "Beneficio"
+      ],
+      "filas": [
+        [
+          "Industria",
+          "sensores + machine learning detectan anomalías y predicen fallos"
+        ],
+        [
+          "Finanzas",
+          "blockchain registra y verifica operaciones de forma segura"
+        ],
+        [
+          "Automoción",
+          "Edge Computing procesa datos en tiempo real para detectar peatones u obstáculos"
+        ],
+        [
+          "Sanidad",
+          "sensores miden constantes vitales en tiempo real"
+        ],
+        [
+          "Educación",
+          "simuladores y realidades inmersivas para practicar sin riesgos"
+        ],
+        [
+          "Comercio y logística",
+          "IoT controla inventarios; IA predice la demanda"
+        ]
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 16"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Cómo funciona blockchain",
+      "pasos": [
+        "La información se organiza en bloques conectados entre sí, formando una cadena",
+        "Cada bloque está conectado al anterior mediante una huella digital (hash)",
+        "Si alguien modifica la información, el cambio puede detectarse"
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 9"
+    },
+    {
+      "titulo": "Sistema digitalizado",
+      "pasos": [
+        "Convierte datos analógicos en digitales",
+        "Facilita almacenamiento, edición y análisis en tiempo real",
+        "Mejora la precisión y reduce tiempos de trabajo"
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 15"
+    },
+    {
+      "titulo": "Las TDH ayudan a las empresas a",
+      "pasos": [
+        "Modernizar procesos",
+        "Mejorar productividad",
+        "Innovar y ser más competitivas"
+      ],
+      "fuente": "Digitalización Tema 2.pdf (Canvas 76010, file 8536552), diap. 3"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué son las TDH?",
+      "respuesta": "Herramientas clave para la transformación digital que permiten nuevos modelos de negocio en la Industria 4.0 (diap. 3)."
+    },
+    {
+      "pregunta": "¿Cuáles son las 4 características de las TDH?",
+      "respuesta": "Transversales, modernizadoras, eficientes e innovadoras (diap. 4)."
+    },
+    {
+      "pregunta": "¿Una sola tecnología lo cambia todo?",
+      "respuesta": "No: lo importante es combinarlas (diap. 3)."
+    },
+    {
+      "pregunta": "Define IA según el tema.",
+      "respuesta": "Capacidad de las máquinas para aprender, razonar y tomar decisiones a partir de los datos (diap. 5)."
+    },
+    {
+      "pregunta": "¿Para qué se usa la IA en marketing?",
+      "respuesta": "Para personalizar campañas y automatizar comunicaciones (diap. 5)."
+    },
+    {
+      "pregunta": "¿Qué es la latencia?",
+      "respuesta": "Tiempo que tarda la información en ir desde tu dispositivo hasta el servidor y volver (diap. 7)."
+    },
+    {
+      "pregunta": "Diferencia entre 5G y fibra óptica.",
+      "respuesta": "5G: conexión móvil inalámbrica; fibra: transmisión por pulsos de luz mediante cable (diap. 7)."
+    },
+    {
+      "pregunta": "Diferencia entre DLT y blockchain.",
+      "respuesta": "DLT comparte un registro entre varios equipos; blockchain es un tipo de DLT que lo organiza en bloques encadenados (diap. 9)."
+    },
+    {
+      "pregunta": "¿Qué conecta cada bloque con el anterior en blockchain?",
+      "respuesta": "Una huella digital (hash) (diap. 9)."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre RV y RA?",
+      "respuesta": "RV crea entornos digitales 3D (gafas/cascos); RA añade elementos digitales al mundo real (diap. 11)."
+    },
+    {
+      "pregunta": "¿Qué es la tecnología háptica?",
+      "respuesta": "Simula respuestas táctiles mediante dispositivos electrónicos; también llamada tacto 3D (diap. 11)."
+    },
+    {
+      "pregunta": "¿Qué caracteriza a la robótica colaborativa?",
+      "respuesta": "Robots que trabajan junto a personas de forma segura y cooperativa, siempre bajo supervisión humana (diap. 12)."
+    },
+    {
+      "pregunta": "¿Qué garantiza la ciberseguridad?",
+      "respuesta": "Confidencialidad, integridad y disponibilidad (diap. 14)."
+    },
+    {
+      "pregunta": "IT vs. OT en una frase.",
+      "respuesta": "IT gestiona información; OT controla procesos físicos (diap. 14)."
+    },
+    {
+      "pregunta": "¿Qué es un sistema digitalizado? Pon un ejemplo.",
+      "respuesta": "Agrupación de tecnologías y procesos que convierten información analógica en digital; ej.: facturación electrónica automatizada (diap. 15)."
+    }
+  ],
+  "fuentes": [
+    "Digitalización Tema 2.pdf (Canvas 76010, file 8536552) — 19 diapositivas, texto extraído con pdftotext (no requirió OCR)"
+  ]
+}
