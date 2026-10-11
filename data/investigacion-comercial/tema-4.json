@@ -1,0 +1,147 @@
+{
+  "asignatura": "INICIACIÓN A INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 4,
+  "titulo": "Organización de la información secundaria disponible",
+  "resumen": "La investigación empieza por las fuentes secundarias (INE, CIS, EUROSTAT, informes…) (p. 3).\nLa curación de contenidos busca, organiza, valora y comparte información; herramientas como Feedly, Hootsuite, Pocket o Flipboard (p. 4-8).\nLos datos secundarios deben ser relevantes y conocer su metodología; son asíncronos (p. 9).\nEl análisis puede ser cuantitativo/descriptivo o cualitativo/explicativo; el informe tiene apartados fijos (p. 10-11).\nHerramientas de inteligencia: Data Warehousing, cubos OLAP, Data Mining y Big Data (p. 11-12).",
+  "conceptos": [
+    {
+      "termino": "Curación de contenidos",
+      "definicion": "La curación de contenidos consiste en buscar, agrupar, organizar, valorar y compartir online datos o información.",
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 4 del PDF"
+    },
+    {
+      "termino": "Content curators",
+      "definicion": "Los profesionales dedicados a esta tarea se denominan content curators, se encargan de realizar un análisis crítico para identificar si el contenido encaja en el contexto requerido.",
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 4 del PDF"
+    },
+    {
+      "termino": "Análisis cuantitativo o descriptivo",
+      "definicion": "es un análisis objetivo que se fundamenta en datos cuantificables y estadísticamente medibles.",
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 10 del PDF"
+    },
+    {
+      "termino": "Análisis cualitativo o explicativo",
+      "definicion": "es un análisis de datos subjetivos que indican y explican las causas de un efecto.",
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 10 del PDF"
+    },
+    {
+      "termino": "Data Mining",
+      "definicion": "consiste en el análisis de grandes volúmenes de datos para extraer patrones que representen estructuras comprensibles para su uso posterior.",
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 12 del PDF"
+    },
+    {
+      "termino": "Big Data",
+      "definicion": "hace referencia al tratamiento de volúmenes masivos de datos, generalmente una mezcla de datos estructurados (bases de datos, hojas de cálculo…) y no estructurados",
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 12 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Herramientas de curación de contenidos",
+      "columnas": [
+        "Herramienta",
+        "Uso"
+      ],
+      "filas": [
+        [
+          "Feedly",
+          "curación enfocada a investigación, marketing y ventas"
+        ],
+        [
+          "Hootsuite",
+          "gestionar todas las redes sociales"
+        ],
+        [
+          "Pocket",
+          "recopila artículos y noticias de un tema"
+        ],
+        [
+          "Flipboard",
+          "curación de contenidos"
+        ]
+      ],
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 5-8 del PDF"
+    },
+    {
+      "titulo": "Análisis cuantitativo vs cualitativo",
+      "columnas": [
+        "Tipo",
+        "Ejemplos"
+      ],
+      "filas": [
+        [
+          "Cuantitativo",
+          "seguidores en Twitter, fans en Facebook, tráfico en un blog"
+        ],
+        [
+          "Cualitativo",
+          "procedencia de seguidores, rebote, comentarios, palabras clave"
+        ]
+      ],
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 10 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Apartados del informe",
+      "pasos": [
+        "Antecedentes",
+        "Objetivos del estudio",
+        "Metodología",
+        "Resultados",
+        "Conclusiones",
+        "Recomendaciones"
+      ],
+      "fuente": "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938), p. 11 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué fuentes se consultan primero?",
+      "respuesta": "Las secundarias (p. 3)."
+    },
+    {
+      "pregunta": "Organismos estadísticos citados.",
+      "respuesta": "INE, CIS y EUROSTAT (p. 3)."
+    },
+    {
+      "pregunta": "Define curación de contenidos.",
+      "respuesta": "Buscar, agrupar, organizar, valorar y compartir información online (p. 4)."
+    },
+    {
+      "pregunta": "¿Quién es el mejor curador?",
+      "respuesta": "El investigador con su criterio (p. 8)."
+    },
+    {
+      "pregunta": "¿Qué significa que los datos secundarios son asíncronos?",
+      "respuesta": "Que no coinciden en el tiempo con la investigación (p. 9)."
+    },
+    {
+      "pregunta": "Análisis cuantitativo.",
+      "respuesta": "Objetivo, con datos cuantificables (p. 10)."
+    },
+    {
+      "pregunta": "Análisis cualitativo.",
+      "respuesta": "Datos subjetivos que explican causas (p. 10)."
+    },
+    {
+      "pregunta": "Apartados del informe.",
+      "respuesta": "Antecedentes, objetivos, metodología, resultados, conclusiones y recomendaciones (p. 11)."
+    },
+    {
+      "pregunta": "¿Por qué se llama 'cubo' OLAP?",
+      "respuesta": "Porque permite un análisis multidimensional (p. 11)."
+    },
+    {
+      "pregunta": "Herramientas de Data Mining.",
+      "respuesta": "SPSS Clementine, R, SAS Enterprise Miner (p. 12)."
+    },
+    {
+      "pregunta": "¿Qué mezcla el Big Data?",
+      "respuesta": "Datos estructurados y no estructurados (p. 12)."
+    }
+  ],
+  "fuentes": [
+    "UD4-Organización de la información secundaria disponible.pdf (Canvas 75585, file 8333938) — 14 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "asignatura": "INICIACIÓN A TRABAJO DE CAMPO EN LA INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 7,
+  "titulo": "La encuesta y el cuestionario",
+  "resumen": "Encuestas: personal (PAPI, CAPI, MCAPI), telefónica (CATI) y online (CAWI) (p. 3-6).\nEl cuestionario es el instrumento de recogida de información primaria de la encuesta (p. 7).\nTipos: con encuestador o autónomos; no estructurados, semiestructurados o estructurados (p. 9-10).\nComposición: introducción, cuerpo y datos del encuestado; preguntas claras, imparciales y fáciles (p. 11-13).\nTipos de preguntas, pretest, desarrollo de la entrevista y códigos éticos (ICC/ESOMAR) (p. 13-18).",
+  "conceptos": [
+    {
+      "termino": "Cuestionario",
+      "definicion": "El cuestionario es el instrumento que se utiliza para recabar información primaria cuando se utiliza la técnica cuantitativa por excelencia, la encuesta",
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 7 del PDF"
+    },
+    {
+      "termino": "CATI",
+      "definicion": "consiste en la realización de una encuesta por teléfono donde el encuestador le irá leyendo las preguntas que aparecen en el ordenador o dispositivo móvil al encuestado",
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 5 del PDF"
+    },
+    {
+      "termino": "Cuestionarios semiestructurados",
+      "definicion": "se combinan preguntas abiertas y cerradas.",
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 9 del PDF"
+    },
+    {
+      "termino": "Cuestionarios estructurados",
+      "definicion": "se utilizan en estudios concluyentes donde ya tengamos información del tema y queramos aprobar o refutar una hipótesis.",
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 9 del PDF"
+    },
+    {
+      "termino": "Preguntas filtro",
+      "definicion": "nos ayuda a agrupar personas que presentan unas mismas características.",
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 14 del PDF"
+    },
+    {
+      "termino": "Batería de preguntas",
+      "definicion": "preguntas que tratan de un mismo tema y que se van siguiendo la una a la otra para completar el tema a investigar.",
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 14 del PDF"
+    },
+    {
+      "termino": "ESOMAR",
+      "definicion": "ESOMAR es la Sociedad Europea de Opinión e Investigación de Mercados, que se creó en 1947 y la encargada de regularizar este tipo de investigaciones.",
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 18 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "CAPI: ventajas e inconvenientes",
+      "columnas": [
+        "Ventajas",
+        "Inconvenientes"
+      ],
+      "filas": [
+        [
+          "todo tipo de preguntas; material de apoyo",
+          "limitaciones geográficas"
+        ],
+        [
+          "mejor análisis por automatización; sin errores de grabación",
+          "alto presupuesto"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 3 del PDF"
+    },
+    {
+      "titulo": "Tipos de preguntas",
+      "columnas": [
+        "Tipo",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Abiertas",
+          "total libertad para contestar"
+        ],
+        [
+          "Cerradas",
+          "se elige una o varias opciones dadas"
+        ],
+        [
+          "Una única respuesta",
+          "dicotómicas o multicotómicas"
+        ],
+        [
+          "Múltiple respuesta",
+          "varias respuestas en una pregunta"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 13-14 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Composición del cuestionario",
+      "pasos": [
+        "Introducción: el encuestador se presenta y pide colaboración",
+        "Cuerpo: las preguntas",
+        "Datos de la persona encuestada: sexo, edad, ingresos, residencia…"
+      ],
+      "fuente": "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457), p. 11 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Define cuestionario.",
+      "respuesta": "Instrumento para recabar información primaria en la encuesta (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué es CATI?",
+      "respuesta": "Encuesta telefónica asistida por ordenador (p. 5)."
+    },
+    {
+      "pregunta": "Inconvenientes de CAPI.",
+      "respuesta": "Limitaciones geográficas y alto presupuesto (p. 3)."
+    },
+    {
+      "pregunta": "Ventaja extra de MCAPI.",
+      "respuesta": "Se puede hacer en cualquier zona porque los dispositivos son móviles (p. 4)."
+    },
+    {
+      "pregunta": "Problema de la encuesta online.",
+      "respuesta": "No sabemos si quien responde es la persona seleccionada (p. 6)."
+    },
+    {
+      "pregunta": "Ventaja del cuestionario autónomo.",
+      "respuesta": "Ahorro: no hay que contratar ni formar encuestadores (p. 9)."
+    },
+    {
+      "pregunta": "¿Cuándo se usan los cuestionarios no estructurados?",
+      "respuesta": "En investigaciones exploratorias (p. 9)."
+    },
+    {
+      "pregunta": "Partes del cuestionario.",
+      "respuesta": "Introducción, cuerpo y datos del encuestado (p. 11)."
+    },
+    {
+      "pregunta": "¿Pregunta dicotómica?",
+      "respuesta": "Solo dos opciones, p. ej. ¿Te gusta leer? Sí/No (p. 14)."
+    },
+    {
+      "pregunta": "¿Para qué sirve el pretest?",
+      "respuesta": "Probar el cuestionario en real y corregir problemas (p. 16)."
+    },
+    {
+      "pregunta": "¿Quién regula la ética de la investigación comercial?",
+      "respuesta": "La Cámara Internacional de Comercio y ESOMAR (p. 18)."
+    }
+  ],
+  "fuentes": [
+    "TCICO-MYP-UD7 La Encuesta y el Cuestionario.pdf (Canvas 75802, file 8341457) — 20 páginas, texto con pdftotext (no requirió OCR; última página en blanco)",
+    "UD7. La encuesta y el cuestionario.pptx (file 8341459) (presentación de apoyo del mismo tema, no citada ítem a ítem)"
+  ]
+}

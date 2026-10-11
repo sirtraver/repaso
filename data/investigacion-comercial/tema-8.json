@@ -1,0 +1,113 @@
+{
+  "asignatura": "INICIACIÓN A INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 8,
+  "titulo": "Gestión de bases de datos relacionales",
+  "resumen": "Una base de datos almacena información temática para poder extraerla (p. 3).\nEstá formada por ficheros, registros y campos; en Access se organiza en tablas, consultas… (p. 3).\nDiseño, búsquedas simples y avanzadas, y consultas dirigidas (p. 4).\nMantenimiento: comprobar la información, actualizaciones estadísticas y copias de seguridad (p. 5).\nFormularios e informes mejoran la presentación de los datos (p. 6).",
+  "conceptos": [
+    {
+      "termino": "Base de datos",
+      "definicion": "Es un conjunto, un depósito de información o archivos con temáticas concreta que tienen el objetivo de almacenar y poder extraer partes del mismo con determinados formatos.",
+      "fuente": "UD 8. Bases de datos.pdf (Canvas 75585, file 8333919), p. 3 del PDF"
+    },
+    {
+      "termino": "Sistemas de gestión de bases de datos",
+      "definicion": "son programas de software para la administración del conjunto de datos que almacenan.",
+      "fuente": "UD 8. Bases de datos.pdf (Canvas 75585, file 8333919), p. 3 del PDF"
+    },
+    {
+      "termino": "Búsqueda simple",
+      "definicion": "Una búsqueda simple es el intento de localizar la información, se realiza de forma directa y sencilla entre todas las opciones disponibles del buscador de la base de datos.",
+      "fuente": "UD 8. Bases de datos.pdf (Canvas 75585, file 8333919), p. 4 del PDF"
+    },
+    {
+      "termino": "Búsquedas avanzadas",
+      "definicion": "Las búsquedas avanzadas seleccionan, buscan con más parámetros y medidas, exponiendo limitaciones a determinados campos",
+      "fuente": "UD 8. Bases de datos.pdf (Canvas 75585, file 8333919), p. 4 del PDF"
+    },
+    {
+      "termino": "Informes",
+      "definicion": "Los informes por su parte son consultas a las que hemos mejorado su aspecto estético o de presentación.",
+      "fuente": "UD 8. Bases de datos.pdf (Canvas 75585, file 8333919), p. 6 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Estructura de una base de datos",
+      "columnas": [
+        "Elemento",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Fichero",
+          "un fichero de clientes"
+        ],
+        [
+          "Registro",
+          "el cliente López"
+        ],
+        [
+          "Campo",
+          "el teléfono del cliente López"
+        ]
+      ],
+      "fuente": "UD 8. Bases de datos.pdf (Canvas 75585, file 8333919), p. 3 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Mantenimiento de la base de datos",
+      "pasos": [
+        "Comprobar que la información permanece de forma óptima",
+        "Actualizaciones estadísticas",
+        "Copias de seguridad"
+      ],
+      "fuente": "UD 8. Bases de datos.pdf (Canvas 75585, file 8333919), p. 5 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Define base de datos.",
+      "respuesta": "Un depósito de información temática para almacenar y extraer partes (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué hace un SGBD?",
+      "respuesta": "Administra los datos: manipular, incorporar, actualizar, visualizar y recuperar (p. 3)."
+    },
+    {
+      "pregunta": "Fichero, registro y campo.",
+      "respuesta": "Conjunto similar, unidad básica y unidad elemental (p. 3)."
+    },
+    {
+      "pregunta": "Ejemplo de registro.",
+      "respuesta": "El cliente López (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué es la estructura?",
+      "respuesta": "El orden necesario para acceder a la información (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué son las tablas en Access?",
+      "respuesta": "El lugar para almacenar los datos (p. 3)."
+    },
+    {
+      "pregunta": "Búsqueda simple vs avanzada.",
+      "respuesta": "Directa y sencilla vs con más parámetros 'a medida' (p. 4)."
+    },
+    {
+      "pregunta": "Acciones de mantenimiento.",
+      "respuesta": "Comprobar la información, actualizaciones estadísticas y copias de seguridad (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué aportan los formularios?",
+      "respuesta": "Los mismos datos que una tabla pero mejor presentados (p. 6)."
+    },
+    {
+      "pregunta": "¿Qué son los informes?",
+      "respuesta": "Consultas con mejor presentación para visualizar los datos (p. 6)."
+    }
+  ],
+  "fuentes": [
+    "UD 8. Bases de datos.pdf (Canvas 75585, file 8333919) — 8 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)"
+  ]
+}

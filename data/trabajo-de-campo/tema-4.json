@@ -1,0 +1,151 @@
+{
+  "asignatura": "INICIACIÓN A TRABAJO DE CAMPO EN LA INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 4,
+  "titulo": "Configuración del equipo de trabajo de campo",
+  "resumen": "Ejecutarlo internamente o externalizarlo depende de presupuesto, recursos, experiencia y objetividad (p. 3).\nEl número de encuestadores depende del tema, tamaño de la muestra, acceso, timing y presupuesto (p. 4).\nPerfiles: coordinadores (de proyecto, de campo, de recogida), supervisores y encuestadores/moderadores (p. 6-7).\nCaracterísticas del equipo: habilidades sociales, aceptar críticas, nivel cultural, conocimientos y responsabilidad (p. 8).\nSelección: análisis de candidaturas, entrevistas y comunicación; el profesiograma resume el puesto (p. 9-10).",
+  "conceptos": [
+    {
+      "termino": "Profesiograma",
+      "definicion": "El profesiograma es un documento de trabajo que reúne las características y aptitudes que la empresa necesita para cubrir un puesto de trabajo.",
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 10 del PDF"
+    },
+    {
+      "termino": "Coordinador de proyecto",
+      "definicion": "encargado de planificar y gestionar la fase del trabajo de campo",
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 6 del PDF"
+    },
+    {
+      "termino": "Coordinador de campo",
+      "definicion": "el coordinador de proyecto (anterior perfil) es el que establece la estrategia de coordinación y el coordinador de campo es el que la ejecuta.",
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 6 del PDF"
+    },
+    {
+      "termino": "Supervisores de campo",
+      "definicion": "son los responsables de controlar los cuestionarios realizados, revisando total o parcialmente los mismos.",
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 7 del PDF"
+    },
+    {
+      "termino": "Encuestadores, moderadores",
+      "definicion": "son las personas responsables de contactar con los participantes de la investigación, con las personas que forman parte de la muestra.",
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 7 del PDF"
+    },
+    {
+      "termino": "Presupuesto (tamaño del equipo)",
+      "definicion": "es el aspecto más importante que considerar y el que terminará delimitando la cantidad de personas que podremos contratar",
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 4 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Interno vs agencia especializada",
+      "columnas": [
+        "Criterio",
+        "Idea clave"
+      ],
+      "filas": [
+        [
+          "Presupuesto",
+          "¿es más rentable contratar una empresa especializada o hacerlo uno mismo?"
+        ],
+        [
+          "Recursos disponibles",
+          "el personal propio deja otras actividades"
+        ],
+        [
+          "Experiencia",
+          "las agencias aprovechan bases de datos y profesionales"
+        ],
+        [
+          "Objetividad",
+          "las agencias aportan más objetividad y ausencia de sesgo"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 3 del PDF"
+    },
+    {
+      "titulo": "Factores del número de encuestadores",
+      "columnas": [
+        "Factor"
+      ],
+      "filas": [
+        [
+          "Tema de la investigación"
+        ],
+        [
+          "Número de personas de la muestra"
+        ],
+        [
+          "Acceso a la muestra"
+        ],
+        [
+          "Timing"
+        ],
+        [
+          "Presupuesto"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 4 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Fases del proceso de selección",
+      "pasos": [
+        "Análisis de candidaturas",
+        "Entrevistas",
+        "Comunicación a los seleccionados"
+      ],
+      "fuente": "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463), p. 9 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué es el profesiograma?",
+      "respuesta": "Un documento con las características y aptitudes necesarias para un puesto (p. 10)."
+    },
+    {
+      "pregunta": "4 criterios para externalizar.",
+      "respuesta": "Presupuesto, recursos disponibles, experiencia y objetividad (p. 3)."
+    },
+    {
+      "pregunta": "¿Por qué las agencias aportan objetividad?",
+      "respuesta": "Porque no están implicadas directamente en los proyectos de la empresa (p. 3)."
+    },
+    {
+      "pregunta": "Factor más importante para el tamaño del equipo.",
+      "respuesta": "El presupuesto (p. 4)."
+    },
+    {
+      "pregunta": "¿Cómo influye el timing?",
+      "respuesta": "El plazo condiciona el número de trabajadores (p. 4)."
+    },
+    {
+      "pregunta": "Coordinador de proyecto vs de campo.",
+      "respuesta": "El de proyecto fija la estrategia; el de campo la ejecuta (p. 6)."
+    },
+    {
+      "pregunta": "¿Qué hacen los supervisores de recogida de datos?",
+      "respuesta": "Revisan fiabilidad, veracidad y validez antes del análisis (p. 7)."
+    },
+    {
+      "pregunta": "¿Por qué deben aceptar críticas y fracaso?",
+      "respuesta": "Habrá personas reacias a participar (p. 8)."
+    },
+    {
+      "pregunta": "Nivel cultural requerido.",
+      "respuesta": "Medio, con comunicación oral y escrita y cálculos sencillos (p. 8)."
+    },
+    {
+      "pregunta": "Fases de selección.",
+      "respuesta": "Análisis de candidaturas, entrevistas y comunicación (p. 9)."
+    },
+    {
+      "pregunta": "Puesto del ejemplo de profesiograma.",
+      "respuesta": "Ejecutivo de Cuentas Digital en agencia de publicidad (p. 10)."
+    }
+  ],
+  "fuentes": [
+    "TCICO-MYP-UD4-Configuracion del equipo.pdf (Canvas 75802, file 8341463) — 12 páginas, texto con pdftotext (no requirió OCR; última página en blanco)",
+    "UD4. Configuracion del equipo de trabajo de campo.pptx (file 8341464) (presentación de apoyo del mismo tema, no citada ítem a ítem)"
+  ]
+}

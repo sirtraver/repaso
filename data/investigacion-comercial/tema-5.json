@@ -1,0 +1,154 @@
+{
+  "asignatura": "INICIACIÓN A INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 5,
+  "titulo": "Obtención de información primaria",
+  "resumen": "Las técnicas de recogida son personales o mecánicas, directas o indirectas (p. 3).\nCualitativas: entrevistas en profundidad, focus group, técnicas proyectivas, de creatividad y observación (p. 4-8).\nHay aparatos de observación como el pupilómetro o el psicogalvanómetro (p. 8).\nCuantitativas: encuestas (personal, postal, telefónica, online), paneles, observación y experimentación (p. 9-11).\nHerramientas CAPI, MCAPI, CATI y CAWI; diseño del cuestionario por fases y tipos de pregunta (p. 12-19).",
+  "conceptos": [
+    {
+      "termino": "Técnicas personales",
+      "definicion": "es la persona del investigador la que recaba directamente la información.",
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 3 del PDF"
+    },
+    {
+      "termino": "Cuestionario",
+      "definicion": "El cuestionario es un documento en el que se reflejan preguntas e instrucciones para realizar a las personas investigadas.",
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 9 del PDF"
+    },
+    {
+      "termino": "Encuesta personal",
+      "definicion": "Formulación de preguntas de forma directa entre entrevistador y entrevistado.",
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 9 del PDF"
+    },
+    {
+      "termino": "Encuesta postal",
+      "definicion": "Consiste en el envío del cuestionario junto las instrucciones, para su correcta cumplimentación, a los entrevistados.",
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 10 del PDF"
+    },
+    {
+      "termino": "Psicogalvanómetro",
+      "definicion": "aparato que mide el cambio de sudoración de una persona ante un estímulo.",
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 8 del PDF"
+    },
+    {
+      "termino": "Escala de LIKERT",
+      "definicion": "el que responde establece su grado de acuerdo o desacuerdo.",
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 18 del PDF"
+    },
+    {
+      "termino": "Diferenciales semánticos",
+      "definicion": "Se presentan dos afirmaciones opuestas expresadas normalmente con un adjetivo.",
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 19 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Herramientas informáticas de encuesta",
+      "columnas": [
+        "Sigla",
+        "Uso"
+      ],
+      "filas": [
+        [
+          "MCAPI",
+          "encuestas personales con móvil, tablet o iPad"
+        ],
+        [
+          "CATI",
+          "encuestas telefónicas con tabulación y análisis en tiempo real"
+        ],
+        [
+          "CAWI",
+          "diseño de encuestas online; se envía la dirección web"
+        ]
+      ],
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 12-13 del PDF"
+    },
+    {
+      "titulo": "Tipos de preguntas",
+      "columnas": [
+        "Tipo",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Abierta",
+          "libertad para contestar lo que desee"
+        ],
+        [
+          "Cerrada",
+          "elegir entre uno o varios ítems"
+        ],
+        [
+          "Dicotómica",
+          "Sí o No"
+        ],
+        [
+          "Likert",
+          "grado de acuerdo o desacuerdo"
+        ]
+      ],
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 18 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Diseño del cuestionario (fases citadas)",
+      "pasos": [
+        "Fase 2: decidir la modalidad (personal o online multidispositivo)",
+        "Fase 3: distribuir el contenido en bloques (ficha técnica, presentación, preguntas…)",
+        "Fase 5: comprobar el cuestionario antes de lanzarlo al target"
+      ],
+      "fuente": "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863), p. 17 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Técnicas personales vs mecánicas.",
+      "respuesta": "Recoge el investigador vs recogen herramientas (cámaras, formularios…) (p. 3)."
+    },
+    {
+      "pregunta": "Técnicas cualitativas.",
+      "respuesta": "Entrevistas en profundidad, focus group, proyectivas, creatividad y observación (p. 4)."
+    },
+    {
+      "pregunta": "Duración de la entrevista en profundidad.",
+      "respuesta": "Entre media hora y 2 horas (p. 4)."
+    },
+    {
+      "pregunta": "Finalidad del focus group.",
+      "respuesta": "Obtener la máxima información de cada participante (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué mide el pupilómetro?",
+      "respuesta": "El diámetro de la pupila (p. 8)."
+    },
+    {
+      "pregunta": "Técnicas cuantitativas.",
+      "respuesta": "Encuestas, paneles, observación y experimentación (p. 9)."
+    },
+    {
+      "pregunta": "Inconvenientes de la encuesta postal.",
+      "respuesta": "Baja respuesta, brevedad necesaria, puede contestar otro (p. 10)."
+    },
+    {
+      "pregunta": "¿Qué es el panel Dustbin Check?",
+      "respuesta": "Un panel de consumidores que guarda etiquetas (p. 11)."
+    },
+    {
+      "pregunta": "Ventaja de los cuestionarios online.",
+      "respuesta": "Estadísticas en tiempo real (p. 13)."
+    },
+    {
+      "pregunta": "Límite gratuito de Typeform.",
+      "respuesta": "Tres encuestas con un tope de 20 preguntas (p. 16)."
+    },
+    {
+      "pregunta": "Principal herramienta de información primaria cuantitativa.",
+      "respuesta": "El cuestionario (p. 16)."
+    }
+  ],
+  "fuentes": [
+    "UD5-Obtención de información primaria.pdf (Canvas 75585, file 8333863) — 33 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)",
+    "Unidad 5-investigacion.ppt (Canvas 75585, file 8333954): presentación de apoyo, 14 diapositivas solo imagen; no citada"
+  ]
+}

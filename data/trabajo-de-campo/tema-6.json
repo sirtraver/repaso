@@ -1,0 +1,132 @@
+{
+  "asignatura": "INICIACIÓN A TRABAJO DE CAMPO EN LA INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 6,
+  "titulo": "Sistemas de motivación y remuneración del equipo de trabajo de campo",
+  "resumen": "La motivación es intrínseca (factores de motivación) o extrínseca (factores de higiene) (p. 3).\nSe promueve con entorno positivo, confianza y promoción, y compensaciones (p. 4).\nModelos de dirección: por instrucciones (Taylor), por objetivos (Drucker), por valores y por misiones (p. 5-6).\nToma de decisiones: exponer propuestas y luego intercambiar opiniones con técnicas como boomerang o reformulación (p. 7-8).\nRetribución: fija o por horas, variable o por rendimiento, y un tercer sistema (p. 13-14).",
+  "conceptos": [
+    {
+      "termino": "Motivación intrínseca",
+      "definicion": "es la motivación que tenemos nosotros mismos, la que nos empuja a conseguir las metas o deseos que queremos satisfacer.",
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 3 del PDF"
+    },
+    {
+      "termino": "Motivación extrínseca",
+      "definicion": "el origen de esta motivación no parte de nosotros sino del entorno que nos rodea.",
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 3 del PDF"
+    },
+    {
+      "termino": "Dirección por objetivos",
+      "definicion": "consiste en que los miembros directivos junto con sus empleados marquen los objetivos a conseguir y el plazo de tiempo que se dedicará a ello.",
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 5 del PDF"
+    },
+    {
+      "termino": "Dirección por valores",
+      "definicion": "el objetivo de este modelo es que los directivos integren la dimensión personal a cada trabajador",
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 6 del PDF"
+    },
+    {
+      "termino": "Técnica boomerang",
+      "definicion": "cuando el equipo de trabajo formule una objeción a nuestra propuesta, la admitimos y la defendemos dándole un enfoque positivo.",
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 8 del PDF"
+    },
+    {
+      "termino": "Reformulación",
+      "definicion": "cuando se nos plantea una objeción a nuestra propuesta por la otra parte, nosotros la reformulamos, la volvemos a decir con otras palabras minimizando los aspectos negativos y reenfocándola positivamente.",
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 8 del PDF"
+    },
+    {
+      "termino": "Retribución variable o por rendimiento",
+      "definicion": "Se le paga al trabajador por el rendimiento o por la productividad real que haya realizado en el estudio.",
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 14 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Modelos de dirección",
+      "columnas": [
+        "Modelo",
+        "Origen / idea"
+      ],
+      "filas": [
+        [
+          "Por instrucciones",
+          "Taylor; tareas repetitivas o crisis"
+        ],
+        [
+          "Por objetivos",
+          "Peter Drucker, The Practice of Management"
+        ],
+        [
+          "Por valores",
+          "integrar la dimensión personal del trabajador"
+        ],
+        [
+          "Por misiones",
+          "la misión corporativa se divide en misiones"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 5-6 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Toma de decisiones en el equipo",
+      "pasos": [
+        "Exposición de puntos de vista y propuestas (genéricas, claras, con convencimiento, justificadas, única)",
+        "Intercambio de opiniones y ajustes (anticipación, boomerang, silencio, reformulación)",
+        "Consenso final"
+      ],
+      "fuente": "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456), p. 7-8 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Motivación intrínseca vs extrínseca.",
+      "respuesta": "Nace de uno mismo vs del entorno (p. 3)."
+    },
+    {
+      "pregunta": "Otro nombre de la motivación extrínseca.",
+      "respuesta": "Factores de higiene (p. 3)."
+    },
+    {
+      "pregunta": "Tres elementos para motivar al equipo.",
+      "respuesta": "Entorno positivo, confianza y promoción, compensaciones (p. 4)."
+    },
+    {
+      "pregunta": "¿De quién viene la dirección por instrucciones?",
+      "respuesta": "Frederick W. Taylor (p. 5)."
+    },
+    {
+      "pregunta": "¿Cuándo se usa la dirección por instrucciones?",
+      "respuesta": "Tareas repetitivas o situaciones de crisis (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué obra explica la dirección por objetivos?",
+      "respuesta": "The Practice of Management, de Peter Drucker (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué es la técnica boomerang?",
+      "respuesta": "Admitir la objeción y darle un enfoque positivo (p. 8)."
+    },
+    {
+      "pregunta": "¿Cuándo usar el silencio?",
+      "respuesta": "Cuando los argumentos contrarios son poco justificados (p. 8)."
+    },
+    {
+      "pregunta": "Retribución fija: riesgo.",
+      "respuesta": "Hay que controlar que se usen las horas en las tareas (p. 13)."
+    },
+    {
+      "pregunta": "¿Por qué puede ser injusto pagar por cuestionario?",
+      "respuesta": "No cuenta el tiempo de contactar o los rechazos (p. 14)."
+    },
+    {
+      "pregunta": "Principal factor de motivación profesional.",
+      "respuesta": "El sueldo y otros incentivos (p. 13)."
+    }
+  ],
+  "fuentes": [
+    "TCICO-MYP-UD6 Sistemas de Motivación y Remuneración del Equipo de Trabajo de Campo.pdf (Canvas 75802, file 8341456) — 16 páginas, texto con pdftotext (no requirió OCR; última página en blanco)",
+    "UD6. Sistemas de motivacion y remuneracion del equipo de trabajo de campo.pptx (file 8341470) (presentación de apoyo del mismo tema, no citada ítem a ítem)"
+  ]
+}

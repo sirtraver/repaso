@@ -25,9 +25,9 @@ p{margin:0 0 1em}
 .count b{display:block;font:600 26px/1 var(--serif);color:var(--acc)}
 .bar{height:3px;background:var(--line);margin-top:10px;max-width:220px}.bar i{display:block;height:100%;background:var(--acc)}
 .back{display:inline-block;font-size:13px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;color:var(--mut);padding:10px 0;margin-bottom:12px}
-.tabs{display:flex;gap:4px;overflow-x:auto;border-bottom:1px solid var(--fg);margin:0 -24px 28px;padding:0 24px;position:sticky;top:0;background:var(--bg);z-index:2;scrollbar-width:none}
+.tabs{display:grid;grid-template-columns:repeat(5,1fr);border-bottom:1px solid var(--fg);margin:0 -12px 28px;padding:0 12px;position:sticky;top:0;background:var(--bg);z-index:2;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
-.tabs button{appearance:none;background:none;border:0;color:var(--mut);font:500 15px var(--sans);padding:16px 12px 14px;min-height:48px;white-space:nowrap;border-bottom:3px solid transparent;cursor:pointer}
+.tabs button{appearance:none;background:none;border:0;color:var(--mut);font:500 15px var(--sans);padding:16px 0 14px;min-height:52px;white-space:nowrap;min-width:0;text-align:center;letter-spacing:-.01em;border-bottom:3px solid transparent;cursor:pointer}
 .tabs button[aria-selected=true]{color:var(--fg);border-color:var(--acc)}
 dl{margin:0}.concept{padding:18px 0;border-bottom:1px solid var(--line)}
 dt{font:600 19px/1.3 var(--serif);margin-bottom:6px}dd{margin:0}
@@ -54,3 +54,5 @@ input[type=search]{width:100%;font:400 22px var(--serif);padding:14px 0;border:0
 mark{background:none;color:var(--acc);font-weight:600}
 .note{border-left:3px solid var(--acc);padding:4px 0 4px 14px;font-size:14px;color:var(--mut);margin:16px 0}
 .empty{color:var(--mut);font-style:italic}
+@media (max-width:440px){.tabs button{font-size:12.5px}}
+@media (max-width:370px){.tabs button{font-size:12px;letter-spacing:-.02em}}

@@ -1,0 +1,117 @@
+{
+  "asignatura": "INICIACIÓN A TRABAJO DE CAMPO EN LA INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 8,
+  "titulo": "Evaluación del trabajo de campo y del desempeño del equipo",
+  "resumen": "La supervisión del trabajo de campo gestiona incidencias como viviendas vacías (p. 3-4).\nLos datos se verifican y validan: revisión, codificación y análisis de cada pregunta (p. 5).\nSe evalúa la calidad del trabajo y el desempeño de los encuestadores (p. 6-7).\nRatios de control: a la entrega de los cuestionarios, preguntas de control… (p. 8-9).\nLos informes de control incluyen presentación, índice, objetivos, metodología e incidencias (p. 10).",
+  "conceptos": [
+    {
+      "termino": "Codificación de los cuestionarios",
+      "definicion": "consiste en transformar los datos recogidos en los cuestionarios en valores para poder tratarlos desde la estadística.",
+      "fuente": "TCICO-MYP-UD8 Evaluación del Trabajo de Campo y del Desempeño del Equipo de Trabajo.pdf (Canvas 75802, file 8341458), p. 5 del PDF"
+    },
+    {
+      "termino": "Revisión de la información",
+      "definicion": "se trata de la verificación de los datos recogidos; comprobar y corregir los que puedan provocar errores posteriormente.",
+      "fuente": "TCICO-MYP-UD8 Evaluación del Trabajo de Campo y del Desempeño del Equipo de Trabajo.pdf (Canvas 75802, file 8341458), p. 5 del PDF"
+    },
+    {
+      "termino": "Pregunta de control",
+      "definicion": "Como pregunta de control se entiende que en una pregunta se incluya alguna alternativa no correcta para ver si la eligen o que se reformule una anterior pregunta para ver si siguen contestando lo mismo.",
+      "fuente": "TCICO-MYP-UD8 Evaluación del Trabajo de Campo y del Desempeño del Equipo de Trabajo.pdf (Canvas 75802, file 8341458), p. 9 del PDF"
+    },
+    {
+      "termino": "Ratio de control a la entrega",
+      "definicion": "Los coordinadores o supervisores de campo son los responsables de comprobar que los cuestionarios que entreguen los encuestadores están correctamente rellenados",
+      "fuente": "TCICO-MYP-UD8 Evaluación del Trabajo de Campo y del Desempeño del Equipo de Trabajo.pdf (Canvas 75802, file 8341458), p. 8 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Contenido del informe de control",
+      "columnas": [
+        "Apartado",
+        "Contenido"
+      ],
+      "filas": [
+        [
+          "Presentación",
+          "características de la investigación y del trabajo de campo"
+        ],
+        [
+          "Índice",
+          "orden de los contenidos"
+        ],
+        [
+          "Objetivos",
+          "qué información se quería conseguir"
+        ],
+        [
+          "Metodología",
+          "técnica de recogida usada"
+        ],
+        [
+          "Incidencias",
+          "descripción y cómo se solucionaron"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD8 Evaluación del Trabajo de Campo y del Desempeño del Equipo de Trabajo.pdf (Canvas 75802, file 8341458), p. 10 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Tratamiento y análisis de los datos",
+      "pasos": [
+        "Revisión de la información obtenida",
+        "Codificación de los cuestionarios",
+        "Análisis de cada pregunta del cuestionario"
+      ],
+      "fuente": "TCICO-MYP-UD8 Evaluación del Trabajo de Campo y del Desempeño del Equipo de Trabajo.pdf (Canvas 75802, file 8341458), p. 5 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué se hace con las viviendas vacías?",
+      "respuesta": "Encuestador, supervisor y coordinador valoran volver a contactar (p. 4)."
+    },
+    {
+      "pregunta": "Primera etapa del tratamiento de datos.",
+      "respuesta": "Revisar la información de los cuestionarios (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué es codificar?",
+      "respuesta": "Transformar los datos en valores para tratarlos estadísticamente (p. 5)."
+    },
+    {
+      "pregunta": "¿Quién comprueba los cuestionarios entregados?",
+      "respuesta": "Los coordinadores o supervisores de campo (p. 8)."
+    },
+    {
+      "pregunta": "¿Qué es una pregunta de control?",
+      "respuesta": "Una alternativa incorrecta o una pregunta reformulada para comprobar coherencia (p. 9)."
+    },
+    {
+      "pregunta": "Apartados del informe de control.",
+      "respuesta": "Presentación, índice, objetivos, metodología e incidencias (p. 10)."
+    },
+    {
+      "pregunta": "¿Qué recoge 'Metodología'?",
+      "respuesta": "La técnica de recogida: cuantitativa/cualitativa, presencial, telefónica… (p. 10)."
+    },
+    {
+      "pregunta": "¿Para qué sirve el índice del informe?",
+      "respuesta": "Para facilitar las consultas (p. 10)."
+    },
+    {
+      "pregunta": "Contenidos de la unidad.",
+      "respuesta": "Supervisión, verificación, evaluación del desempeño, ratios e informes (p. 2)."
+    },
+    {
+      "pregunta": "¿Qué se describe en incidencias?",
+      "respuesta": "Lo ocurrido y cómo se solucionó (p. 10)."
+    }
+  ],
+  "fuentes": [
+    "TCICO-MYP-UD8 Evaluación del Trabajo de Campo y del Desempeño del Equipo de Trabajo.pdf (Canvas 75802, file 8341458) — 12 páginas, texto con pdftotext (no requirió OCR; última página en blanco)",
+    "UD 8. Evaluacion del trabajo de campo y del desempeño del equipo de trabajo de campo.pptx (file 8341472) (presentación de apoyo del mismo tema, no citada ítem a ítem)"
+  ]
+}

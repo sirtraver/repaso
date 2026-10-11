@@ -1,0 +1,134 @@
+{
+  "asignatura": "INICIACIÓN A ATENCIÓN AL CLIENTE, CONSUMIDOR Y USUARIO(B)",
+  "tema": 6,
+  "titulo": "Elaboración de un plan de calidad y mejora",
+  "resumen": "El cliente es quien define la calidad (p. 3).\nSe distingue calidad demandada, programada y realizada (p. 5).\nLa captación consigue ingresos a corto plazo; la fidelización busca la satisfacción a largo plazo (p. 7).\nEl Manual de Calidad, las normas, las certificaciones (AENOR) y las auditorías forman el sistema de calidad (p. 11-12).\nTambién se ve la normativa aplicable en atención al cliente (p. 2).",
+  "conceptos": [
+    {
+      "termino": "Competitividad",
+      "definicion": "La competitividad consiste en proporcionar a los clientes productos y servicios con la calidad exigida al menor coste.",
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 3 del PDF"
+    },
+    {
+      "termino": "Calidad programada",
+      "definicion": "es la definida por la empresa que se concreta en el diseño del producto o servicio.",
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 5 del PDF"
+    },
+    {
+      "termino": "Captación",
+      "definicion": "La captación consiste en conseguir nuevos clientes, es una estrategia que consigue ingresos en el corto plazo.",
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 7 del PDF"
+    },
+    {
+      "termino": "Fidelización",
+      "definicion": "La fidelización es una estrategia enfocada en la satisfacción del cliente y el empoderamiento del cliente durante un largo periodo de tiempo.",
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 7 del PDF"
+    },
+    {
+      "termino": "Manual de Calidad",
+      "definicion": "El Manual de Calidad es el documento principal del sistema de calidad.",
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 11 del PDF"
+    },
+    {
+      "termino": "Norma",
+      "definicion": "Una norma es un documento realizado por varios grupos seleccionados y aprobado por organismos nacionales o internacionales que indican unas reglas para conseguir un nivel óptimo de calidad.",
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 11 del PDF"
+    },
+    {
+      "termino": "Certificación",
+      "definicion": "Una certificación es un proceso llevado a cabo por una entidad independiente de las partes interesadas, mediante la cual se reconoce la conformidad con los requisitos definidos en la norma de calidad",
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 12 del PDF"
+    },
+    {
+      "termino": "Auditoría",
+      "definicion": "Una auditoría es una actividad de información y verificación del cumplimiento del sistema de calidad establecido por la compañía.",
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 12 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Tipos de calidad",
+      "columnas": [
+        "Tipo",
+        "Definición"
+      ],
+      "filas": [
+        [
+          "Demandada",
+          "lo que el cliente desea y demanda"
+        ],
+        [
+          "Programada",
+          "la definida por la empresa en el diseño"
+        ],
+        [
+          "Realizada",
+          "la obtenida como resultado de la producción"
+        ]
+      ],
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 5 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Contenidos de la unidad (índice)",
+      "pasos": [
+        "01. Incidencias, anomalías y retrasos: tratamiento y mejora",
+        "02. Evaluación del SAC",
+        "03. Programas de fidelización",
+        "04. Calidad del servicio y certificaciones",
+        "05. Normativa aplicable"
+      ],
+      "fuente": "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190), p. 2 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Quién define la calidad?",
+      "respuesta": "El cliente (p. 3)."
+    },
+    {
+      "pregunta": "Define competitividad.",
+      "respuesta": "Dar la calidad exigida al menor coste (p. 3)."
+    },
+    {
+      "pregunta": "¿De qué depende la satisfacción?",
+      "respuesta": "De las expectativas y de la percepción del resultado global (p. 4)."
+    },
+    {
+      "pregunta": "Calidad demandada.",
+      "respuesta": "Lo que el cliente desea y demanda (p. 5)."
+    },
+    {
+      "pregunta": "Calidad realizada.",
+      "respuesta": "La obtenida como resultado de la producción (p. 5)."
+    },
+    {
+      "pregunta": "Captación vs fidelización.",
+      "respuesta": "Corto plazo con clientes nuevos vs satisfacción a largo plazo (p. 7)."
+    },
+    {
+      "pregunta": "¿Por qué ahorra costes fidelizar?",
+      "respuesta": "Captar un cliente nuevo exige dinero, tiempo y personal (p. 7)."
+    },
+    {
+      "pregunta": "Forma sencilla de medir la satisfacción.",
+      "respuesta": "Calificar con emoticonos o 'smileys' (p. 7)."
+    },
+    {
+      "pregunta": "Documento principal del sistema de calidad.",
+      "respuesta": "El Manual de Calidad (p. 11)."
+    },
+    {
+      "pregunta": "Entidad española de certificación.",
+      "respuesta": "AENOR (p. 12)."
+    },
+    {
+      "pregunta": "¿Qué es una auditoría?",
+      "respuesta": "Verificar que se cumple el sistema de calidad (p. 12)."
+    }
+  ],
+  "fuentes": [
+    "Ud6 ACCU Elaboracion de un plan de calidad y mejora.pdf (Canvas 76021, file 8331190) — 17 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)"
+  ]
+}

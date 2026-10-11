@@ -3,7 +3,7 @@ const $app = document.getElementById('app');
 const S = { idx: null, exams: [], temas: {} };
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm = s => String(s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\(.*?\)/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
-const nice = s => (s === s.toUpperCase() ? s.toLowerCase().replace(/^./, c => c.toUpperCase()) : s).replace(/\s*\(.*?\)/g, '').trim();
+const nice = s => { let t = String(s || '').replace(/\s*\((?:[^()]*)\)/g, '').replace(/^\s*iniciaci[oó]n\s+a\s+/i, '').replace(/\s+/g, ' ').trim(); if (t === t.toUpperCase()) t = t.toLowerCase().replace(/^./, c => c.toUpperCase()); return t; };
 const store = {
   get(k) { try { return JSON.parse(localStorage.getItem('repaso:' + k)) || {}; } catch { return {}; } },
   set(k, v) { localStorage.setItem('repaso:' + k, JSON.stringify(v)); }

@@ -1,0 +1,353 @@
+{
+  "asignatura": "INICIACIÓN A GESTIÓN ECONÓMICA Y FINANCIERA DE LA EMPRESA(B)",
+  "tema": 3,
+  "titulo": "Obtención y aplicación de recursos financieros (+ anexos Aval COMEX y Productos de inversión)",
+  "resumen": "El sistema financiero canaliza el ahorro hacia quien necesita financiación mediante instituciones, mercados e instrumentos (diap. 6).\nLos instrumentos (renta fija, variable, derivados…) se negocian en mercados con varias clasificaciones; los bancos hacen operaciones de activo, pasivo y neutras (diap. 9-15).\nFinanciación a corto: capitalización simple, TIN/TIE/TAE, póliza de crédito, efectos comerciales, factoring y confirming (diap. 17-31).\nFinanciación a largo: capitalización compuesta, préstamos y empréstitos, leasing y renting, avales y fianzas (diap. 34-56).\nSubvenciones a fondo perdido e inversiones evaluadas con VAN, payback y TIR (diap. 58-70).\nAnexos: avales en comercio exterior frente a Smart Finance, y productos de inversión (renta fija, variable, fondos, derivados, CFD).",
+  "conceptos": [
+    {
+      "termino": "Sistema financiero",
+      "definicion": "El sistema financiero es un conjunto de instituciones, mercados e instrumentos financieros que tienen como objetivo principal la canalización del ahorro desde los agentes con excedentes financieros hacia aquellos con necesidades financieras.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 6"
+    },
+    {
+      "termino": "Instrumentos financieros",
+      "definicion": "Los instrumentos financieros son aquellos contratos que dan lugar a un activo financiero en una unidad económica y a un pasivo financiero o a un instrumento de patrimonio en otra unidad económica",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 9"
+    },
+    {
+      "termino": "Mercados financieros",
+      "definicion": "Los mercados financieros son los lugares de encuentro, físico o virtuales, entre quienes ofrecen instrumentos o activos financieros y quienes los demandan.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 11"
+    },
+    {
+      "termino": "TIN",
+      "definicion": "El TIN, o Tipo de Interés Nominal, es el porcentaje fijo que una entidad financiera aplica sobre un préstamo o un depósito, representando el coste del préstamo o la rentabilidad del ahorro.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 21"
+    },
+    {
+      "termino": "TAE",
+      "definicion": "La TAE o Tasa Anual Equivalente, es una medida que se utiliza para comparar productos financieros —como préstamos, hipotecas, cuentas de ahorro o depósitos— de forma justa.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 21"
+    },
+    {
+      "termino": "Póliza o cuenta de crédito",
+      "definicion": "La póliza o cuenta de crédito es un contrato mercantil en el cual se concede un límite de disponibilidad de crédito en función de una garantía y unas condiciones determinadas.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 23"
+    },
+    {
+      "termino": "Efecto comercial",
+      "definicion": "Un efecto comercial es un documento que contiene una promesa o mandato de pago.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 27"
+    },
+    {
+      "termino": "Factoring",
+      "definicion": "El factoring es un contrato por el que una empresa ( cedente) le transmite a una entidad financiera (factor) unos créditos contra sus deudores, derivados de su actividad comercial.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 30"
+    },
+    {
+      "termino": "Préstamo",
+      "definicion": "Un préstamo es una operación financiera en la que un prestamista ( normalmente una entidad financiera) entrega un capital a otra parte llamado prestatario, que debe devolver junto con los intereses generados en uno o varios pagos escalonados en un intervalo de tiempo.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 37"
+    },
+    {
+      "termino": "Leasing",
+      "definicion": "El arrendamiento financiero o leasing es un contrato mercantil de cesión de uso de bienes muebles e inmuebles, adquiridos por una entidad financiera ( arrendador), según las especificaciones del futuro usuario ( arrendatario) a cambio de una contraprestación económica periódica ( cuota) , durante un plazo de tiempo pactado.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 46"
+    },
+    {
+      "termino": "Garantías bancarias",
+      "definicion": "Las garantías bancarias son el mecanismo a través del cual un banco respalda las obligaciones de su cliente ante un tercero, asegurando que, si el cliente incumple, el banco responderá por él hasta un monto límite.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 54"
+    },
+    {
+      "termino": "Subvención",
+      "definicion": "Una subvención es toda aportación a fondo perdido (no exigirá su devolución) que las administraciones otorgan a emprendedores y empresas con el fin de fomentar el cumplimiento de algún objetivo determinado.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 58"
+    },
+    {
+      "termino": "Inversión (Pierre Massé)",
+      "definicion": "la inversión es un acto mediante el cual se renuncia a una satisfacción inmediata y cierta, a cambio de adquirir una esperanza futura y en la cual el bien en el que se ha invertido es el soporte.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 64"
+    },
+    {
+      "termino": "Payback",
+      "definicion": "El plazo de recuperación o payback se define como el tiempo que debe transcurrir hasta que se recupera la inversión realizada.",
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 69"
+    },
+    {
+      "termino": "Fondo de inversión",
+      "definicion": "Es una IIC (Institución de Inversión Colectiva), es un instrumento de ahorro que aglutina las aportaciones hechas por los participes",
+      "fuente": "UNIDAD 3.GF.-ANEXO Productos de Inversion.pptx (Canvas 75500, file 8409775), diap. 5"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Clasificación de los instrumentos financieros",
+      "columnas": [
+        "Tipo",
+        "Ejemplos"
+      ],
+      "filas": [
+        [
+          "Renta fija",
+          "Bonos, Obligaciones del Estado y pagarés de empresas"
+        ],
+        [
+          "Renta variable",
+          "Acciones"
+        ],
+        [
+          "Contado",
+          "SPOT y forward"
+        ],
+        [
+          "Derivados",
+          "Futuros, opciones y swap"
+        ],
+        [
+          "Híbridos o estructurados",
+          "Mezcla de productos financieros"
+        ],
+        [
+          "Cobertura",
+          "Seguros de cambio"
+        ]
+      ],
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 10"
+    },
+    {
+      "titulo": "Operaciones bancarias",
+      "columnas": [
+        "Tipo",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Activo",
+          "la entidad presta dinero; es un derecho y está en el Activo"
+        ],
+        [
+          "Pasivo",
+          "depósitos de clientes; obligación de devolverlos"
+        ],
+        [
+          "Neutras o servicios",
+          "comisiones por servicios (transferencias, divisas, custodia…)"
+        ]
+      ],
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 13"
+    },
+    {
+      "titulo": "Factoring vs confirming",
+      "columnas": [
+        "Factoring",
+        "Confirming"
+      ],
+      "filas": [
+        [
+          "Servicio de cobro",
+          "Servicio de pagos"
+        ],
+        [
+          "Libera el cobro de facturas a través de su financiación",
+          "Gestiona los pagos a proveedores"
+        ],
+        [
+          "La empresa realiza un anticipo de facturas",
+          "La entidad adelanta el dinero de la factura al proveedor a cambio de una comisión"
+        ]
+      ],
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 31"
+    },
+    {
+      "titulo": "Modalidades de leasing",
+      "columnas": [
+        "Modalidad",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Operativo (solo cede el uso)",
+          "Maquinaria de alta gama"
+        ],
+        [
+          "Financiero (con opción de compra)",
+          "Impresora digital para una imprenta"
+        ],
+        [
+          "Lease-back",
+          "Nave industrial"
+        ],
+        [
+          "Directo",
+          "Un horno para una pizzería"
+        ],
+        [
+          "Indirecto (lo propone el fabricante)",
+          "Un escáner de un hospital"
+        ]
+      ],
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 48"
+    },
+    {
+      "titulo": "Criterios VAN y TIR",
+      "columnas": [
+        "Resultado",
+        "Decisión"
+      ],
+      "filas": [
+        [
+          "VAN > 0",
+          "la inversión generará valor"
+        ],
+        [
+          "VAN < 0",
+          "generará pérdidas"
+        ],
+        [
+          "TIR > i",
+          "se acepta"
+        ],
+        [
+          "TIR < i",
+          "no se acepta"
+        ]
+      ],
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 68-70"
+    },
+    {
+      "titulo": "Aval tradicional vs Smart Finance",
+      "columnas": [
+        "Característica",
+        "Aval bancario",
+        "Smart Finance"
+      ],
+      "filas": [
+        [
+          "Tecnología",
+          "sistemas centralizados",
+          "Blockchain y Smart Contracts"
+        ],
+        [
+          "Velocidad",
+          "lenta (días o semanas)",
+          "rápida (minutos u horas)"
+        ],
+        [
+          "Coste",
+          "alto",
+          "generalmente más bajo (gas fees)"
+        ],
+        [
+          "Transparencia",
+          "baja",
+          "alta"
+        ]
+      ],
+      "fuente": "UNIDAD 3. GF - ANEXO - Aval COMEX.pptx (Canvas 75500, file 8501972), diap. 7-8"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Liquidación de la cuenta de crédito (método hamburgués)",
+      "pasos": [
+        "1. Anotar comisiones de apertura y corretaje",
+        "2. Registrar movimientos por orden cronológico",
+        "3. Calcular saldos acreedores, deudores y excedidos",
+        "4. Días que cada saldo permanece sin variar",
+        "5. Números comerciales",
+        "6. Intereses brutos",
+        "7. Comisión por no disposición",
+        "8. Saldo final"
+      ],
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 25"
+    },
+    {
+      "titulo": "Trámites de una garantía bancaria",
+      "pasos": [
+        "Solicitud del cliente (ordenante)",
+        "Estudio y contragarantía",
+        "Emisión a favor del beneficiario",
+        "Incumplimiento y pago; el banco ejecuta la contragarantía"
+      ],
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 54"
+    },
+    {
+      "titulo": "Fórmulas clave",
+      "pasos": [
+        "Capitalización simple: Cf = Ci·(1+R·T)",
+        "Descuento: D = (N·d·t)/360; E = N − D − C",
+        "Capitalización compuesta: Cn = Co·(1+i)^n; Co = Cn·(1+i)^-n",
+        "VAN > 0 → genera valor"
+      ],
+      "fuente": "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956), diap. 17, 28, 34, 68"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué canaliza el sistema financiero?",
+      "respuesta": "El ahorro de quienes tienen excedentes hacia quienes necesitan financiación (diap. 6)."
+    },
+    {
+      "pregunta": "Tres variables al invertir.",
+      "respuesta": "Rentabilidad, riesgo y liquidez (diap. 9)."
+    },
+    {
+      "pregunta": "Mercado monetario vs de capitales.",
+      "respuesta": "Menos de 18 meses vs más de 18 meses (diap. 12)."
+    },
+    {
+      "pregunta": "Garantía solidaria vs mancomunada.",
+      "respuesta": "Se reclama a cualquier avalista vs cada uno responde por su parte (diap. 15)."
+    },
+    {
+      "pregunta": "¿Cuándo se aplica capitalización simple?",
+      "respuesta": "Inversiones de menos de un año o interés solo sobre el capital inicial (diap. 17)."
+    },
+    {
+      "pregunta": "¿Para qué sirve la TAE?",
+      "respuesta": "Para comparar productos financieros de forma justa (diap. 21)."
+    },
+    {
+      "pregunta": "¿Por qué el efectivo es menor que el nominal al descontar un efecto?",
+      "respuesta": "Por el descuento y las comisiones: E = N − D − C (diap. 28)."
+    },
+    {
+      "pregunta": "Factoring sin recurso vs con recurso.",
+      "respuesta": "Sin recurso el factor paga siempre; con recurso puede reclamar al cedente (diap. 30)."
+    },
+    {
+      "pregunta": "Opciones al final de un leasing.",
+      "respuesta": "Cancelar, renovar o ejercer la opción de compra (valor residual) (diap. 46)."
+    },
+    {
+      "pregunta": "¿Qué incluye la cuota de renting?",
+      "respuesta": "Mantenimiento, seguro, impuestos y otros servicios (diap. 46)."
+    },
+    {
+      "pregunta": "¿Qué es un préstamo sindicado?",
+      "respuesta": "Varios bancos se unen para prestar a una empresa en proyectos grandes (diap. 42)."
+    },
+    {
+      "pregunta": "¿Se devuelve una subvención?",
+      "respuesta": "No, es a fondo perdido (diap. 58)."
+    },
+    {
+      "pregunta": "¿Qué es el payback?",
+      "respuesta": "El tiempo hasta recuperar la inversión (diap. 69)."
+    },
+    {
+      "pregunta": "¿Qué es un aval COMEX?",
+      "respuesta": "Una garantía de pago en operaciones de comercio exterior (anexo Aval COMEX, diap. 3)."
+    },
+    {
+      "pregunta": "¿Qué es un CFD?",
+      "respuesta": "Un contrato por diferencia, especulativo e intradía (anexo Productos de inversión, diap. 11)."
+    }
+  ],
+  "fuentes": [
+    "UNIDAD 3. GF - OBTENCIÓN Y APLICACIÓN DE RECURSOS FINANCIEROS.pptx (Canvas 75500, file 8501956) — 71 diapositivas, python-pptx; diap. 7 (esquema del sistema financiero) y 20 son solo imagen; fórmulas en imagen de diap. 35 (rentas) y 50 no legibles por completo; diap. 66 remite a 'tema 4'",
+    "UNIDAD 3. GF - ANEXO - Aval COMEX.pptx (Canvas 75500, file 8501972) — 9 diapositivas, python-pptx",
+    "UNIDAD 3.GF.-ANEXO Productos de Inversion.pptx (Canvas 75500, file 8409775) — 12 diapositivas, python-pptx; diap. 2 (clasificación) y 9 (oro, cripto, NFT) solo título/imagen; los tipos de letras y bonos son datos de la diapositiva y pueden estar desactualizados"
+  ]
+}

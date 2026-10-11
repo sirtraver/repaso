@@ -1,0 +1,119 @@
+{
+  "asignatura": "INICIACIÓN A INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 7,
+  "titulo": "Tratamiento y análisis estadístico de los datos",
+  "resumen": "Los datos se codifican y tabulan (unidireccional o cruzada) (p. 3).\nLa representación gráfica resume los datos (p. 3).\nLos datos son cuantitativos o cualitativos; el análisis cuantitativo es univariable o bivariable (p. 4).\nEstadística descriptiva: medidas de tendencia central, dispersión y forma (p. 5-12).\nAnálisis multivariable, series temporales y elaboración del informe con tablas y gráficos (p. 16-20).",
+  "conceptos": [
+    {
+      "termino": "Codificación",
+      "definicion": "asignar números o códigos a esos elementos para facilitar maniobrabilidad",
+      "fuente": "UD 7. Tratamiento y análisis estadístico de los datos.pdf (Canvas 75585, file 8333952), p. 3 del PDF"
+    },
+    {
+      "termino": "Análisis bivariable",
+      "definicion": "El análisis bivariable consiste en analizar un fenómeno tomando las variables de dos en dos para así proceder a su estudio.",
+      "fuente": "UD 7. Tratamiento y análisis estadístico de los datos.pdf (Canvas 75585, file 8333952), p. 4 del PDF"
+    },
+    {
+      "termino": "Estadística descriptiva (Pérez Juste)",
+      "definicion": "aquella en la que lo que se pretende es la descripción de las características relevantes propias de un conjunto de datos por lo general de lo que se conoce como muestras",
+      "fuente": "UD 7. Tratamiento y análisis estadístico de los datos.pdf (Canvas 75585, file 8333952), p. 5 del PDF"
+    },
+    {
+      "termino": "Serie temporal",
+      "definicion": "Una serie temporal consiste en el seguimiento cronológico de un fenómeno a través del análisis de una secuencia de datos",
+      "fuente": "UD 7. Tratamiento y análisis estadístico de los datos.pdf (Canvas 75585, file 8333952), p. 18 del PDF"
+    },
+    {
+      "termino": "Informe",
+      "definicion": "Un informe es por definición un documento que nos aporta una serie de datos sobre un tema en concreto",
+      "fuente": "UD 7. Tratamiento y análisis estadístico de los datos.pdf (Canvas 75585, file 8333952), p. 18 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Medidas de estadística descriptiva",
+      "columnas": [
+        "Tipo",
+        "Medidas"
+      ],
+      "filas": [
+        [
+          "Tendencia central",
+          "media, mediana, moda"
+        ],
+        [
+          "Dispersión",
+          "recorrido, recorrido intercuartílico y semiintercuartílico, desviación típica…"
+        ],
+        [
+          "Forma",
+          "—"
+        ]
+      ],
+      "fuente": "UD 7. Tratamiento y análisis estadístico de los datos.pdf (Canvas 75585, file 8333952), p. 5-12 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Tratamiento de los datos",
+      "pasos": [
+        "Codificar preguntas y respuestas",
+        "Introducir los datos en una tabla verificando errores",
+        "Tabular (unidireccional o cruzada)",
+        "Representar gráficamente",
+        "Analizar e informar"
+      ],
+      "fuente": "UD 7. Tratamiento y análisis estadístico de los datos.pdf (Canvas 75585, file 8333952), p. 3 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué es codificar?",
+      "respuesta": "Asignar números o códigos a preguntas y respuestas (p. 3)."
+    },
+    {
+      "pregunta": "Tabulación unidireccional vs cruzada.",
+      "respuesta": "Una pregunta vs relación entre variables (p. 3)."
+    },
+    {
+      "pregunta": "¿Para qué sirve la representación gráfica?",
+      "respuesta": "Para resumir los datos de forma simbólica (p. 3)."
+    },
+    {
+      "pregunta": "Análisis bivariable.",
+      "respuesta": "Analizar variables de dos en dos (p. 4)."
+    },
+    {
+      "pregunta": "Medidas de tendencia central.",
+      "respuesta": "Media, mediana y moda (p. 5)."
+    },
+    {
+      "pregunta": "Mediana de 18,18,18,19,20,20,20,21,21,21,21.",
+      "respuesta": "20, la posición 6ª (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué es el recorrido?",
+      "respuesta": "La diferencia entre el valor más alto y el más bajo (p. 10)."
+    },
+    {
+      "pregunta": "Recorrido semiintercuartílico.",
+      "respuesta": "La mitad del intercuartílico (p. 10)."
+    },
+    {
+      "pregunta": "¿Qué indica una desviación típica mayor?",
+      "respuesta": "Mayor heterogeneidad de los valores (p. 12)."
+    },
+    {
+      "pregunta": "Define serie temporal.",
+      "respuesta": "Seguimiento cronológico de un fenómeno con una secuencia de datos (p. 18)."
+    },
+    {
+      "pregunta": "¿Cuándo se piensa en el informe?",
+      "respuesta": "Desde el planteamiento del estudio (p. 19)."
+    }
+  ],
+  "fuentes": [
+    "UD 7. Tratamiento y análisis estadístico de los datos.pdf (Canvas 75585, file 8333952) — 24 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)"
+  ]
+}

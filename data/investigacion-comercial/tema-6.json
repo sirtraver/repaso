@@ -1,0 +1,158 @@
+{
+  "asignatura": "INICIACIÓN A INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 6,
+  "titulo": "Determinación de las características y tamaño de la muestra",
+  "resumen": "Conceptos básicos: muestreo, población o universo, marco muestral, unidades muestrales y muestra (p. 3-4).\nEl muestreo sigue fases desde especificar la población hasta analizar los datos (p. 4).\nMuestreos no probabilísticos y probabilísticos (simple, sistemático, estratificado, conglomerados, áreas) (p. 4-12).\nFactores del tamaño de muestra; errores muestrales y no muestrales (p. 13-15).\nEstimación puntual y por intervalos; conceptos estadísticos básicos: media, moda, desviación típica (p. 17-20).",
+  "conceptos": [
+    {
+      "termino": "Muestreo",
+      "definicion": "es la elección de una parte de algo que vamos a preguntar, encuestar etc. para obtener conclusiones en un estudio concreto.",
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 3 del PDF"
+    },
+    {
+      "termino": "Población o universo",
+      "definicion": "La población o universo es el grupo de elementos que se van a investigar.",
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 3 del PDF"
+    },
+    {
+      "termino": "Muestra",
+      "definicion": "Una muestra es una parte representativa de la población a la que se va a investigar o preguntar.",
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 3 del PDF"
+    },
+    {
+      "termino": "Marco muestral",
+      "definicion": "es la información que sitúa y dimensiona a la población.",
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 3 del PDF"
+    },
+    {
+      "termino": "Muestreo por conglomerados",
+      "definicion": "La unidad muestral es un conjunto de elementos poblacionales llamado conglomerado.",
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 12 del PDF"
+    },
+    {
+      "termino": "Error no muestral",
+      "definicion": "son errores que no disminuyen al aumentar el tamaño de la muestra sino que dependen de fallos cometidos en alguna fase de la investigación comercial.",
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 15 del PDF"
+    },
+    {
+      "termino": "Estimación por intervalos",
+      "definicion": "La estimación de un parámetro por intervalos consiste en acotar un intervalo en el que se encuentre el valor del parámetro que se desea estimar.",
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 17 del PDF"
+    },
+    {
+      "termino": "Moda",
+      "definicion": "valor más repetido en una distribución, puede no existir, ser única o haber más de una moda.",
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 18 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Ejemplo de muestreo sistemático",
+      "columnas": [
+        "N",
+        "n",
+        "K = N/n",
+        "a",
+        "Muestra"
+      ],
+      "filas": [
+        [
+          "1.500",
+          "150",
+          "10",
+          "5",
+          "5, 15, 25, …"
+        ]
+      ],
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 8 del PDF"
+    },
+    {
+      "titulo": "Ejemplo: aceite de oliva de Andalucía",
+      "columnas": [
+        "Concepto",
+        "En el ejemplo"
+      ],
+      "filas": [
+        [
+          "Población",
+          "Empresas productoras de aceite de oliva en Andalucía"
+        ],
+        [
+          "Marco muestral",
+          "Las que tienen su razón social en Andalucía"
+        ],
+        [
+          "Muestra",
+          "Se selecciona del marco de muestreo"
+        ],
+        [
+          "Unidad muestral",
+          "cada una de las empresas"
+        ]
+      ],
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 4 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Muestreo aleatorio sistemático",
+      "pasos": [
+        "Enumerar todas las unidades de la población",
+        "Calcular el intervalo K (mayor entero de N/n)",
+        "Elegir al azar 'a' entre 1 y K (arranque aleatorio)",
+        "Muestra: a, a+k, a+2k…"
+      ],
+      "fuente": "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951), p. 7 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Define muestreo.",
+      "respuesta": "Elegir una parte de algo para sacar conclusiones en un estudio (p. 3)."
+    },
+    {
+      "pregunta": "Población vs muestra.",
+      "respuesta": "Grupo a investigar vs parte representativa de él (p. 3)."
+    },
+    {
+      "pregunta": "Ejemplo de marco muestral.",
+      "respuesta": "Censos municipales de vivienda, barrios (p. 3)."
+    },
+    {
+      "pregunta": "Ejemplo de muestreo aleatorio simple.",
+      "respuesta": "El bombo de la lotería (p. 6)."
+    },
+    {
+      "pregunta": "Inconveniente del aleatorio simple.",
+      "respuesta": "Hay que conocer y enumerar todos los elementos (p. 6)."
+    },
+    {
+      "pregunta": "Muestreo más extendido.",
+      "respuesta": "El aleatorio sistemático (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué es el arranque aleatorio?",
+      "respuesta": "El número 'a' elegido al azar entre 1 y K (p. 7)."
+    },
+    {
+      "pregunta": "Error muestral.",
+      "respuesta": "Diferencia entre el valor medido en la muestra y en la población (p. 15)."
+    },
+    {
+      "pregunta": "¿Disminuye el error no muestral con más muestra?",
+      "respuesta": "No; depende de fallos en alguna fase (p. 15)."
+    },
+    {
+      "pregunta": "Estimación puntual.",
+      "respuesta": "Estimar un valor cuantitativo, un número (p. 17)."
+    },
+    {
+      "pregunta": "¿Qué indica la desviación típica?",
+      "respuesta": "Cómo difieren los datos unos de otros (p. 18)."
+    }
+  ],
+  "fuentes": [
+    "UD 6. Determinacion de las caracteristicas y tamaño .pdf (Canvas 75585, file 8333951) — 28 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)",
+    "Casos prácticos (casos-tema6.xlsx, Reto 6) no usados"
+  ]
+}

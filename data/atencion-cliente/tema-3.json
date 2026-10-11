@@ -1,0 +1,129 @@
+{
+  "asignatura": "INICIACIÓN A ATENCIÓN AL CLIENTE, CONSUMIDOR Y USUARIO(B)",
+  "tema": 3,
+  "titulo": "Organización de un sistema de información",
+  "resumen": "El tema cubre archivo de documentación, ficheros de clientes, bases de datos y protección de datos (p. 2).\nEl documento refleja actos, hechos o informaciones de los clientes que se conservan para consultarlos después (p. 3).\nEl archivo tiene objetivos legales y técnicos y debe ser sencillo, ocupar poco, ser flexible y estar vivo (p. 6).\nEl fichero de clientes reúne las fichas de cliente; los leads se guardan aparte, no como clientes (p. 9-12).\nLas bases de datos y los CRM ayudan a decidir; los datos se gestionan conforme a la normativa legal (p. 12-21).",
+  "conceptos": [
+    {
+      "termino": "Documento",
+      "definicion": "El documento es el soporte físico o digital que refleja actos, hechos, informaciones o conocimientos que se relacionan con los clientes y que se registran y conservan para consultas posteriores.",
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 3 del PDF"
+    },
+    {
+      "termino": "Archivo",
+      "definicion": "El archivo es el conjunto de documentos almacenados y organizados para ser consultados y localizados fácilmente.",
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 6 del PDF"
+    },
+    {
+      "termino": "Fichero de clientes",
+      "definicion": "El fichero de clientes es el soporte o archivo donde se almacenan todas las fichas de clientes.",
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 9 del PDF"
+    },
+    {
+      "termino": "Ficha de cliente",
+      "definicion": "La ficha de cliente es el documento que recoge toda la información relativa a los clientes mediante los campos habilitados para ello.",
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 9 del PDF"
+    },
+    {
+      "termino": "Leads",
+      "definicion": "Los leads son contactos que están interesados en nuestros productos o servicios",
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 11 del PDF"
+    },
+    {
+      "termino": "Base de datos",
+      "definicion": "Una base de datos es el sistema de almacenamiento de datos ordenados y organizados entre sí junto con el programa que se necesita para su gestión.",
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 12 del PDF"
+    },
+    {
+      "termino": "CRM",
+      "definicion": "Un CRM es un sistema de gestión de datos que sirve entre otras cosas para analizar estos y tomar decisiones estratégicas que ayuden a mejorar las relaciones de los clientes con la compañía.",
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 18 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Objetivos y finalidad del archivo",
+      "columnas": [
+        "Aspecto",
+        "Contenido"
+      ],
+      "filas": [
+        [
+          "Objetivo legal",
+          "la ley obliga a conservar la documentación un tiempo"
+        ],
+        [
+          "Objetivo técnico",
+          "fuente de información activa a bajo coste"
+        ],
+        [
+          "Finalidad",
+          "sencillez, ocupar poco espacio, flexibilidad, vivo"
+        ]
+      ],
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 6 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Contenidos de la unidad (índice)",
+      "pasos": [
+        "01. Técnicas de organización y archivo de documentación",
+        "02. Ficheros de clientes",
+        "03. Gestión de bases de datos",
+        "04. Protección de datos. Normativa legal"
+      ],
+      "fuente": "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194), p. 2 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué es un documento?",
+      "respuesta": "El soporte físico o digital con información de clientes que se conserva para consultarla (p. 3)."
+    },
+    {
+      "pregunta": "Criterios para organizar la documentación.",
+      "respuesta": "Utilidad, rapidez y claridad (p. 4)."
+    },
+    {
+      "pregunta": "Define archivo.",
+      "respuesta": "Conjunto de documentos almacenados y organizados para localizarlos fácilmente (p. 6)."
+    },
+    {
+      "pregunta": "Objetivos del archivo.",
+      "respuesta": "Legales y técnicos (p. 6)."
+    },
+    {
+      "pregunta": "¿Quién puede acceder al archivo?",
+      "respuesta": "Solo las personas autorizadas con cargos de responsabilidad (p. 6)."
+    },
+    {
+      "pregunta": "¿Qué hay que distinguir al destruir documentos?",
+      "respuesta": "Los que tienen datos confidenciales y los que no (p. 8)."
+    },
+    {
+      "pregunta": "Fichero vs ficha de cliente.",
+      "respuesta": "El fichero almacena todas las fichas; la ficha recoge la información de un cliente (p. 9)."
+    },
+    {
+      "pregunta": "¿Qué son los leads?",
+      "respuesta": "Contactos interesados en nuestros productos o servicios (p. 11)."
+    },
+    {
+      "pregunta": "¿Se meten los leads en el fichero de clientes?",
+      "respuesta": "No; conviene un archivo de leads y otro de clientes activos (p. 12)."
+    },
+    {
+      "pregunta": "¿Qué significa CRM?",
+      "respuesta": "Customer Relationship Management (p. 17)."
+    },
+    {
+      "pregunta": "¿Desde qué perspectivas se gestionan los datos?",
+      "respuesta": "Legal, física y segura (p. 20)."
+    }
+  ],
+  "fuentes": [
+    "Ud3 ACCU Organización de un Sistema de Información.pdf (Canvas 76021, file 8331194) — 25 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)",
+    "UD.3accu.odp (Canvas 76021, file 8331211): presentación de apoyo; 9 de sus 13 diapositivas son solo imagen; no citada"
+  ]
+}

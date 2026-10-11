@@ -1,0 +1,131 @@
+{
+  "asignatura": "INICIACIÓN A TRABAJO DE CAMPO EN LA INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 3,
+  "titulo": "Proceso del trabajo de campo (técnicas cuantitativas)",
+  "resumen": "Las técnicas cuantitativas son la encuesta, la observación y el panel (p. 2-3).\nLa encuesta recoge datos mediante un cuestionario estructurado; puede ser personal, telefónica, postal u online (CAPI, CAWI…) (p. 3-6).\nSe planifican medios y recursos; en la encuesta el instrumento es el cuestionario (p. 7).\nMuestreos probabilísticos: aleatorio simple, sistemático, estratificado (afijación simple o proporcional), conglomerados y áreas (p. 8-12).\nDespués: captación, distribución de encuestadores, hojas de ruta, cuotas y supervisión externa e interna (p. 13-15).",
+  "conceptos": [
+    {
+      "termino": "Encuesta",
+      "definicion": "Una encuesta es un método de investigación consistente en plantear una serie de preguntas al público a analizar mediante un cuestionario estructurado que permita recoger aquellos datos que se quiere conocer.",
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 3 del PDF"
+    },
+    {
+      "termino": "Muestreo aleatorio o simple",
+      "definicion": "Todos los elementos de la población tienen la misma probabilidad de ser elegidos.",
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 8 del PDF"
+    },
+    {
+      "termino": "Afijación",
+      "definicion": "Esta selección entre los distintos estratos se llama afijación",
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 10 del PDF"
+    },
+    {
+      "termino": "Afijación simple",
+      "definicion": "el número de personas seleccionadas de cada estrato para formar la muestra será igual o muy similar.",
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 10 del PDF"
+    },
+    {
+      "termino": "Afijación proporcional",
+      "definicion": "el número de personas seleccionadas de cada estrato para formar la muestra será proporcional al tamaño de cada estrato respecto al número total de personas que conforman la población en general.",
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 11 del PDF"
+    },
+    {
+      "termino": "CAPI",
+      "definicion": "encuesta personal donde la recogida de datos se lleva a cabo a través de ordenador.",
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 5 del PDF"
+    },
+    {
+      "termino": "CAWI",
+      "definicion": "encuesta on-line asistida por ordenador.",
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 6 del PDF"
+    },
+    {
+      "termino": "Supervisión interna",
+      "definicion": "los datos recogidos son objetivos, sin sesgos de opinión, y representar al conjunto de la población a estudiar.",
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 15 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Supervisión de los datos",
+      "columnas": [
+        "Tipo",
+        "Qué comprueba"
+      ],
+      "filas": [
+        [
+          "Externa",
+          "los datos son suficientes para la cobertura deseada y los objetivos"
+        ],
+        [
+          "Interna",
+          "los datos son objetivos, sin sesgos, y representan a la población"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 15 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Muestreo sistemático (ejemplo del tema)",
+      "pasos": [
+        "Primer elemento: a",
+        "Segundo: a + k",
+        "Tercero: a + 2k",
+        "Último (200): a + 199k",
+        "Con a = 5 y k = 10: 5, 15, 25, … 1995"
+      ],
+      "fuente": "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462), p. 10 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Cuáles son las técnicas cuantitativas?",
+      "respuesta": "Encuesta, observación y panel (p. 2)."
+    },
+    {
+      "pregunta": "Define encuesta.",
+      "respuesta": "Plantear preguntas al público mediante un cuestionario estructurado para recoger datos (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué encuestas de marketing se estudian?",
+      "respuesta": "Satisfacción, tests de precio o producto, lanzamiento y eficacia publicitaria (p. 3)."
+    },
+    {
+      "pregunta": "Ventaja de la encuesta autoadministrada.",
+      "respuesta": "Es muy económica y el entrevistado la hace cuando quiere (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué significa CAPI?",
+      "respuesta": "Computer-Assisted Personal Interviewing (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué es CAWI?",
+      "respuesta": "Encuesta online asistida por ordenador (p. 6)."
+    },
+    {
+      "pregunta": "¿Cuál es el instrumento de la encuesta?",
+      "respuesta": "El cuestionario (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué es la afijación?",
+      "respuesta": "La selección entre los distintos estratos (p. 10)."
+    },
+    {
+      "pregunta": "Afijación simple vs proporcional.",
+      "respuesta": "Simple: igual número por estrato; proporcional: según el tamaño del estrato (p. 10-11)."
+    },
+    {
+      "pregunta": "Ejemplo de muestreo por áreas.",
+      "respuesta": "Contar asistentes a un evento con una cuadrícula sobre una foto (p. 12)."
+    },
+    {
+      "pregunta": "¿Qué asegura la supervisión externa?",
+      "respuesta": "Que los datos cubren la cobertura y los objetivos (p. 15)."
+    }
+  ],
+  "fuentes": [
+    "TCICO-MYP-UD3-Proceso del Trabajo de Campo.pdf (Canvas 75802, file 8341462) — 17 páginas, texto con pdftotext (no requirió OCR; última página en blanco)",
+    "UD3. Proceso del Trabajo de Campo en una Investigación Comercial Cuantitativa.pptx (file 8341467) (presentación de apoyo del mismo tema, no citada ítem a ítem)"
+  ]
+}

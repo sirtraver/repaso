@@ -1,0 +1,135 @@
+{
+  "asignatura": "INICIACIÓN A ATENCIÓN AL CLIENTE, CONSUMIDOR Y USUARIO(B)",
+  "tema": 4,
+  "titulo": "La protección del consumidor y usuario",
+  "resumen": "Se distinguen consumidor (Kotler), cliente y usuario (p. 3).\nHay tipos de clientes: indecisos, habituales/leales y esporádicos, cada uno con su forma de atenderlo (p. 4-5).\nEl consumidor tiene derechos y deberes (p. 6).\nNormativa: Ley General para la Defensa de los Consumidores y Usuarios y Constitución de 1978 (p. 7).\nInstituciones públicas (AECOSAN, OMIC, Direcciones Generales de Consumo, Sistema Arbitral) y asociaciones privadas (p. 9-11).",
+  "conceptos": [
+    {
+      "termino": "Consumidor",
+      "definicion": "un consumidor es una persona que satisface sus necesidades o deseos con la adquisición de bienes y servicios.",
+      "fuente": "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206), p. 3 del PDF"
+    },
+    {
+      "termino": "Cliente",
+      "definicion": "Persona que compra bienes o servicios para su uso personal o bien para otras personas.",
+      "fuente": "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206), p. 3 del PDF"
+    },
+    {
+      "termino": "Usuario",
+      "definicion": "Es el consumidor de servicios. La persona que hace uso personal de un servicio por parte de una empresa pública o privada.",
+      "fuente": "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206), p. 3 del PDF"
+    },
+    {
+      "termino": "Sistema Arbitral de Consumo",
+      "definicion": "El Sistema Arbitral de Consumo es un procedimiento extrajudicial de resolución de conflictos.",
+      "fuente": "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206), p. 10 del PDF"
+    },
+    {
+      "termino": "Asociaciones de consumidores y usuarios",
+      "definicion": "organizaciones privadas sin ánimo de lucro, cuyo objetivo es la protección y defensa de los consumidores.",
+      "fuente": "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206), p. 11 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Instituciones públicas de protección",
+      "columnas": [
+        "Organismo",
+        "Dependencia / objetivos"
+      ],
+      "filas": [
+        [
+          "AECOSAN",
+          "adscrito al Ministerio de Sanidad; seguridad de productos, seguridad alimentaria, hábitos saludables"
+        ],
+        [
+          "OMIC",
+          "Administración local (ayuntamientos); información, reclamaciones, inspección, sanciones, arbitraje"
+        ]
+      ],
+      "fuente": "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206), p. 9 del PDF"
+    },
+    {
+      "titulo": "Tipos de clientes",
+      "columnas": [
+        "Tipo",
+        "Cómo atenderlo"
+      ],
+      "filas": [
+        [
+          "Indecisos",
+          "transmitir confianza, preguntar por su necesidad"
+        ],
+        [
+          "Habituales / leales",
+          "atención de calidad antes, durante y después; subsanar errores"
+        ],
+        [
+          "Esporádicos",
+          "convertirlos en leales; entender su comportamiento"
+        ]
+      ],
+      "fuente": "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206), p. 5 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Normativa legal",
+      "pasos": [
+        "Ámbito nacional: Ley General para la Defensa de los Consumidores y Usuarios",
+        "Constitución española de 1978"
+      ],
+      "fuente": "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206), p. 7 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Definición de consumidor según Kotler.",
+      "respuesta": "Persona que satisface necesidades o deseos adquiriendo bienes y servicios (p. 3)."
+    },
+    {
+      "pregunta": "Cliente vs consumidor.",
+      "respuesta": "El cliente compra (para sí o para otros); el consumidor satisface sus necesidades con el producto (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué es un usuario?",
+      "respuesta": "El consumidor de servicios (p. 3)."
+    },
+    {
+      "pregunta": "Ejemplo de usuario.",
+      "respuesta": "Usuarios del transporte público o de los servicios sanitarios (p. 3)."
+    },
+    {
+      "pregunta": "¿Cómo atender a un cliente indeciso?",
+      "respuesta": "Transmitir confianza y centrarse en su necesidad (p. 5)."
+    },
+    {
+      "pregunta": "¿Objetivo con los clientes esporádicos?",
+      "respuesta": "Convertirlos en habituales o leales (p. 5)."
+    },
+    {
+      "pregunta": "Principal norma nacional de consumo.",
+      "respuesta": "La Ley General para la Defensa de los Consumidores y Usuarios (p. 7)."
+    },
+    {
+      "pregunta": "¿De quién depende la OMIC?",
+      "respuesta": "De la Administración local, los ayuntamientos (p. 9)."
+    },
+    {
+      "pregunta": "¿Qué es el Sistema Arbitral de Consumo?",
+      "respuesta": "Un procedimiento extrajudicial de resolución de conflictos (p. 10)."
+    },
+    {
+      "pregunta": "Instituciones autonómicas de consumo.",
+      "respuesta": "Las Direcciones Generales de Consumo de las CC. AA. (p. 10)."
+    },
+    {
+      "pregunta": "¿Qué son las asociaciones de consumidores?",
+      "respuesta": "Organizaciones privadas sin ánimo de lucro de defensa del consumidor (p. 11)."
+    }
+  ],
+  "fuentes": [
+    "Ud4 ACCU La protección del consumidor y usuario.pdf (Canvas 76021, file 8331206) — 13 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)",
+    "UD.4accu.ppt (Canvas 76021, file 8331129): presentación de apoyo, no citada"
+  ]
+}

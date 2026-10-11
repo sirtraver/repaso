@@ -1,0 +1,153 @@
+{
+  "asignatura": "INICIACIÓN A INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 3,
+  "titulo": "Elaboración del plan de la investigación comercial",
+  "resumen": "La investigación comercial sigue fases: determinar el problema, recoger datos, tratarlos y tabularlos, analizarlos e interpretar/presentar los resultados (p. 3-5).\nEn la fase 3 los datos se editan y se codifican (p. 4).\nEl análisis puede ser univariable, bivariable o multivariable (p. 4-5).\nLos objetivos pueden ser generales, específicos u operativos (p. 6).\nEl presupuesto incluye costes directos e indirectos; los diseños de investigación son exploratorios, descriptivos… (p. 8-10).",
+  "conceptos": [
+    {
+      "termino": "Edición",
+      "definicion": "La edición consiste en descartar aquellos datos incompletos o erróneos",
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 4 del PDF"
+    },
+    {
+      "termino": "Codificación",
+      "definicion": "En la codificación se trata de preparar los datos para su análisis, por ello las informaciones textuales se transformarán en numéricas para un tratamiento óptimo.",
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 4 del PDF"
+    },
+    {
+      "termino": "Objetivos generales",
+      "definicion": "expresados como el fin al que se quiere llegar con la investigación.",
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 6 del PDF"
+    },
+    {
+      "termino": "Objetivos operativos",
+      "definicion": "cuantifican los objetivos específicos permitiendo así hacer un seguimiento de los objetivos específicos.",
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 6 del PDF"
+    },
+    {
+      "termino": "Costes directos",
+      "definicion": "aquellas partidas directamente relacionadas con el proyecto de investigación comercial: personal, equipos de trabajo, material necesario y gastos relacionados con la presentación al cliente del proyecto.",
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 8 del PDF"
+    },
+    {
+      "termino": "Costes indirectos",
+      "definicion": "todos lo que habitualmente tiene una compañía y son de difícil imputación a un proyecto determinado de investigación o de marketing.",
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 8 del PDF"
+    },
+    {
+      "termino": "Fuentes cuantitativas",
+      "definicion": "se basan en encuestas con preguntas cerradas y cuestionario muy estructurado, que aplican a numerosos entrevistados.",
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 10 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Tipos de análisis de datos",
+      "columnas": [
+        "Tipo",
+        "Técnicas"
+      ],
+      "filas": [
+        [
+          "Univariables",
+          "frecuencias, promedios, medidas de dispersión, asimetría"
+        ],
+        [
+          "Bivariables",
+          "correlación, varianza y covarianza"
+        ],
+        [
+          "Multivariables",
+          "con unas varias variables dependientes"
+        ]
+      ],
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 4-5 del PDF"
+    },
+    {
+      "titulo": "Tipos de objetivos",
+      "columnas": [
+        "Tipo",
+        "Definición"
+      ],
+      "filas": [
+        [
+          "Generales",
+          "el fin al que se quiere llegar"
+        ],
+        [
+          "Específicos",
+          "definen con más detalle los generales"
+        ],
+        [
+          "Operativos",
+          "cuantifican los específicos"
+        ]
+      ],
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 6 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Fases de la investigación comercial",
+      "pasos": [
+        "Fase 1: Determinación del problema a investigar",
+        "Fase 2: Recogida de datos",
+        "Fase 3: Tratamiento y tabulación de datos (edición y codificación)",
+        "Fase 4: Análisis de datos",
+        "Fase 5: Interpretación y presentación de resultados en un informe"
+      ],
+      "fuente": "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946), p. 3-5 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Fase 1 de la investigación.",
+      "respuesta": "Determinar el problema a investigar (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué puede surgir en la primera fase?",
+      "respuesta": "Dudas que dan lugar a hipótesis (p. 4)."
+    },
+    {
+      "pregunta": "Edición vs codificación.",
+      "respuesta": "Descartar datos erróneos vs pasar textos a números (p. 4)."
+    },
+    {
+      "pregunta": "Ejemplos de análisis bivariable.",
+      "respuesta": "Correlación, varianza y covarianza (p. 5)."
+    },
+    {
+      "pregunta": "Fase 5.",
+      "respuesta": "Interpretar los resultados y presentarlos en un informe (p. 5)."
+    },
+    {
+      "pregunta": "Objetivos específicos.",
+      "respuesta": "Definen con más detalle los generales (p. 6)."
+    },
+    {
+      "pregunta": "Una de las mejores herramientas de investigación preliminar.",
+      "respuesta": "La observación (p. 7)."
+    },
+    {
+      "pregunta": "Herramientas de encuesta citadas.",
+      "respuesta": "Encuesta Fácil, Survey Monkey, Typeform (p. 7)."
+    },
+    {
+      "pregunta": "Ejemplos de costes indirectos.",
+      "respuesta": "Agua, telefonía, alquileres, coche, equipos informáticos (p. 8)."
+    },
+    {
+      "pregunta": "Ejemplo de estudio exploratorio.",
+      "respuesta": "Tormenta de ideas sobre qué valoran los internautas al comprar online (p. 9)."
+    },
+    {
+      "pregunta": "Fuentes cualitativas.",
+      "respuesta": "Diseños exploratorios para adquirir conocimientos preliminares (p. 10)."
+    }
+  ],
+  "fuentes": [
+    "ICO-MYP-UD3. Elaboración del Plan de la ICO.pdf (Canvas 75585, file 8333946) — 12 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)",
+    "tema3-ICO.pptx (Canvas 75585, file 8333949): presentación de apoyo, no citada",
+    "Nota: el índice de la p. 2 repite epígrafes del SIM; el cuerpo trata las fases y el plan de la investigación"
+  ]
+}

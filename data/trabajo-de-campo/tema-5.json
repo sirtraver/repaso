@@ -1,0 +1,128 @@
+{
+  "asignatura": "INICIACIÓN A TRABAJO DE CAMPO EN LA INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 5,
+  "titulo": "Formación del equipo de trabajo de campo",
+  "resumen": "Primero se determinan las necesidades de formación: cómo entrevistar (preguntas cerradas, abiertas, escalas) (p. 3).\nEl equipo recibe un briefing con toda la información del estudio para actuar de forma homogénea (p. 5).\nMétodos online: cursos online, foros de formación y seminarios web (p. 6).\nMétodos presenciales: cursos presenciales, mentoring y outdoor training (p. 6-7).\nLa formación se evalúa a nivel cuantitativo y cualitativo (p. 8).",
+  "conceptos": [
+    {
+      "termino": "Briefing",
+      "definicion": "se les suele entregar al equipo de campo un documento de trabajo denominado briefing que contendrá toda la información necesaria para realizar con éxito sus tareas.",
+      "fuente": "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455), p. 5 del PDF"
+    },
+    {
+      "termino": "Formación presencial",
+      "definicion": "La formación presencial es la que resulta de un contacto directo entre el formador o profesor y las personas que van a ser formadas.",
+      "fuente": "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455), p. 6 del PDF"
+    },
+    {
+      "termino": "Talleres de orientación o mentoring",
+      "definicion": "el miembro del equipo de trabajo más cualificado y con mayor experiencia comparte sus conocimientos con el resto del equipo.",
+      "fuente": "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455), p. 7 del PDF"
+    },
+    {
+      "termino": "Outdoor training",
+      "definicion": "se trata de actividades individuales o en grupo fuera del aula donde ponen en práctica sus conocimientos",
+      "fuente": "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455), p. 7 del PDF"
+    },
+    {
+      "termino": "Seminarios web",
+      "definicion": "formación específica sobre puntos propios de la investigación que se va a llevar a cabo.",
+      "fuente": "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455), p. 6 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Métodos de formación",
+      "columnas": [
+        "Modalidad",
+        "Tipos"
+      ],
+      "filas": [
+        [
+          "Online",
+          "Cursos online; foros de formación; seminarios web"
+        ],
+        [
+          "Presencial",
+          "Cursos presenciales; talleres de orientación o mentoring; outdoor training"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455), p. 6-7 del PDF"
+    },
+    {
+      "titulo": "Evaluación de los planes de formación",
+      "columnas": [
+        "Nivel",
+        "Qué se comprueba"
+      ],
+      "filas": [
+        [
+          "Cuantitativo",
+          "que se ha dado toda la información y contenidos previstos"
+        ],
+        [
+          "Cualitativo",
+          "si se ha transmitido con recursos con garantías de calidad"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455), p. 8 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Contenidos de la unidad (índice)",
+      "pasos": [
+        "01. Necesidades de formación del equipo",
+        "02. Métodos de formación",
+        "03. Evaluación de los planes de formación"
+      ],
+      "fuente": "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455), p. 2 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué es el briefing?",
+      "respuesta": "Un documento con toda la información necesaria para las tareas del equipo (p. 5)."
+    },
+    {
+      "pregunta": "¿Para qué sirve el briefing?",
+      "respuesta": "Para que todos tengan la misma información y actúen de forma homogénea (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué guía recomienda el tema?",
+      "respuesta": "La guía ESOMAR para armonizar normas de trabajo de campo (p. 5)."
+    },
+    {
+      "pregunta": "Tipos de formación online.",
+      "respuesta": "Cursos online, foros de formación y seminarios web (p. 6)."
+    },
+    {
+      "pregunta": "¿Para qué se usan los foros?",
+      "respuesta": "Para formación continua durante el proyecto (p. 6)."
+    },
+    {
+      "pregunta": "Define formación presencial.",
+      "respuesta": "Contacto directo entre formador y formados (p. 6)."
+    },
+    {
+      "pregunta": "Formación presencial más usada.",
+      "respuesta": "Los cursos presenciales (p. 6)."
+    },
+    {
+      "pregunta": "¿Qué es el mentoring?",
+      "respuesta": "El más experto comparte sus conocimientos con el equipo (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué revela el outdoor training?",
+      "respuesta": "Las capacidades de cada individuo: comunicación, proactividad… (p. 7)."
+    },
+    {
+      "pregunta": "Evaluación cuantitativa vs cualitativa.",
+      "respuesta": "Contenidos dados vs calidad de los recursos (p. 8)."
+    }
+  ],
+  "fuentes": [
+    "TCICO-MYP-UD5 Formación del Equipo de Trabajo.pdf (Canvas 75802, file 8341455) — 10 páginas, texto con pdftotext (no requirió OCR; última página en blanco)",
+    "UD5. Formacion del equipo de trabajo de campo.pptx (file 8341471) (presentación de apoyo del mismo tema, no citada ítem a ítem)"
+  ]
+}

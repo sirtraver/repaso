@@ -1,5 +1,5 @@
 {
- "version": "20261011030716",
+ "version": "20261011092846",
  "real": true,
  "asignaturas": [
   {
@@ -52,6 +52,34 @@
      "file": "data/atencion-cliente/tema-2.json",
      "tarjetas": 15,
      "ejemplo": false
+    },
+    {
+     "tema": 3,
+     "titulo": "Organización de un sistema de información",
+     "file": "data/atencion-cliente/tema-3.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 4,
+     "titulo": "La protección del consumidor y usuario",
+     "file": "data/atencion-cliente/tema-4.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 5,
+     "titulo": "Gestión de quejas y reclamaciones",
+     "file": "data/atencion-cliente/tema-5.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 6,
+     "titulo": "Elaboración de un plan de calidad y mejora",
+     "file": "data/atencion-cliente/tema-6.json",
+     "tarjetas": 11,
+     "ejemplo": false
     }
    ]
   },
@@ -83,6 +111,13 @@
      "tema": 2,
      "titulo": "Establecimiento de la forma jurídica de la empresa",
      "file": "data/gefe/tema-2.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    },
+    {
+     "tema": 3,
+     "titulo": "Obtención y aplicación de recursos financieros (+ anexos Aval COMEX y Productos de inversión)",
+     "file": "data/gefe/tema-3.json",
      "tarjetas": 15,
      "ejemplo": false
     }
@@ -146,6 +181,48 @@
      "file": "data/investigacion-comercial/tema-2.json",
      "tarjetas": 13,
      "ejemplo": false
+    },
+    {
+     "tema": 3,
+     "titulo": "Elaboración del plan de la investigación comercial",
+     "file": "data/investigacion-comercial/tema-3.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 4,
+     "titulo": "Organización de la información secundaria disponible",
+     "file": "data/investigacion-comercial/tema-4.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 5,
+     "titulo": "Obtención de información primaria",
+     "file": "data/investigacion-comercial/tema-5.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 6,
+     "titulo": "Determinación de las características y tamaño de la muestra",
+     "file": "data/investigacion-comercial/tema-6.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 7,
+     "titulo": "Tratamiento y análisis estadístico de los datos",
+     "file": "data/investigacion-comercial/tema-7.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 8,
+     "titulo": "Gestión de bases de datos relacionales",
+     "file": "data/investigacion-comercial/tema-8.json",
+     "tarjetas": 10,
+     "ejemplo": false
     }
    ]
   },
@@ -204,6 +281,55 @@
      "titulo": "Planificación del trabajo de campo",
      "file": "data/trabajo-de-campo/tema-1.json",
      "tarjetas": 13,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Actividades específicas del trabajo de campo de tipo cualitativo",
+     "file": "data/trabajo-de-campo/tema-2.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 3,
+     "titulo": "Proceso del trabajo de campo (técnicas cuantitativas)",
+     "file": "data/trabajo-de-campo/tema-3.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 4,
+     "titulo": "Configuración del equipo de trabajo de campo",
+     "file": "data/trabajo-de-campo/tema-4.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 5,
+     "titulo": "Formación del equipo de trabajo de campo",
+     "file": "data/trabajo-de-campo/tema-5.json",
+     "tarjetas": 10,
+     "ejemplo": false
+    },
+    {
+     "tema": 6,
+     "titulo": "Sistemas de motivación y remuneración del equipo de trabajo de campo",
+     "file": "data/trabajo-de-campo/tema-6.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 7,
+     "titulo": "La encuesta y el cuestionario",
+     "file": "data/trabajo-de-campo/tema-7.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 8,
+     "titulo": "Evaluación del trabajo de campo y del desempeño del equipo",
+     "file": "data/trabajo-de-campo/tema-8.json",
+     "tarjetas": 10,
      "ejemplo": false
     }
    ]

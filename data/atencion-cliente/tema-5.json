@@ -1,0 +1,143 @@
+{
+  "asignatura": "INICIACIÓN A ATENCIÓN AL CLIENTE, CONSUMIDOR Y USUARIO(B)",
+  "tema": 5,
+  "titulo": "Gestión de quejas y reclamaciones",
+  "resumen": "Las quejas se tratan con resolución informal interna y otros tratamientos (p. 4).\nLa inteligencia emocional es la capacidad clave del agente del SAC (p. 6).\nTipos de incidencias: reclamaciones, quejas, sugerencias, consultas; las de facturación son las más delicadas (p. 8-10).\nLa gestión se estandariza en fases; la hoja de reclamaciones oficial tiene 4 impresos (p. 11-15).\nNegociación, mediación y arbitraje; reclamaciones ante la Administración (Ley 39/2015) (p. 18-27).",
+  "conceptos": [
+    {
+      "termino": "Inteligencia emocional",
+      "definicion": "La inteligencia emocional es la capacidad más importante que un agente del SAC debe demostrar en la gestión de quejas y reclamaciones.",
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 6 del PDF"
+    },
+    {
+      "termino": "Quejas",
+      "definicion": "manifestación, generalmente verbal, de la manifestación de una discrepancia o desacuerdo con alguna característica del artículo adquirido o servicio recibido.",
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 8 del PDF"
+    },
+    {
+      "termino": "Sugerencias",
+      "definicion": "propuestas o recomendaciones por parte de los clientes para la mejora del servicio prestado.",
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 9 del PDF"
+    },
+    {
+      "termino": "Negociación",
+      "definicion": "La negociación es la herramienta que permite el intercambio de puntos de vista entre cliente y empresa con el objetivo de conseguir acuerdos que beneficien a ambas partes.",
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 18 del PDF"
+    },
+    {
+      "termino": "Mediación",
+      "definicion": "La mediación es una vía alternativa externa de resolución de conflictos entre empresas y consumidores y usuarios, de carácter informal, voluntario y no vinculante",
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 21 del PDF"
+    },
+    {
+      "termino": "Arbitraje",
+      "definicion": "El arbitraje es una vía alternativa externa de resolución de conflictos entre empresas y consumidores y usuarios, de carácter formal, voluntario y vinculante",
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 24 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Mediación vs arbitraje",
+      "columnas": [
+        "Vía",
+        "Carácter",
+        "Tercero"
+      ],
+      "filas": [
+        [
+          "Mediación",
+          "informal, voluntario y no vinculante",
+          "un mediador"
+        ],
+        [
+          "Arbitraje",
+          "formal, voluntario y vinculante",
+          "un árbitro que dicta un laudo de obligatorio cumplimiento"
+        ]
+      ],
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 21-24 del PDF"
+    },
+    {
+      "titulo": "Hoja de reclamaciones oficial",
+      "columnas": [
+        "Copia",
+        "Destinatario"
+      ],
+      "filas": [
+        [
+          "Blanca (original)",
+          "Administración"
+        ],
+        [
+          "Verde",
+          "consumidor"
+        ],
+        [
+          "Amarilla y rosa",
+          "establecimiento y control de la inspección"
+        ]
+      ],
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 15 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Fases del plan de negociación (desarrollo y cierre)",
+      "pasos": [
+        "Desarrollo: escucha-argumentación-respuesta con persuasión",
+        "Cierre: procurar que sea satisfactorio; si no, el expediente sigue por vías internas o externas"
+      ],
+      "fuente": "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168), p. 21 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Capacidad más importante del agente del SAC.",
+      "respuesta": "La inteligencia emocional (p. 6)."
+    },
+    {
+      "pregunta": "¿Qué es la resolución informal interna?",
+      "respuesta": "'Ir por delante' con métodos no reglados para reducir quejas (p. 4)."
+    },
+    {
+      "pregunta": "Queja vs reclamación.",
+      "respuesta": "La queja no pide indemnización; la reclamación pide compensación (p. 8)."
+    },
+    {
+      "pregunta": "¿Cómo se tramitan las quejas?",
+      "respuesta": "Por hojas de incidencias (p. 8)."
+    },
+    {
+      "pregunta": "¿Qué son las sugerencias?",
+      "respuesta": "Propuestas de los clientes para mejorar el servicio (p. 9)."
+    },
+    {
+      "pregunta": "¿Qué reclamaciones requieren más cuidado?",
+      "respuesta": "Las de facturación, porque el precio es sensible (p. 10)."
+    },
+    {
+      "pregunta": "Caso del tema sobre una canción viral.",
+      "respuesta": "Un grupo musical reclamó a American Airlines por romper sus guitarras (p. 11)."
+    },
+    {
+      "pregunta": "¿Cuántos impresos tiene la hoja oficial?",
+      "respuesta": "4 autocopiativos: blanco, verde, amarillo y rosa (p. 15)."
+    },
+    {
+      "pregunta": "Mediación: carácter.",
+      "respuesta": "Informal, voluntario y no vinculante (p. 21)."
+    },
+    {
+      "pregunta": "Arbitraje: resultado.",
+      "respuesta": "Un laudo de obligatorio cumplimiento (p. 24)."
+    },
+    {
+      "pregunta": "Ley de los actos administrativos.",
+      "respuesta": "Ley 39/2015 (p. 27)."
+    }
+  ],
+  "fuentes": [
+    "Ud5 ACCU Gestion de quejas y reclamaciones.pdf (Canvas 76021, file 8331168) — 30 páginas, texto con pdftotext (no requirió OCR; última página en blanco; figuras sin texto)",
+    "UD.5 accu.ppt (Canvas 76021, file 8331210): presentación de apoyo, 5 diapositivas solo imagen; no citada"
+  ]
+}
