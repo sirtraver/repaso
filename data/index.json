@@ -1,5 +1,5 @@
 {
- "version": "20261011024821",
+ "version": "20261011025057",
  "real": true,
  "asignaturas": [
   {
@@ -17,6 +17,26 @@
      "tema": 2,
      "titulo": "Tecnologías Digitales Habilitadoras",
      "file": "data/digitalizacion/tema-2.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A GESTIÓN ECONÓMICA Y FINANCIERA DE LA EMPRESA(B)",
+   "slug": "gefe",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Iniciativa emprendedora y creación de empresa (+ anexo Modelos económicos y marketing)",
+     "file": "data/gefe/tema-1.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Establecimiento de la forma jurídica de la empresa",
+     "file": "data/gefe/tema-2.json",
      "tarjetas": 15,
      "ejemplo": false
     }

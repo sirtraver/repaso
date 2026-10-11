@@ -1,0 +1,589 @@
+{
+  "asignatura": "INICIACIÓN A GESTIÓN ECONÓMICA Y FINANCIERA DE LA EMPRESA(B)",
+  "tema": 2,
+  "titulo": "Establecimiento de la forma jurídica de la empresa",
+  "resumen": "La elección de la forma jurídica es una de las primeras decisiones y afecta a responsabilidad, capital, impuestos, decisiones y trámites (diap. 5, 8).\nEn España predominan las empresas individuales (56,2 % según INE 2025); cada empresa tiene un código CNAE (diap. 6-9).\nEl empresario individual/autónomo responde ilimitadamente; existen el ERL (protege la vivienda habitual) y el TRADE (≥75 % ingresos de un cliente) (diap. 13-16).\nFiscalidad del individual: IRPF progresivo, métodos de estimación, modelos 130/131 y 303 de IVA (diap. 18-21).\nSociedades mercantiles: SL (3.000 €), SLNE, SLFS, SA (60.000 €), laborales, profesionales y cooperativas (diap. 26-38).\nConstitución: certificación negativa, estatutos, escritura ante notario, ITP-AJD, Registro Mercantil y NIF; luego trámites de puesta en marcha (diap. 40-49).\nOtras formas: comunidad de bienes, sociedad civil y UTE; la insolvencia lleva al concurso de acreedores (diap. 51-60).",
+  "conceptos": [
+    {
+      "termino": "Empresario individual o trabajador autónomo",
+      "definicion": "Es una persona física que realiza una actividad económica o profesional de forma habitual, en nombre propio y asumiendo el control y riesgo derivado de su actividad.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 13"
+    },
+    {
+      "termino": "Empresario individual con responsabilidad limitada (ERL)",
+      "definicion": "Persona física: Sigues operando como autónomo, pero puedes proteger ciertos bienes personales.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 15"
+    },
+    {
+      "termino": "TRADE",
+      "definicion": "Realiza una actividad económica o profesional a título lucrativo y de forma habitual, personal y directa, predominantemente para una persona física o jurídica denominada cliente, del que depende económicamente en al menos el 75% de sus ingresos.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 16"
+    },
+    {
+      "termino": "CNAE",
+      "definicion": "Clasificación Nacional de Actividades Económicas en España",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 9"
+    },
+    {
+      "termino": "Estimación directa",
+      "definicion": "Es un sistema que se fundamenta en la determinación de la base imponible del impuesto mediante la técnica contable.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 19 (OCR de imagen)"
+    },
+    {
+      "termino": "Estimación objetiva",
+      "definicion": "Se trata de un sistema diseñado para la microempresa, para evitar en lo posible los costes administrativos.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 19 (OCR de imagen)"
+    },
+    {
+      "termino": "SLNE",
+      "definicion": "Es una forma jurídica nueva, que se ha creado con el fin de agilizar los trámites de constitución de una empresa.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 28"
+    },
+    {
+      "termino": "Sociedades Laborales",
+      "definicion": "Son sociedades mercantiles especiales que pueden adoptar la forma jurídica de una sociedad anónima o de una sociedad limitada.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 32"
+    },
+    {
+      "termino": "Cooperativa",
+      "definicion": "Agrupación voluntaria tanto de personas físicas como jurídicas para realizar una actividad empresarial satisfaciendo sus necesidades y aspiraciones económicas y sociales, con una estructura y un funcionamiento democrático.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 35"
+    },
+    {
+      "termino": "Certificación negativa",
+      "definicion": "consiste en la solicitud del nombre o razón social al Registro Mercantil Central. Comprobación de que ese nombre no lo tenga otra sociedad",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 40"
+    },
+    {
+      "termino": "DUE",
+      "definicion": "Documento Único electrónico, se puede realizar en el PAE ( Punto de atención al emprendedor), genera una cita para acudir a la notaria elegida",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 48"
+    },
+    {
+      "termino": "Comunidad de bienes",
+      "definicion": "Se crean cuando un bien o derecho pertenece proindiviso a varias personas y forma parte de una actividad empresarial realizada en común.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 51"
+    },
+    {
+      "termino": "Sociedad Civil",
+      "definicion": "Un contrato por el cual, dos o más personas ponen en común un capital con el propósito de obtener ganancias.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 52"
+    },
+    {
+      "termino": "Unión Temporal de Empresas (UTE)",
+      "definicion": "Es una asociación temporal de dos o mas empresas o profesionales qe se unen para un determinado proyecto",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 53"
+    },
+    {
+      "termino": "Concurso de acreedores",
+      "definicion": "Se origina en el momento en que una persona física o jurídica pierde la capacidad de hacer frente a los pagos que adeuda.",
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 55"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Autónomo vs Pyme",
+      "columnas": [
+        "Criterio",
+        "Autónomo",
+        "Pyme"
+      ],
+      "filas": [
+        [
+          "Responsabilidad",
+          "Ilimitada",
+          "Limitada"
+        ],
+        [
+          "Constitución empresa",
+          "Barato y rápido",
+          "Caro y lento"
+        ],
+        [
+          "Costes gestión y Seguridad Social",
+          "Tarifa plana Seg. Social",
+          "Gastos gestoría elevados"
+        ],
+        [
+          "Aportación económica",
+          "Sin aportación",
+          "Con aportación"
+        ],
+        [
+          "Impuestos",
+          "IRPF",
+          "IS"
+        ],
+        [
+          "Acceso financiación",
+          "Menor",
+          "Mayor"
+        ],
+        [
+          "Imagen comercial",
+          "Particular",
+          "Profesional"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 10"
+    },
+    {
+      "titulo": "Empresas individuales vs sociedades por sector (INE 2025)",
+      "columnas": [
+        "Sector",
+        "Empresas",
+        "Individuales",
+        "% individuales",
+        "Resto formas jurídicas",
+        "% resto"
+      ],
+      "filas": [
+        [
+          "Servicios",
+          "2.123.249",
+          "1.149.817",
+          "54,2 %",
+          "973.432",
+          "45,8 %"
+        ],
+        [
+          "Comercio",
+          "625.664",
+          "354.683",
+          "56,7 %",
+          "270.981",
+          "43,3 %"
+        ],
+        [
+          "Construcción",
+          "389.146",
+          "198.321",
+          "51,0 %",
+          "190.825",
+          "49,0 %"
+        ],
+        [
+          "Industria",
+          "172.765",
+          "57.104",
+          "33,1 %",
+          "115.661",
+          "66,9 %"
+        ],
+        [
+          "TOTAL",
+          "3.310.824",
+          "1.859.925",
+          "56,2 %",
+          "1.450.899",
+          "43,8 %"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 7"
+    },
+    {
+      "titulo": "Ventajas e inconvenientes del empresario individual",
+      "columnas": [
+        "Ventajas",
+        "Inconvenientes"
+      ],
+      "filas": [
+        [
+          "Adecuada para empresas pequeñas y que no tienen mucha complejidad",
+          "Responsabilidad ilimitada"
+        ],
+        [
+          "Trámites de constitución sencillos",
+          "Hace frente en solitario a los gastos, inversiones, gestión y administración de la empresa"
+        ],
+        [
+          "Creación más económica",
+          "Si el beneficio es alto, los tipos impositivos son los del IRPF (más altos que el IS)"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 14"
+    },
+    {
+      "titulo": "Tramos IRPF",
+      "columnas": [
+        "Base",
+        "Tipo aplicable"
+      ],
+      "filas": [
+        [
+          "0-12.450 €",
+          "19%"
+        ],
+        [
+          "12.450-20.200 €",
+          "24%"
+        ],
+        [
+          "20.200-35.200 €",
+          "30%"
+        ],
+        [
+          "35.200-60.000 €",
+          "37%"
+        ],
+        [
+          "60.000-300.000 €",
+          "45%"
+        ],
+        [
+          "+ de 300.000 €",
+          "47%"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 18 (OCR de imagen)"
+    },
+    {
+      "titulo": "Tipos de IVA en España",
+      "columnas": [
+        "Tipo",
+        "%"
+      ],
+      "filas": [
+        [
+          "General",
+          "21%"
+        ],
+        [
+          "Reducido",
+          "10%"
+        ],
+        [
+          "Superreducido",
+          "4%"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 18 (OCR de imagen)"
+    },
+    {
+      "titulo": "Comparativa de sociedades mercantiles (diapositivas)",
+      "columnas": [
+        "Forma",
+        "Capital mínimo",
+        "Socios",
+        "Responsabilidad",
+        "Fiscalidad"
+      ],
+      "filas": [
+        [
+          "SL",
+          "3000 € (posible 1 € por ley 18/2022 con limitaciones)",
+          "a partir de uno, sin límite",
+          "limitada a la aportación",
+          "IS"
+        ],
+        [
+          "SLNE",
+          "entre 3000 € y 120.202 €, sólo aportaciones dinerarias",
+          "personas físicas, máximo cinco",
+          "limitada",
+          "IS (anexo diap. 11)"
+        ],
+        [
+          "SLFS",
+          "sin capital mínimo inicial; pasa a SL al alcanzar 3000 €",
+          "—",
+          "—",
+          "—"
+        ],
+        [
+          "SA",
+          "60.000 €, desembolsado al menos el 25%",
+          "—",
+          "limitada al capital aportado",
+          "IS (anexo diap. 11)"
+        ],
+        [
+          "Sociedad laboral",
+          "60.000 € (SAL) / 1 € (SLL)",
+          "mínimo tres (ninguno más de un tercio)",
+          "limitada (anexo diap. 11)",
+          "IS (anexo diap. 11)"
+        ],
+        [
+          "Cooperativa",
+          "fijado en estatutos, totalmente desembolsado",
+          "3 (1º grado) / 2 (2º grado)",
+          "limitada al capital aportado salvo estatutos",
+          "retorno cooperativo"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 27-36"
+    },
+    {
+      "titulo": "Financiación, responsabilidad y fiscalidad",
+      "columnas": [
+        "",
+        "Financiación",
+        "Responsabilidad frente a terceros",
+        "Fiscalidad"
+      ],
+      "filas": [
+        [
+          "Empresario individual, sociedades civiles y comunidades de bienes",
+          "Únicamente basada en los propios recursos",
+          "Ilimitada (*)",
+          "Progresiva, puede llegar a alcanzar más del 50 %"
+        ],
+        [
+          "Sociedades mercantiles",
+          "Posibilidad de entrada de socios y fortalecimiento del capital",
+          "Limitada a las cantidades aportadas",
+          "El 25 % el tipo general y el 15 % las entidades de nueva creación"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 25 (OCR de imagen) — (*) La nueva figura mercantil ERL protege la vivienda habitual si su valor no supera los 300 000 €"
+    },
+    {
+      "titulo": "Otras formas: CB, SC y UTE",
+      "columnas": [
+        "Forma",
+        "Personalidad jurídica",
+        "Responsabilidad",
+        "Capital",
+        "Fiscalidad"
+      ],
+      "filas": [
+        [
+          "Comunidad de bienes",
+          "No (Código Civil)",
+          "Ilimitada",
+          "No se exige mínimo",
+          "IRPF"
+        ],
+        [
+          "Sociedad civil",
+          "—",
+          "Ilimitada",
+          "aportaciones: dinero, bienes, trabajo o servicios",
+          "desde 2016 pueden tributar por IS"
+        ],
+        [
+          "UTE",
+          "No",
+          "solidaria",
+          "No requiere capital social",
+          "—"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 51-53"
+    },
+    {
+      "titulo": "Concurso fortuito vs culpable",
+      "columnas": [
+        "Criterio",
+        "Concurso fortuito",
+        "Concurso culpable"
+      ],
+      "filas": [
+        [
+          "Causa de insolvencia",
+          "Externa o sobrevenida",
+          "Gestión negligente o fraudulenta"
+        ],
+        [
+          "Contabilidad y libros",
+          "Al día y coherentes",
+          "Irregularidades, opacidad"
+        ],
+        [
+          "Tiempo de actuación",
+          "Dentro de plazo legal",
+          "Presentación tardía"
+        ],
+        [
+          "Consecuencias legales",
+          "Sin responsabilidad personal",
+          "Inhabilitación, pérdida de derechos, responsabilidad patrimonial"
+        ]
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 59 (OCR de imagen)"
+    },
+    {
+      "titulo": "Cuadro anexo de formas jurídicas (PAE Madrid, 30-10-2022)",
+      "columnas": [
+        "Forma",
+        "Nº socios",
+        "Capital",
+        "Responsabilidad",
+        "Fiscalidad"
+      ],
+      "filas": [
+        [
+          "Emprendedor de responsabilidad limitada",
+          "1",
+          "—",
+          "Personal ilimitada salvo la vivienda habitual (límite 300.000)",
+          "IRPF"
+        ],
+        [
+          "Empresario individual",
+          "1",
+          "—",
+          "Personal ilimitada",
+          "IRPF"
+        ],
+        [
+          "Sociedad de responsabilidad limitada",
+          "1 o más",
+          "Mínimo 1 euro",
+          "Limitada a la aportación",
+          "Impuesto de Sociedades"
+        ],
+        [
+          "Sociedad anónima",
+          "—",
+          "Mínimo 60.000 euros, desembolsado al menos en un 25%",
+          "Limitada a la aportación",
+          "Impuesto de Sociedades"
+        ],
+        [
+          "Sociedad limitada laboral",
+          "3 o más (al menos 2 socios trabajadores)",
+          "Mínimo 3.000 euros",
+          "Limitada",
+          "Impuesto de Sociedades"
+        ],
+        [
+          "Cooperativa de trabajo asociado",
+          "3 socios trabajadores o más",
+          "Variable fijado en estatutos; mínimo 1.800 €",
+          "Limitada al capital aportado o personal según estatutos",
+          "Impuesto de Sociedades"
+        ]
+      ],
+      "fuente": "Formas-Juridicas-Creacion-empresas-2048x1506.png (anexo U2, Canvas 75500, file 8409766) (OCR; lectura de celdas aproximada, revisar con la imagen)"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Constitución de una sociedad",
+      "pasos": [
+        "Lo primero es decidir la actividad de la empresa (CNAE)",
+        "Certificación negativa del nombre — Registro Mercantil Central",
+        "Elaboración de estatutos (denominación, objeto, domicilio, capital social)",
+        "Escritura pública de constitución ante notario (con certificado bancario de depósito del capital)",
+        "Liquidación del ITPAJD (autoliquidación, la creación está exenta)",
+        "Inscripción en el Registro Mercantil (adquiere personalidad jurídica)",
+        "Obtención del NIF — AEAT"
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 40-41, 46"
+    },
+    {
+      "titulo": "Puesta en marcha de una sociedad",
+      "pasos": [
+        "Alta en el Censo de Empresarios, Profesionales y Retenedores (AEAT)",
+        "Liquidación del IAE (Ayuntamiento)",
+        "Alta socios y administradores (TGSS)",
+        "Legalización de libros (Registro Mercantil Provincial)",
+        "Obtención certificado electrónico",
+        "Trámites dependientes de la actividad",
+        "Contratación de personal"
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 47"
+    },
+    {
+      "titulo": "Puesta en marcha de la empresa individual",
+      "pasos": [
+        "1. Trámites generales: alta en el Censo (AEAT), alta en RETA (TGSS), legalización de libros, certificado electrónico",
+        "2. Trámites según actividad (Ayuntamiento): licencia de actividad, de funcionamiento, de obras",
+        "3. Si contratas personal: inscripción y comunicación en la TGSS, calendario laboral"
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 44"
+    },
+    {
+      "titulo": "Concurso de acreedores",
+      "pasos": [
+        "1. Solicitud de concurso (voluntario o necesario)",
+        "2. Declaración de concurso (juez; BOE y Registro Público Concursal)",
+        "3. Análisis de la situación de la empresa (fase común; administrador concursal)",
+        "4. Fase de convenio o liquidación",
+        "5. Calificación del concurso (fortuita o culpable)",
+        "6. Finalización"
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 57, 60 (OCR de imagen)"
+    },
+    {
+      "titulo": "Prioridad en el cobro de la deuda",
+      "pasos": [
+        "1º Acreedores con garantía hipotecaria (bancos)",
+        "2º Trabajadores y empleados",
+        "3º Administraciones públicas",
+        "4º Proveedores",
+        "5º Socios"
+      ],
+      "fuente": "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600), diap. 55"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué aspectos cambian según la forma jurídica?",
+      "respuesta": "Responsabilidad de los propietarios, capital necesario, impuestos, forma de tomar decisiones y trámites administrativos (U2 diap. 5)."
+    },
+    {
+      "pregunta": "¿Qué % de empresas en España son individuales (INE 2025)?",
+      "respuesta": "56,2 % (1.859.925 de 3.310.824) (U2 diap. 7)."
+    },
+    {
+      "pregunta": "¿Qué protege el ERL y con qué límite?",
+      "respuesta": "La vivienda habitual, si su valor no supera 300.000 € (×1,5 en poblaciones de más de 1.000.000 hab.); no protege deudas con Hacienda o Seguridad Social (U2 diap. 15)."
+    },
+    {
+      "pregunta": "¿Qué % de ingresos debe depender de un cliente para ser TRADE?",
+      "respuesta": "Al menos el 75 %, y debe existir un contrato registrado (U2 diap. 16)."
+    },
+    {
+      "pregunta": "Modelos trimestrales de IRPF del autónomo.",
+      "respuesta": "Modelo 130 (estimación directa) o 131 (estimación objetiva); IVA en modelo 303 (U2 diap. 20-21, OCR)."
+    },
+    {
+      "pregunta": "Capital mínimo de una SL y de una SA.",
+      "respuesta": "SL: 3000 € (posible 1 € con limitaciones por ley 18/2022). SA: 60.000 €, desembolsado al menos el 25 % (U2 diap. 27, 30)."
+    },
+    {
+      "pregunta": "Límites de la SLNE en socios y capital.",
+      "respuesta": "Máximo cinco socios personas físicas; capital entre 3000 € y 120.202 € solo dinerario (U2 diap. 28)."
+    },
+    {
+      "pregunta": "¿Para qué actividades es obligatoria la SA?",
+      "respuesta": "Bancos, compañías de seguro, sociedades deportivas (U2 diap. 30)."
+    },
+    {
+      "pregunta": "¿Qué parte del capital de una sociedad laboral debe ser de trabajadores?",
+      "respuesta": "Una mayoría (51 %) de trabajadores con contrato indefinido y a jornada completa; mínimo tres socios, ninguno con más de un tercio (U2 diap. 32)."
+    },
+    {
+      "pregunta": "¿Cómo reparten beneficios las cooperativas?",
+      "respuesta": "Retorno cooperativo en función de su actividad, no del capital aportado (U2 diap. 36)."
+    },
+    {
+      "pregunta": "¿Cuándo adquiere personalidad jurídica una sociedad?",
+      "respuesta": "Al inscribirse en el Registro Mercantil (U2 diap. 41)."
+    },
+    {
+      "pregunta": "¿Plazo para obtener el NIF?",
+      "respuesta": "Dentro de los 30 días hábiles desde la fecha de registro (U2 diap. 41)."
+    },
+    {
+      "pregunta": "Diferencia entre concurso voluntario y necesario.",
+      "respuesta": "Voluntario: lo presenta el deudor. Necesario: lo presenta el acreedor (U2 diap. 55)."
+    },
+    {
+      "pregunta": "¿Duración típica de una UTE?",
+      "respuesta": "25 años ampliables a 50; sin personalidad jurídica y con responsabilidad solidaria (U2 diap. 53)."
+    },
+    {
+      "pregunta": "¿Fase de convenio vs fase de liquidación?",
+      "respuesta": "Convenio: se puede salvar la empresa (aplazamiento, quita…). Liquidación: no se puede salvar (U2 diap. 60)."
+    }
+  ],
+  "fuentes": [
+    "UNIDAD 2. GF - ESTABLECIMIENTO FORMA JURIDICA DE LA EMPRESA.pptx (Canvas 75500, file 8500600) — 61 diapositivas; texto con python-pptx y OCR (RapidOCR) en diap. 8, 11, 18-23, 25, 38, 45, 49, 57-59",
+    "Formas-Juridicas-Creacion-empresas-2048x1506.png (anexo U2, Canvas 75500, file 8409766) — OCR",
+    "Copias en Drive: Marketing y Publicidad / Gestión económica y financiera de la empresa / Apuntes (la versión de U2 en Drive es algo más antigua; se usó la de Canvas)"
+  ]
+}

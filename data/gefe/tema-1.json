@@ -1,0 +1,358 @@
+{
+  "asignatura": "INICIACIÓN A GESTIÓN ECONÓMICA Y FINANCIERA DE LA EMPRESA(B)",
+  "tema": 1,
+  "titulo": "Iniciativa emprendedora y creación de empresa (+ anexo Modelos económicos y marketing)",
+  "resumen": "La empresa proporciona bienes y servicios al mercado mediante la actividad productiva, cuyo objetivo es crear riqueza (diap. 5-6).\nComo organización requiere un objetivo compartido y una unidad de dirección; el empresari@ organiza, asume riesgo e innova (diap. 7-10).\nLa empresa es un sistema abierto que genera sinergias; la RSC engloba el desarrollo sostenible y se liga a los ODS (diap. 12-14).\nEl entorno se divide en general/macroentorno (PESTEL) y específico/microentorno (5 fuerzas de Porter); el DAFO relaciona entorno externo e interno (diap. 16-21).\nLa iniciativa emprendedora busca oportunidades de negocio y se apoya en iniciativa, creatividad e innovación; el proceso tiene fases de exploración, evaluación y ejecución (diap. 23-26).\nEl plan de empresa parte de la idea (brainstorming) e incluye el plan de viabilidad a 3-5 años (diap. 28-31).\nAnexo: los modelos neoclásico, conductual, estructuras de mercado y oferta-demanda se traducen en estrategias de marketing (Modelos Económicos, diap. 2-10).",
+  "conceptos": [
+    {
+      "termino": "Misión de la empresa",
+      "definicion": "La misión principal de una empresa es la de proporcionar una oferta concreta de bienes y servicios al mercado para tratar de satisfacer las necesidades de su posible clientela.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 5"
+    },
+    {
+      "termino": "Función productiva",
+      "definicion": "Esta función consiste en, a partir de unos inputs ( materias primas, factores o recursos) obtener unos outputs ( bines y servicios). El objetico último de la actividad productiva es crear riqueza.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 6"
+    },
+    {
+      "termino": "La empresa como organización",
+      "definicion": "Requiere de la existencia de un objetivo compartido por todos sus miembros y una unidad de dirección.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 7"
+    },
+    {
+      "termino": "Empresa como sistema abierto",
+      "definicion": "Cualquier empresa está formada por un conjunto de elementos materiales, técnicos, financieros, humanos, etc, interrelacionados entre si y que interactúan con el entorno ( económico, social, medioambiental, etc) del que forma parte.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 12"
+    },
+    {
+      "termino": "Sinergias",
+      "definicion": "La interrelación entre las diferentes áreas de la empresa provoca lo que se denominan sinergias, es decir, el funcionamiento de la empresa como un todo es superior a la suma de sus partes.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 12"
+    },
+    {
+      "termino": "Responsabilidad Social Corporativa (RSC)",
+      "definicion": "Engloba el desarrollo sostenible y su compromiso con la sociedad, minimizando el impacto negativo de su actividad y maximizando el positivo.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 13"
+    },
+    {
+      "termino": "Entorno empresarial",
+      "definicion": "Se define el entorno empresarial como todo aquello que se encuentra fuera de los límites de la empresa.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 16"
+    },
+    {
+      "termino": "Macroentorno",
+      "definicion": "Factores externos que afectan a todas las empresas de la industria. Fuera del control de la empresa ( políticos, legales)",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 16"
+    },
+    {
+      "termino": "Microentorno",
+      "definicion": "Factores mas cercanos que impactan a la empresa. ( clientes, proveedores).",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 16"
+    },
+    {
+      "termino": "DAFO",
+      "definicion": "Es una herramienta de planificación estratégica utilizada para evaluar la situación actual de una empresa, proyecto, institución o persona.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 20"
+    },
+    {
+      "termino": "Iniciativa emprendedora",
+      "definicion": "También denominado espíritu emprendedor, es un modo de pensar y actuar caracterizado por la búsqueda de oportunidades de negocio.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 23"
+    },
+    {
+      "termino": "Brainstorming",
+      "definicion": "Una herramienta muy utilizada para generar ideas de manera colaborativa es el brainstorming o tormentas de ideas, en el que un grupo de personas discute sobre como resolver un problema específico.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 28"
+    },
+    {
+      "termino": "Plan de empresa",
+      "definicion": "Un plan de empresa (o plan de negocio) es el documento escrito fundamental que recoge los objetivos de tu proyecto y detalla la estrategia para alcanzarlos.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 29"
+    },
+    {
+      "termino": "Plan de viabilidad",
+      "definicion": "El plan de viabilidad es un documento que simula el funcionamiento de la empresa y tiene como objetivo determinar la viabilidad económica-financiera del proyecto, es decir, si va a reportar beneficios.",
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 31"
+    },
+    {
+      "termino": "Modelo Neoclásico (premisa)",
+      "definicion": "Premisa: El Homo economicus.Maximiza presupuesto analizando fríamente la relación coste-beneficio.",
+      "fuente": "UNIDAD 01-GF- Modelos Económicos y Marketing.pptx (Canvas 75500, file 8417056), diap. 3"
+    },
+    {
+      "termino": "Economía Conductual (premisa)",
+      "definicion": "Premisa: Irracionalidad sistemática. El ser humano decide condicionado por atajos mentales (heurísticos) y sesgos cognitivos.",
+      "fuente": "UNIDAD 01-GF- Modelos Económicos y Marketing.pptx (Canvas 75500, file 8417056), diap. 5"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Características del empresari@",
+      "columnas": [
+        "Factores personales",
+        "Factores del entorno"
+      ],
+      "filas": [
+        [
+          "Rasgos psicológicos (tolerancia al riesgo, capacidad de liderazgo, habilidades sociales)",
+          "Existencia de oportunidades de negocio"
+        ],
+        [
+          "Educación",
+          "Ayudas de las instituciones"
+        ],
+        [
+          "Experiencia previa",
+          "Marco jurídico adecuado"
+        ],
+        [
+          "",
+          "Fomento de la innovación"
+        ]
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 9"
+    },
+    {
+      "titulo": "Tipos de emprendedores (entrepreneur.com)",
+      "columnas": [
+        "Tipo",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Persuasivo",
+          "Es el líder del proyecto. Quién lo inicia y contagia a los demás a la hora de emprender"
+        ],
+        [
+          "Visionario",
+          "Es el que está pendiente de las tendencias, innovación y está pendiente de las metas a largo plazo, el futuro del mercado"
+        ],
+        [
+          "Especialista",
+          "Su perfil es más técnico. Es el que suele desarrollar un producto o servicio en una industria concreta"
+        ],
+        [
+          "Intuitivo",
+          "Sabe dónde está porque es emprendedor nato. Emprender es su pasión y tiene un sexto sentido para ello"
+        ],
+        [
+          "Inversionista",
+          "Busca invertir su dinero en proyectos rentables y novedosos que le generen rendimiento"
+        ],
+        [
+          "Empresario",
+          "Le gusta consolidar proyectos. Domina el mundo de la empresa y asume riesgos"
+        ]
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 10 (OCR de imagen)"
+    },
+    {
+      "titulo": "PESTEL (entorno general, macroentorno)",
+      "columnas": [
+        "Factor",
+        "Ejemplos del slide (OCR)"
+      ],
+      "filas": [
+        [
+          "Político",
+          "Gobierno, clima político, conflictos internacionales, iniciativas, ayudas"
+        ],
+        [
+          "Económico",
+          "Tendencias, crisis, ciclos, tipos de cambio, tipos de interés, precios"
+        ],
+        [
+          "Social",
+          "Demografía, estilo de vida, actitudes, nivel de educación, patrones culturales, tipo de consumo"
+        ],
+        [
+          "Tecnológico",
+          "TIC, patentes, procesos de producción, innovación, investigación, infraestructuras"
+        ],
+        [
+          "Ecológico",
+          "Problemas medioambiente, políticas de medioambiente, consumo"
+        ],
+        [
+          "Legal",
+          "Legislación, derecho, reglamentación, decretos locales, regulación"
+        ]
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 18 (OCR de imagen) — la asignación exacta de cada ejemplo a su columna puede no ser perfecta por el OCR"
+    },
+    {
+      "titulo": "DAFO",
+      "columnas": [
+        "",
+        "Negativos",
+        "Positivos"
+      ],
+      "filas": [
+        [
+          "De origen interno",
+          "Debilidades",
+          "Fortalezas"
+        ],
+        [
+          "De origen externo",
+          "Amenazas",
+          "Oportunidades"
+        ]
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 21 (OCR de imagen)"
+    },
+    {
+      "titulo": "Modelos económicos y su estrategia de marketing",
+      "columnas": [
+        "Modelo",
+        "Premisa",
+        "Aplicación de marketing",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Modelo Neoclásico",
+          "El Homo economicus; consumidor 100% racional",
+          "Fijación de precios y promociones funcionales",
+          "Dacia o Ryanair"
+        ],
+        [
+          "Economía Conductual",
+          "Irracionalidad sistemática",
+          "Arquitectura de decisión y Nudging (efecto anclaje, efecto escasez)",
+          "Amazon / El Corte Inglés; Booking.com"
+        ],
+        [
+          "Estructuras de Mercado",
+          "Clasificación de los mercados",
+          "Huida del commodity (diferenciación de marca)",
+          "Apple o Starbucks"
+        ],
+        [
+          "Ley de Oferta y Demanda",
+          "El punto de equilibrio",
+          "Modificación activa de las curvas (desplazamiento, inelasticidad)",
+          "Nike (Air Jordan)"
+        ]
+      ],
+      "fuente": "UNIDAD 01-GF- Modelos Económicos y Marketing.pptx (Canvas 75500, file 8417056), diap. 3-10"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Fases del proceso emprendedor",
+      "pasos": [
+        "Exploración.- Generación de ideas, descubrimiento de la oportunidad de negocio",
+        "Evaluación.- Estudio de viabilidad y plan de empresa",
+        "Exploración [sic, ejecución].- Ejecución del proyecto"
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 25 (OCR de imagen)"
+    },
+    {
+      "titulo": "Emprendimiento: iniciativa, creatividad e innovación",
+      "pasos": [
+        "Iniciativa: identificación de oportunidades / emprender acciones para resolver dificultades",
+        "Creatividad: propuesta de ideas diferentes y originales",
+        "Innovación: puesta en práctica de la idea seleccionada"
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 24 (OCR de imagen)"
+    },
+    {
+      "titulo": "Cinco fuerzas de Porter (entorno específico)",
+      "pasos": [
+        "Poder de negociación de clientes",
+        "Poder de negociación de proveedores",
+        "Amenaza de nuevos competidores",
+        "Amenaza de productos sustitutivos",
+        "Rivalidad entre competidores"
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 19 (OCR de imagen)"
+    },
+    {
+      "titulo": "Condiciones para la viabilidad positiva",
+      "pasos": [
+        "El presupuesto de financiación debe cubrir el presupuesto de inversiones",
+        "Las previsiones de la cuenta de resultados deben ser positivas",
+        "La tesorería debe tener liquidez positiva todos los años y todos los meses del primer año"
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 31"
+    },
+    {
+      "titulo": "Del idea al plan de empresa",
+      "pasos": [
+        "Tener la idea (p. ej. brainstorming)",
+        "Estudio y análisis de la viabilidad de la idea",
+        "Elaborar el plan de empresa (documento abierto y flexible)",
+        "Plan de viabilidad a 3-5 años incluido en el plan"
+      ],
+      "fuente": "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055), diap. 28-31"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Cuál es la misión principal de una empresa?",
+      "respuesta": "Proporcionar una oferta concreta de bienes y servicios al mercado para satisfacer las necesidades de su posible clientela (U1 diap. 5)."
+    },
+    {
+      "pregunta": "¿En qué consiste la función productiva y cuál es su objetivo?",
+      "respuesta": "Obtener outputs (bienes y servicios) a partir de inputs; su objetivo último es crear riqueza (U1 diap. 6)."
+    },
+    {
+      "pregunta": "Cita 4 formas de crear riqueza.",
+      "respuesta": "Fabricación, transportando bienes, almacenamiento, proporcionar un servicio concreto (U1 diap. 6)."
+    },
+    {
+      "pregunta": "¿Qué son las sinergias?",
+      "respuesta": "El funcionamiento de la empresa como un todo es superior a la suma de sus partes (U1 diap. 12)."
+    },
+    {
+      "pregunta": "¿Con qué está ligada la RSC?",
+      "respuesta": "Con los Objetivos de Desarrollo Sostenible (ODS) (U1 diap. 13)."
+    },
+    {
+      "pregunta": "Diferencia entre macroentorno y microentorno.",
+      "respuesta": "Macro: factores externos que afectan a todas las empresas, fuera de control (políticos, legales). Micro: factores más cercanos (clientes, proveedores) (U1 diap. 16)."
+    },
+    {
+      "pregunta": "¿Qué herramienta se usa para el entorno general y cuál para el específico?",
+      "respuesta": "PESTEL para el general; las Cinco Fuerzas de Porter para el específico (U1 diap. 17)."
+    },
+    {
+      "pregunta": "¿Qué divide el DAFO?",
+      "respuesta": "Análisis interno (debilidades, fortalezas: se puede controlar) y externo (amenazas, oportunidades: no se puede controlar) (U1 diap. 20-21)."
+    },
+    {
+      "pregunta": "¿Las tres características personales para poner en marcha una empresa?",
+      "respuesta": "Iniciativa, creatividad e innovación (U1 diap. 23)."
+    },
+    {
+      "pregunta": "Cita un ejemplo de emprendimiento social del tema.",
+      "respuesta": "Too good to go, Adopta un abuelo, Ecoalf (U1 diap. 23)."
+    },
+    {
+      "pregunta": "¿Qué doble función cumple el plan de empresa?",
+      "respuesta": "Hoja de ruta interna para evitar la improvisación y carta de presentación ante bancos, socios o inversores (U1 diap. 29)."
+    },
+    {
+      "pregunta": "¿Horizonte temporal del plan de viabilidad?",
+      "respuesta": "Entre tres y cinco años (U1 diap. 31)."
+    },
+    {
+      "pregunta": "¿Qué es el efecto anclaje? Ejemplo.",
+      "respuesta": "Mostrar un precio original alto para que la rebaja parezca drástica; 'Antes 100€ | Ahora 49€' (Modelos Económicos diap. 5-6)."
+    },
+    {
+      "pregunta": "¿Cómo rompe Starbucks la competencia perfecta?",
+      "respuesta": "Mediante atmósfera, estatus y experiencia de usuario, creando un 'monopolio' sobre su marca (competencia monopolística) (Modelos Económicos diap. 8)."
+    },
+    {
+      "pregunta": "¿Qué logra Nike con Air Jordan respecto a la demanda?",
+      "respuesta": "Desplaza la curva de demanda a la derecha y crea inelasticidad: el volumen apenas varía aunque suba el precio (Modelos Económicos diap. 10)."
+    }
+  ],
+  "fuentes": [
+    "UNIDAD 1. GF - INICIATIVA EMPRENDEDORA Y CREACION EMPRESA.pptx (Canvas 75500, file 8417055) — 32 diapositivas; texto con python-pptx y OCR (RapidOCR) en diap. 10, 14, 18, 19, 21, 24, 25, 30",
+    "UNIDAD 01-GF- Modelos Económicos y Marketing.pptx (Canvas 75500, file 8417056) — 11 diapositivas, texto con python-pptx",
+    "Copias idénticas en Drive: Marketing y Publicidad / Gestión económica y financiera de la empresa / Apuntes"
+  ]
+}
