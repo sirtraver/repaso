@@ -1,0 +1,307 @@
+{
+  "asignatura": "INICIACIÓN A RELACIONES PÚBLICAS Y ORGANIZACIÓN DE EVENTOS DE MARKETING(B)",
+  "tema": 1,
+  "titulo": "Las RRPP en la empresa",
+  "resumen": "Las RRPP son un instrumento de comunicación dentro del marketing que busca la aceptación, confianza y apoyo de públicos diversos (p. 3-4).\nSus públicos van más allá de los clientes: medios, líderes de opinión, autoridades, grupos de presión, empleados, sindicatos, sociedad (p. 5).\nContribuyen a despertar conciencia, desarrollar credibilidad, estimular a la fuerza de ventas y reducir costes de promoción (p. 6-7).\nTipos: externas/internas, difusión de información, patrocinio, mecenazgo, imagen y servicio público; casos Coca-Cola, IKEA, Netflix (p. 8-13).\nForman parte del marketing mix y actúan a largo plazo; el departamento de RRPP gestiona las actitudes de los públicos (p. 14-15).\nCon los medios generan publicity (publicidad no pagada) mediante notas y ruedas de prensa, gabinetes y lobbies (p. 22-23).\nLa imagen corporativa, la identidad visual (logotipo, isotipo, imagotipo) y el manual corporativo garantizan coherencia de marca (p. 24-30).",
+  "conceptos": [
+    {
+      "termino": "Relaciones públicas",
+      "definicion": "Son un instrumento de comunicación. Más concretamente, una parte de la comunicación dentro de las actividades de marketing.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 3"
+    },
+    {
+      "termino": "Relaciones públicas (finalidad)",
+      "definicion": "Integran un conjunto de actividades llevadas a cabo por las organizaciones, con el fin genérico de conseguir, mantener o recuperar la aceptación, la confianza y el apoyo de una diversidad de públicos, no siempre relacionados con los productos o actividades que desarrolla la empresa o entidad.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 3"
+    },
+    {
+      "termino": "Público",
+      "definicion": "cualquier grupo que tenga un interés real o potencial o un impacto sobre la capacidad de una empresa para llevar a cabo sus objetivos.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 5"
+    },
+    {
+      "termino": "Patrocinio",
+      "definicion": "financiación de espacios y programas, subvenciones de actividades deportivas, etc.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 12"
+    },
+    {
+      "termino": "Mecenazgo",
+      "definicion": "donaciones y subvenciones a instituciones y fundaciones educativas, culturales, benéficas y sociales. Becas, ayudas y premios culturales y artísticos, etc.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 12"
+    },
+    {
+      "termino": "Publicity",
+      "definicion": "publicity es todo tipo de publicidad no pagada.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 22"
+    },
+    {
+      "termino": "Propaganda",
+      "definicion": "La propaganda es información difundida a través de los medios de comunicación de masas, en forma de noticias, reportajes, entrevistas, etc.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 22"
+    },
+    {
+      "termino": "Nota de prensa",
+      "definicion": "comunicación escrita dirigida a los medios de comunicación",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 23"
+    },
+    {
+      "termino": "Imagen corporativa",
+      "definicion": "el conjunto de representaciones mentales que se forman en el público a partir de los mensajes, las experiencias y las acciones de una empresa o institución.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 24"
+    },
+    {
+      "termino": "Identidad visual",
+      "definicion": "conjunto de elementos gráficos que permiten identificar visualmente a una organización (logotipo, colores, tipografías, recursos y aplicaciones).",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 24"
+    },
+    {
+      "termino": "Manual Corporativo",
+      "definicion": "Es un documento guía que define las normas y directrices de uso de la identidad visual y verbal de una marca.",
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 29"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Tipos de logo",
+      "columnas": [
+        "Tipo",
+        "Composición"
+      ],
+      "filas": [
+        [
+          "Logotipo",
+          "compuesto por palabras"
+        ],
+        [
+          "Isotipo",
+          "compuesto por imágenes"
+        ],
+        [
+          "Isologo (inseparable) o Imagotipo (separable)",
+          "combina tipografía e imágenes"
+        ]
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 25"
+    },
+    {
+      "titulo": "RRPP externas vs internas",
+      "columnas": [
+        "Tipo",
+        "Destinatarios",
+        "Comunicaciones"
+      ],
+      "filas": [
+        [
+          "Externas",
+          "medios de comunicación, clientes, organizaciones de consumidores y usuarios, proveedores, accionistas, acreedores, sindicatos, poderes públicos y sociedad en general",
+          "noticias, conferencias, acontecimientos especiales, material escrito y material audiovisual"
+        ],
+        [
+          "Internas",
+          "los empleados y directivos de la organización",
+          "circulares, periódicos, documentos de bienvenida, etc."
+        ]
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 11"
+    },
+    {
+      "titulo": "Plazo de actuación en el mix de comunicación",
+      "columnas": [
+        "Instrumento",
+        "Plazo"
+      ],
+      "filas": [
+        [
+          "Promoción de ventas",
+          "corto plazo"
+        ],
+        [
+          "Publicidad",
+          "medio plazo"
+        ],
+        [
+          "RRPP",
+          "largo plazo"
+        ]
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 14"
+    },
+    {
+      "titulo": "Casos de clase",
+      "columnas": [
+        "Caso",
+        "Qué combina"
+      ],
+      "filas": [
+        [
+          "Coca-Cola 'Share a Coke'",
+          "RRPP (visibilidad, conversación), marketing de producto (packaging como medio), redes sociales como amplificador"
+        ],
+        [
+          "IKEA ThisAbles",
+          "RRPP + propósito social + innovación de producto"
+        ],
+        [
+          "Netflix: Academia Nevermore en Madrid",
+          "RRPP con marketing digital y experiencia de marca"
+        ]
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 8-10"
+    },
+    {
+      "titulo": "Componentes del manual corporativo",
+      "columnas": [
+        "Componente",
+        "Contenido"
+      ],
+      "filas": [
+        [
+          "Logotipo / marcas",
+          "versión principal, variantes, positivo/negativo, tamaños mínimos, área de protección, usos correctos e incorrectos"
+        ],
+        [
+          "Paleta de colores corporativos",
+          "primarios y secundarios, códigos exactos (RGB, CMYK, Pantone, HEX), colores prohibidos, escala de grises"
+        ],
+        [
+          "Tipografía",
+          "fuentes principales y secundarias, tamaños, pesos, interlineado, tracking, legibilidad"
+        ],
+        [
+          "Imaginería / iconografía / estilo gráfico",
+          "estilo de fotos, ilustraciones, iconos, patrones, estilos a evitar"
+        ],
+        [
+          "Aplicaciones prácticas",
+          "papelería, uniformes, señalética, packaging, web, redes sociales, presentaciones"
+        ],
+        [
+          "Usos incorrectos",
+          "deformaciones del logotipo, colores alterados, tipografía no aprobada, fondos inapropiados"
+        ],
+        [
+          "Normas de espaciamiento",
+          "margen mínimo, tamaño mínimo para impresos, proporciones de retícula"
+        ],
+        [
+          "Tono y estilo de comunicación verbal",
+          "formal, informal, cercano, institucional, mensajes clave, slogan"
+        ]
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 30"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Características de la actividad de RRPP",
+      "pasos": [
+        "Es una actividad habitual y planificada",
+        "Se busca obtener la confianza de los públicos (venta indirecta, no directa)",
+        "Se dirige a una multitud de públicos heterogéneos",
+        "La comunicación no suele ser repetitiva (salvo patrocinio o imagen corporativa)",
+        "El mensaje es más sutil que el de la publicidad o la venta personal",
+        "El mensaje es más creíble que el de los restantes instrumentos de la promoción"
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 4"
+    },
+    {
+      "titulo": "Objetivos de las RRPP en marketing",
+      "pasos": [
+        "Despertar una conciencia",
+        "Desarrollar la credibilidad",
+        "Estimular a la fuerza de ventas y a los vendedores",
+        "Reducir los costes de promoción"
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 6"
+    },
+    {
+      "titulo": "Objetivos específicos de campaña",
+      "pasos": [
+        "Crear expectación en el mercado antes de lanzar los medios de publicidad",
+        "Crear una base central de consumidores",
+        "Crear una relación personal con los consumidores",
+        "Transformar al cliente satisfecho en recomendador",
+        "Influenciar a los influyentes (influencers)"
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 7"
+    },
+    {
+      "titulo": "Tareas del departamento de RRPP",
+      "pasos": [
+        "Apoyar el lanzamiento de nuevos productos",
+        "Ayudar al reposicionamiento",
+        "Crear interés por una determinada categoría de producto",
+        "Influenciar a grupos objetivos específicos",
+        "Defender productos que se han enfrentado a problemas públicos",
+        "Crear imagen corporativa de un modo que afecte favorablemente a sus productos"
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 15"
+    },
+    {
+      "titulo": "Formas de relacionarse con la prensa",
+      "pasos": [
+        "Directamente: más económico, requiere base de datos de periodistas y generar noticias",
+        "A través de gabinetes de prensa o gabinetes de RRPP y protocolo",
+        "Herramientas: notas de prensa, conferencias y ruedas de prensa, lobbies"
+      ],
+      "fuente": "RRPP Tema 1.pdf (Canvas 75640, file 8490211), p. 23"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué son las RRPP según el tema?",
+      "respuesta": "Un instrumento de comunicación; una parte de la comunicación dentro de las actividades de marketing (p. 3)."
+    },
+    {
+      "pregunta": "¿Las RRPP hacen venta directa?",
+      "respuesta": "No; no hay proposición de venta directa, pero sí indirecta (p. 4)."
+    },
+    {
+      "pregunta": "¿Por qué el mensaje de RRPP es más creíble?",
+      "respuesta": "Porque suele emitirse como noticia, informe u opinión por personas o instituciones ajenas a la entidad (p. 4, 22)."
+    },
+    {
+      "pregunta": "Cita cuatro receptores de las RRPP además de clientes.",
+      "respuesta": "Medios, líderes de opinión, autoridades y reguladores, grupos de presión, analistas financieros, sindicatos (p. 5)."
+    },
+    {
+      "pregunta": "Diferencia entre patrocinio y mecenazgo.",
+      "respuesta": "Patrocinio: financiación de espacios, programas, actividades deportivas. Mecenazgo: donaciones a instituciones educativas, culturales, benéficas y sociales (p. 12)."
+    },
+    {
+      "pregunta": "¿En qué plazo actúan promoción de ventas, publicidad y RRPP?",
+      "respuesta": "Corto, medio y largo plazo respectivamente (p. 14)."
+    },
+    {
+      "pregunta": "¿Por qué están en auge las RRPP?",
+      "respuesta": "Por el incremento de los costes de la publicidad y la necesidad de anuncios cada vez más originales (p. 14)."
+    },
+    {
+      "pregunta": "¿Qué es la publicity? Ejemplo.",
+      "respuesta": "Toda publicidad no pagada; p. ej. la entrega de los premios Planeta recogida en las noticias (p. 22)."
+    },
+    {
+      "pregunta": "¿Puede la propaganda ser negativa?",
+      "respuesta": "Sí: el medio controla el mensaje, por lo que puede ser o no favorable (p. 22)."
+    },
+    {
+      "pregunta": "¿Qué hace un gabinete de RRPP y protocolo?",
+      "respuesta": "Se usa en empresas grandes y crea eventos para distintos públicos (prensa, clientes, líderes de opinión, empleados) (p. 23)."
+    },
+    {
+      "pregunta": "Logotipo, isotipo e imagotipo: diferencia.",
+      "respuesta": "Logotipo: palabras; isotipo: imágenes; isologo/imagotipo: tipografía + imagen (inseparable/separable) (p. 25)."
+    },
+    {
+      "pregunta": "¿Qué elementos incluye la imagen de una empresa?",
+      "respuesta": "Filosofía, misión, visión, valores, lealtad, servicio, nivel de innovación y elementos de identidad visual (p. 27)."
+    },
+    {
+      "pregunta": "¿Para qué sirve el manual corporativo?",
+      "respuesta": "Garantizar uniformidad, coherencia y reconocimiento; facilita el trabajo interno, evita errores costosos y es base para crecer (p. 29)."
+    }
+  ],
+  "fuentes": [
+    "RRPP Tema 1.pdf (Canvas 75640, file 8490211) — 32 páginas, texto con pdftotext; p. 16 (caso Desigual) solo imagen, OCR sin contenido aprovechable; p. 17-20 solo títulos"
+  ]
+}

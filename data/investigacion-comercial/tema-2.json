@@ -1,0 +1,259 @@
+{
+  "asignatura": "INICIACIÓN A INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 2,
+  "titulo": "Configuración de un sistema de información de marketing (SIM)",
+  "resumen": "La investigación comercial es la principal herramienta para la toma de decisiones: reduce la incertidumbre y aporta racionalidad y objetividad (p. 3).\nEs más amplia que la investigación de mercados, debe ser 'value for money' y tiene limitaciones para obtener y analizar información (p. 3).\nLa información se clasifica según su naturaleza (bibliográfica, cuantitativa, cualitativa), su origen y su disponibilidad (primaria/secundaria) (p. 4).\nKotler define el SIM como una estructura estable de personas, equipos y procedimientos; se compone de cuatro subsistemas (p. 4-5).\nLa investigación comercial busca, interpreta y analiza datos; se aplica a mercado, consumidor, competencia y las 4 P (p. 6-7).\nLa ética se regula con el código ICC/ESOMAR (1948) y en España con AEDEMO (1969) y ANEIMO (p. 7-8).\nANEIMO promueve los Premios a la Eficacia en investigación comercial (p. 8; diap. 24).",
+  "conceptos": [
+    {
+      "termino": "Información",
+      "definicion": "conjunto de datos que permiten comprender situaciones, facilitan la toma de decisiones o sirven para evaluar tomas de decisiones ejecutadas en el pasado.",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 4 del PDF"
+    },
+    {
+      "termino": "Fuentes cuantitativas",
+      "definicion": "información que se puede tratar estadísticamente. Son: Bases de Datos, encuestas y paneles",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 4 del PDF"
+    },
+    {
+      "termino": "Paneles",
+      "definicion": "muestras estables de consumidores o empresas que ofrecen información sobre temas de interés para las compañías",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 4 del PDF"
+    },
+    {
+      "termino": "Fuentes cualitativas",
+      "definicion": "fuentes de información no numérica.",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 4 del PDF"
+    },
+    {
+      "termino": "Fuente primaria",
+      "definicion": "información que se desarrolla de primera mano por parte del investigador mediante encuestas, entrevistas etc.",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 4 del PDF"
+    },
+    {
+      "termino": "Fuente secundaria",
+      "definicion": "información previamente elaborada y accesible en Internet, bases de datos etc.",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 4 del PDF"
+    },
+    {
+      "termino": "Sistema de Información de Marketing (Kotler)",
+      "definicion": "Una estructura estable de interacción, integrada por personas, equipos y procedimiento, cuya finalidad es reunir, clasificar, evaluar y distribuir información pertinente, oportuna y verídica para el uso de los responsables en la toma de decisiones, con el fin de mejorar la panificación ejecución y control de los planes de marketing",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 4-5 del PDF"
+    },
+    {
+      "termino": "Investigación comercial",
+      "definicion": "consiste en la búsqueda, interpretación y análisis de datos para lograr un propósito vinculado al ámbito comercial y poder así tomar decisiones.",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 6 del PDF"
+    },
+    {
+      "termino": "Investigación comercial (AMA)",
+      "definicion": "la función que enlaza al consumidor, cliente y público con los responsables de marketing a través de información utiliza para identificar y definir las oportunidades y problemas de marketing, y que genera, redefine y evalúa las acciones de marketing, pone en evidencia el rendimiento del marketing y mejora la compresión del marketing como proceso",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 6 del PDF"
+    },
+    {
+      "termino": "Ética (en investigación comercial)",
+      "definicion": "La ética que regula el comportamiento y las relaciones humanas, entendida como un conjunto de principios y reglas morales debe estar presente en la práctica de la investigación comercial",
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 7 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Fuentes de información",
+      "columnas": [
+        "Criterio",
+        "Tipos"
+      ],
+      "filas": [
+        [
+          "Naturaleza",
+          "bibliográficas e internet; cuantitativas (bases de datos, encuestas, paneles); cualitativas (entrevistas, dinámicas de grupo, observación, técnicas proyectivas y de creatividad)"
+        ],
+        [
+          "Origen",
+          "personas que investigan; organismos o instituciones (CIS, INE); archivos documentales (biblioteca, hemeroteca)"
+        ],
+        [
+          "Disponibilidad",
+          "primaria (de primera mano); secundaria (previamente elaborada)"
+        ]
+      ],
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 4 del PDF"
+    },
+    {
+      "titulo": "Subsistemas del SIM",
+      "columnas": [
+        "Subsistema",
+        "Contenido"
+      ],
+      "filas": [
+        [
+          "Datos internos",
+          "datos obtenidos dentro de la organización (transacciones, clientes, proveedores)"
+        ],
+        [
+          "Inteligencia de marketing",
+          "información externa, publicaciones relevantes sobre el mercado"
+        ],
+        [
+          "Investigación de mercados",
+          "informaciones exclusivas y particulares"
+        ],
+        [
+          "Soporte a las medidas de marketing",
+          "a través de estadísticas"
+        ]
+      ],
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 5 del PDF"
+    },
+    {
+      "titulo": "Asociaciones y códigos",
+      "columnas": [
+        "Entidad",
+        "Dato clave"
+      ],
+      "filas": [
+        [
+          "ESOMAR",
+          "redactó el 1er código ético en 1948"
+        ],
+        [
+          "AEDEMO",
+          "fundada en España en 1969; difusión y control de las técnicas"
+        ],
+        [
+          "ANEIMO",
+          "agrupa a las empresas líderes; Premios a la Eficacia"
+        ],
+        [
+          "Código ICC/ESOMAR",
+          "directrices globales de autorregulación (LOPD/RGPD y secreto estadístico)"
+        ]
+      ],
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 7-8 del PDF"
+    },
+    {
+      "titulo": "Qué podemos investigar",
+      "columnas": [
+        "Componente",
+        "Preguntas"
+      ],
+      "filas": [
+        [
+          "Mercado",
+          "quién lo compone, posibilidad de introducirnos o ampliarlo"
+        ],
+        [
+          "Consumidor",
+          "perfiles, hábitos y costumbres"
+        ],
+        [
+          "Competencia",
+          "características, capacidad"
+        ],
+        [
+          "Producto",
+          "imagen, localización, qué nos diferencia"
+        ],
+        [
+          "Precio",
+          "¿es el correcto? ¿cómo se percibe?"
+        ],
+        [
+          "Distribución",
+          "intermediarios, canales, puntos de venta"
+        ],
+        [
+          "Comunicación",
+          "publicidad, información que tienen de nosotros"
+        ]
+      ],
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 6 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Limitaciones de la investigación comercial",
+      "pasos": [
+        "1. Cómo obtener información sólida (p. ej., falta de respuesta en encuestas)",
+        "2. Cómo analizar la información (datos incompletos, sinceridad o memoria del cliente)"
+      ],
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 3 del PDF"
+    },
+    {
+      "titulo": "Objetivos de AEDEMO",
+      "pasos": [
+        "Contribuir al conocimiento y desarrollo de las técnicas de estudios de mercado y opinión",
+        "Promover métodos para aplicar los datos a la comercialización",
+        "Arbitrar conflictos técnicos entre empresas y proveedores de investigación"
+      ],
+      "fuente": "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942), p. 7 del PDF"
+    },
+    {
+      "titulo": "Aplicaciones prácticas (presentación)",
+      "pasos": [
+        "Rebranding",
+        "Diseño de envases",
+        "Valor de marca",
+        "Impacto de promociones"
+      ],
+      "fuente": "Tema 2-IC (4).pptx (Canvas 75585, file 8516379), diap. 13-16"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Para qué sirve la investigación comercial?",
+      "respuesta": "Para reducir la incertidumbre en la toma de decisiones mediante información (p. 3)."
+    },
+    {
+      "pregunta": "¿Investigación comercial = investigación de mercados?",
+      "respuesta": "No; la comercial es más extensa: abarca cualquier problema u oportunidad (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué significa 'value for money'?",
+      "respuesta": "Que la información justifique el valor de la inversión necesaria para investigar (p. 3)."
+    },
+    {
+      "pregunta": "Fuentes cuantitativas vs cualitativas.",
+      "respuesta": "Cuantitativas: tratables estadísticamente (bases de datos, encuestas, paneles); cualitativas: no numéricas (entrevistas, dinámicas de grupo…) (p. 4)."
+    },
+    {
+      "pregunta": "¿Qué es un panel?",
+      "respuesta": "Una muestra estable de consumidores o empresas que ofrece información (p. 4)."
+    },
+    {
+      "pregunta": "Primaria vs secundaria.",
+      "respuesta": "Primaria: elaborada de primera mano; secundaria: ya elaborada y accesible (p. 4)."
+    },
+    {
+      "pregunta": "Ejemplos de fuentes institucionales.",
+      "respuesta": "CIS e INE (p. 4)."
+    },
+    {
+      "pregunta": "¿Quién definió el SIM?",
+      "respuesta": "Philip Kotler (p. 4)."
+    },
+    {
+      "pregunta": "Subsistemas del SIM.",
+      "respuesta": "Datos internos, inteligencia de marketing, investigación de mercados y soporte estadístico (p. 5)."
+    },
+    {
+      "pregunta": "Finalidad del SIM.",
+      "respuesta": "Organizar con rigor la información para contribuir eficientemente a la toma de decisiones (p. 5)."
+    },
+    {
+      "pregunta": "¿Cuándo y quién redactó el primer código ético?",
+      "respuesta": "ESOMAR en 1948 (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué normativas establece el código ICC/ESOMAR?",
+      "respuesta": "Protección de datos (LOPD y RGPD) y ley de la función estadística pública (secreto estadístico) (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué premios promueve ANEIMO?",
+      "respuesta": "Los Premios a la Eficacia en investigación comercial (p. 8)."
+    }
+  ],
+  "fuentes": [
+    "ICO-MYP-UD2. Configuración de un SIM.pdf (Canvas 75585, file 8333942) — 9 páginas, texto con pdftotext; p. 9 en blanco",
+    "Tema 2-IC (4).pptx (Canvas 75585, file 8516379) — 25 diapositivas (python-pptx); diap. 10 y 25 solo imagen; diap. 22 menciona una empresa alemana sin nombrarla en el texto"
+  ]
+}

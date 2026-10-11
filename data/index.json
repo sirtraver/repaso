@@ -1,5 +1,5 @@
 {
- "version": "20261011025057",
+ "version": "20261011030716",
  "real": true,
  "asignaturas": [
   {
@@ -23,6 +23,52 @@
    ]
   },
   {
+   "asignatura": "INGLÉS PROFESIONAL (Canvas 75655)",
+   "slug": "ingles-profesional",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Advertising and Marketing vocabulary + Making presentations (temario 1er cuatrimestre)",
+     "file": "data/ingles-profesional/tema-1.json",
+     "tarjetas": 10,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A ATENCIÓN AL CLIENTE, CONSUMIDOR Y USUARIO(B)",
+   "slug": "atencion-cliente",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Organización del departamento Servicio de Atención al Cliente (SAC)",
+     "file": "data/atencion-cliente/tema-1.json",
+     "tarjetas": 14,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Técnicas de comunicación en situaciones de atención al cliente",
+     "file": "data/atencion-cliente/tema-2.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A DISEÑO Y ELABORACIÓN DE MATERIAL DE COMUNICACIÓN(B)",
+   "slug": "diseno",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Fundamentos del Diseño Publicitario",
+     "file": "data/diseno/tema-1.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
    "asignatura": "INICIACIÓN A GESTIÓN ECONÓMICA Y FINANCIERA DE LA EMPRESA(B)",
    "slug": "gefe",
    "temas": [
@@ -37,6 +83,146 @@
      "tema": 2,
      "titulo": "Establecimiento de la forma jurídica de la empresa",
      "file": "data/gefe/tema-2.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A HABILIDADES COMUNICATIVAS EN INGLÉS(B)",
+   "slug": "habilidades-comunicativas-ingles",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Unit 1: Why English Communication Matters",
+     "file": "data/habilidades-comunicativas-ingles/tema-1.json",
+     "tarjetas": 10,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Unit 2: Oral Skill",
+     "file": "data/habilidades-comunicativas-ingles/tema-2.json",
+     "tarjetas": 10,
+     "ejemplo": false
+    },
+    {
+     "tema": 3,
+     "titulo": "Unit 3: Reading Skill",
+     "file": "data/habilidades-comunicativas-ingles/tema-3.json",
+     "tarjetas": 10,
+     "ejemplo": false
+    },
+    {
+     "tema": 4,
+     "titulo": "Unit 4: Writing Skill",
+     "file": "data/habilidades-comunicativas-ingles/tema-4.json",
+     "tarjetas": 10,
+     "ejemplo": false
+    },
+    {
+     "tema": 5,
+     "titulo": "Unit 5: Listening Skill",
+     "file": "data/habilidades-comunicativas-ingles/tema-5.json",
+     "tarjetas": 10,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A INVESTIGACIÓN COMERCIAL(B)",
+   "slug": "investigacion-comercial",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Análisis de las variables del mercado en el entorno de la empresa",
+     "file": "data/investigacion-comercial/tema-1.json",
+     "tarjetas": 14,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Configuración de un sistema de información de marketing (SIM)",
+     "file": "data/investigacion-comercial/tema-2.json",
+     "tarjetas": 13,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A MARKETING DIGITAL(B)",
+   "slug": "marketing-digital",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Introducción a Internet (+ taller de marca personal)",
+     "file": "data/marketing-digital/tema-1.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A POLÍTICAS DE MARKETING(B)",
+   "slug": "politicas-marketing",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Evaluación de las oportunidades de mercado de la empresa (+ anexos Viaje del Héroe y E-commerce)",
+     "file": "data/politicas-marketing/tema-1.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A RELACIONES PÚBLICAS Y ORGANIZACIÓN DE EVENTOS DE MARKETING(B)",
+   "slug": "rrpp",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Las RRPP en la empresa",
+     "file": "data/rrpp/tema-1.json",
+     "tarjetas": 13,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Las fases de las RRPP",
+     "file": "data/rrpp/tema-2.json",
+     "tarjetas": 12,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "INICIACIÓN A TRABAJO DE CAMPO EN LA INVESTIGACIÓN COMERCIAL(B)",
+   "slug": "trabajo-de-campo",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Planificación del trabajo de campo",
+     "file": "data/trabajo-de-campo/tema-1.json",
+     "tarjetas": 13,
+     "ejemplo": false
+    }
+   ]
+  },
+  {
+   "asignatura": "ITINERARIO PERSONAL PARA LA EMPLEABILIDAD I(B)",
+   "slug": "ipe-i",
+   "temas": [
+    {
+     "tema": 1,
+     "titulo": "Seguridad y salud en el trabajo: riesgos laborales y sus consecuencias",
+     "file": "data/ipe-i/tema-1.json",
+     "tarjetas": 15,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Prevención y protección frente a los riesgos laborales",
+     "file": "data/ipe-i/tema-2.json",
      "tarjetas": 15,
      "ejemplo": false
     }

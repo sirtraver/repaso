@@ -1,0 +1,269 @@
+{
+  "asignatura": "INICIACIÓN A RELACIONES PÚBLICAS Y ORGANIZACIÓN DE EVENTOS DE MARKETING(B)",
+  "tema": 2,
+  "titulo": "Las fases de las RRPP",
+  "resumen": "Las RRPP son un proceso estratégico que sigue cuatro fases en ciclo continuo: investigación, planificación, ejecución y evaluación (p. 3).\nLa investigación recoge y analiza información sobre la organización, su entorno, competencia y públicos; puede ser documental o de campo (p. 4).\nConsumidor y público objetivo no son necesariamente lo mismo (p. 5).\nLa planificación define objetivos SMART, tipos de objetivo, estrategia, mensaje y recursos (p. 6-7, 13).\nEl plan de medios tiene nueve pasos, desde definir objetivos hasta analizar el plan (p. 8-13).\nLa ejecución pone en marcha el plan con comunicación coherente, creatividad y coordinación (p. 14).\nLa evaluación mide el impacto con pretest/postest, medición en medios, repercusión en redes y autoevaluación (p. 15).",
+  "conceptos": [
+    {
+      "termino": "Relaciones Públicas (proceso)",
+      "definicion": "Las Relaciones Públicas (RRPP) son un proceso estratégico que busca construir, mantener y fortalecer relaciones positivas entre una organización y sus públicos.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 3"
+    },
+    {
+      "termino": "Fase de investigación",
+      "definicion": "Esta fase consiste en recoger y analizar información sobre la organización, su entorno, su competencia y sus públicos.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 4"
+    },
+    {
+      "termino": "Investigación documental o secundaria",
+      "definicion": "análisis de informes, estadísticas, artículos, encuestas ya publicadas.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 4"
+    },
+    {
+      "termino": "Investigación de campo o primaria",
+      "definicion": "obtención directa de datos mediante entrevistas, encuestas, focus groups u observación.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 4"
+    },
+    {
+      "termino": "Consumidor",
+      "definicion": "persona que compra o utiliza un producto o servicio.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 5"
+    },
+    {
+      "termino": "Público objetivo",
+      "definicion": "grupo al que se dirigen las acciones de comunicación.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 5"
+    },
+    {
+      "termino": "Estrategia",
+      "definicion": "La estrategia define cómo se van a conseguir los objetivos.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 7"
+    },
+    {
+      "termino": "Mensaje",
+      "definicion": "El mensaje es lo que queremos comunicar, y debe ser coherente, atractivo y adaptado a cada público.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 7"
+    },
+    {
+      "termino": "Plan de medios",
+      "definicion": "Un plan de medios consiste en la búsqueda y definición de las plataformas y medios en los que se debe promocionar una marca, producto o servicio.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 8"
+    },
+    {
+      "termino": "Fase de ejecución",
+      "definicion": "Es la puesta en marcha del plan.",
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 14"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Objetivos SMART",
+      "columnas": [
+        "Letra",
+        "Significado"
+      ],
+      "filas": [
+        [
+          "S (Specific)",
+          "Específicos"
+        ],
+        [
+          "M (Measurable)",
+          "Medibles"
+        ],
+        [
+          "A (Achievable)",
+          "Alcanzables"
+        ],
+        [
+          "R (Relevant)",
+          "Relevantes"
+        ],
+        [
+          "T (Time-bound)",
+          "Delimitados en el tiempo"
+        ]
+      ],
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 6"
+    },
+    {
+      "titulo": "Tipos de objetivos",
+      "columnas": [
+        "Tipo",
+        "Descripción",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Informativos",
+          "dar a conocer algo",
+          "lanzamiento de producto"
+        ],
+        [
+          "Persuasivos",
+          "cambiar actitudes o comportamientos",
+          "fomentar hábitos de consumo sostenibles"
+        ],
+        [
+          "De venta",
+          "aumentar el consumo de un producto",
+          "ofertas, promoción de un producto"
+        ],
+        [
+          "De relación",
+          "fortalecer vínculos",
+          "fidelizar clientes, mejorar la reputación"
+        ]
+      ],
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 7"
+    },
+    {
+      "titulo": "Medios offline vs online",
+      "columnas": [
+        "Tipo",
+        "Ejemplos"
+      ],
+      "filas": [
+        [
+          "Offline",
+          "prensa, radio, televisión, cine, revistas, vallas publicitarias, marquesinas"
+        ],
+        [
+          "Online",
+          "buscadores, páginas web, redes sociales, blogs, email marketing"
+        ]
+      ],
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 10"
+    },
+    {
+      "titulo": "Métodos de evaluación",
+      "columnas": [
+        "Método",
+        "Qué mide"
+      ],
+      "filas": [
+        [
+          "Pretest y postest",
+          "comparar percepción antes y después de la campaña"
+        ],
+        [
+          "Medición en medios",
+          "número de menciones, apariciones o impactos"
+        ],
+        [
+          "Repercusión en redes",
+          "likes, comentarios, compartidos, engagement"
+        ],
+        [
+          "Autoevaluación del equipo",
+          "qué funcionó bien y qué se puede mejorar"
+        ]
+      ],
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 15"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Ciclo de las RRPP",
+      "pasos": [
+        "Investigo",
+        "Planifico",
+        "Ejecuto",
+        "Evalúo",
+        "y vuelvo a mejorar"
+      ],
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 3"
+    },
+    {
+      "titulo": "Pasos del plan de medios",
+      "pasos": [
+        "1. Definir los objetivos",
+        "2. Analizar el público objetivo o target",
+        "3. Desarrollar la estrategia",
+        "4. Seleccionar los medios",
+        "5. Seleccionar los canales (selección, periodicidad, formatos)",
+        "6. Definir los formatos",
+        "7. Asignar un presupuesto",
+        "8. Calendario o timing",
+        "9. Analizar el plan"
+      ],
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 8-13"
+    },
+    {
+      "titulo": "Ejecución práctica",
+      "pasos": [
+        "Coordinación con proveedores, medios e influencers",
+        "Elaboración de materiales gráficos o audiovisuales",
+        "Organización de eventos y acciones",
+        "Publicación y difusión de contenidos y materiales",
+        "Seguimiento del plan (control de tiempos, imprevistos, cambios)"
+      ],
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 14"
+    },
+    {
+      "titulo": "Organización de los recursos (preguntas)",
+      "pasos": [
+        "¿Qué se hará?",
+        "¿Quién lo hará?",
+        "¿Cuándo se hará?",
+        "¿Cómo se hará?",
+        "¿Por qué se hará?",
+        "¿Cuánto costará?"
+      ],
+      "fuente": "RRPP Tema 2.pdf (Canvas 75640, file 8522744), p. 13"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Cuáles son las 4 fases de las RRPP?",
+      "respuesta": "Investigación, planificación, ejecución y evaluación, en ciclo continuo (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué objetivos tiene la investigación?",
+      "respuesta": "Comprender la situación actual, detectar problemas/oportunidades/percepciones, identificar públicos y conocer sus características (p. 4)."
+    },
+    {
+      "pregunta": "Diferencia entre investigación secundaria y primaria.",
+      "respuesta": "Secundaria: datos ya publicados (informes, estadísticas). Primaria: datos directos (entrevistas, encuestas, focus groups, observación) (p. 4)."
+    },
+    {
+      "pregunta": "¿Consumidor = público objetivo?",
+      "respuesta": "No necesariamente: el consumidor compra/usa; el público objetivo es a quien se dirige la comunicación (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué significa SMART?",
+      "respuesta": "Específicos, Medibles, Alcanzables, Relevantes y Delimitados en el tiempo (p. 6)."
+    },
+    {
+      "pregunta": "Pon el ejemplo de objetivo SMART de clase.",
+      "respuesta": "Aumentar un 20% la notoriedad entre jóvenes de 18-25 años en Madrid en 6 meses con redes y eventos locales (p. 6)."
+    },
+    {
+      "pregunta": "¿Qué cuatro tipos de objetivos hay?",
+      "respuesta": "Informativos, persuasivos, de venta y de relación (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué es un plan de medios?",
+      "respuesta": "La búsqueda y definición de las plataformas y medios para promocionar una marca, producto o servicio, buscando la mejor combinación (p. 8)."
+    },
+    {
+      "pregunta": "¿Qué aspectos se valoran al seleccionar canales?",
+      "respuesta": "Selección (cobertura, penetración, segmentación geográfica), periodicidad y formatos (p. 11)."
+    },
+    {
+      "pregunta": "¿Qué tener en cuenta en el calendario?",
+      "respuesta": "Duración, fechas especiales, temporadas de demanda, acontecimientos relevantes y hábitos del público (p. 12)."
+    },
+    {
+      "pregunta": "¿Qué tres elementos clave tiene la ejecución?",
+      "respuesta": "Comunicación coherente, creatividad y ejecución práctica (p. 14)."
+    },
+    {
+      "pregunta": "¿Por qué evaluar?",
+      "respuesta": "Para saber si se cumplieron los objetivos, conocer el impacto y detectar errores para mejorar (p. 15)."
+    }
+  ],
+  "fuentes": [
+    "RRPP Tema 2.pdf (Canvas 75640, file 8522744) — 18 páginas, texto con pdftotext (no requirió OCR)"
+  ]
+}

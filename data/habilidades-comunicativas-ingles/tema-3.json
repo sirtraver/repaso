@@ -1,0 +1,117 @@
+{
+  "asignatura": "INICIACIÓN A HABILIDADES COMUNICATIVAS EN INGLÉS(B)",
+  "tema": 3,
+  "titulo": "Unit 3: Reading Skill",
+  "resumen": "Comprehension is showing you understand a text by answering questions about it (p. 12).\nIt is an everyday life skill and requires linking facts and clues (p. 12; slide 2).\nSix reading strategies: active reading, context, summarise, visualise, ask questions, put clues together (p. 12-13).\nComprehension = literal understanding + meaning + intention + interpretation; harder the longer the text (slide 4).\nPractice: British Council 'Millennials in the workplace' reading (p. 13).",
+  "conceptos": [
+    {
+      "termino": "Comprehension",
+      "definicion": "When you read a text and show you understand it by answering questions, this is called comprehension.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 12"
+    },
+    {
+      "termino": "Active reader",
+      "definicion": "You have to be an active reader. This means you need to be thinking about what you are reading, as you are reading it.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 13"
+    },
+    {
+      "termino": "Comprehension with active reading",
+      "definicion": "Comprehension with active reading = literal understanding + meaning + intention + interpretation",
+      "fuente": "Unit 3 - Reading Skill.pptx (Canvas 75868, file 8319193), slide 4"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Reading strategies",
+      "columnas": [
+        "Strategy",
+        "Characteristics"
+      ],
+      "filas": [
+        [
+          "1. Active reading",
+          "Attention to words; do not skim"
+        ],
+        [
+          "2. Context use",
+          "What? Who? When?"
+        ],
+        [
+          "3. Summarise",
+          "Important part? Why?"
+        ],
+        [
+          "4. Visualise message",
+          "Imagination/literal"
+        ],
+        [
+          "5. Ask questions",
+          "For interpretation"
+        ],
+        [
+          "6. Join all clues",
+          "for the 'big picture'"
+        ]
+      ],
+      "fuente": "Unit 3 - Reading Skill.pptx (Canvas 75868, file 8319193), slide 3; HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 12"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "How to answer a comprehension question",
+      "pasos": [
+        "Read: 'Tommy is wearing a grey jumper, round glasses and a blue hat'",
+        "Question: What colour hat is Tommy wearing?",
+        "Answer: 'Tommy is wearing a blue hat' → you have understood"
+      ],
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 13"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "What is comprehension?",
+      "respuesta": "Showing you understand a text by answering questions (p. 12)."
+    },
+    {
+      "pregunta": "Give everyday examples of comprehension.",
+      "respuesta": "Working out a sign, watching a film, listening to a podcast (p. 12)."
+    },
+    {
+      "pregunta": "First reading strategy?",
+      "respuesta": "Actively read the text; do not skim it (p. 12)."
+    },
+    {
+      "pregunta": "How does context help?",
+      "respuesta": "Each genre has different things happening, e.g. dragons in a fairy tale (p. 12)."
+    },
+    {
+      "pregunta": "What does 'His head is in the clouds' let you visualise?",
+      "respuesta": "A very tall man (p. 12)."
+    },
+    {
+      "pregunta": "What is the last strategy?",
+      "respuesta": "Put all the clues together to get the bigger picture (p. 12)."
+    },
+    {
+      "pregunta": "Why is a longer text harder?",
+      "respuesta": "You must link together more facts and clues (p. 13)."
+    },
+    {
+      "pregunta": "What is an active reader?",
+      "respuesta": "Someone who thinks about what they are reading as they read it (p. 13)."
+    },
+    {
+      "pregunta": "Comprehension formula from the slides.",
+      "respuesta": "Literal understanding + meaning + intention + interpretation (slide 4)."
+    },
+    {
+      "pregunta": "Which reading was used in class?",
+      "respuesta": "'Millennials in the workplace' (British Council, B2) (p. 13)."
+    }
+  ],
+  "fuentes": [
+    "Unit 3 - Reading Skill.pptx (Canvas 75868, file 8319193) — python-pptx",
+    "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191) — pp. 12-13, pdftotext",
+    "Material en inglés: definiciones literales en inglés"
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "asignatura": "INICIACIÓN A DISEÑO Y ELABORACIÓN DE MATERIAL DE COMUNICACIÓN(B)",
+  "tema": 1,
+  "titulo": "Fundamentos del Diseño Publicitario",
+  "resumen": "El diseño gráfico publicitario combina creatividad, comunicación visual y estrategia para transmitir un mensaje persuasivo (p. 3-5).\nSus elementos básicos son línea, forma, objeto, espacio, tipografía, textura y color (p. 7-9).\nLos principios del diseño organizan los elementos: énfasis, balance, ritmo, proporción, unidad/armonía y simplicidad (p. 12-14).\nLa Gestalt explica cómo percibimos: proximidad, semejanza, cierre, continuidad, figura-fondo, simplicidad, simetría (p. 16-17).\nTeoría y psicología del color: tono, saturación, brillo, RGB/CMYK, círculo cromático, armonías y significados por color (p. 19-30).\nMasterclass de ChatGPT: qué es un prompt y cómo hacerlo eficaz, usos y ética (p. 32-45).\nTipografía (serif, sans serif, script, display, variables y psicología) y composición publicitaria con su proceso en 11 pasos (p. 47-59).",
+  "conceptos": [
+    {
+      "termino": "Diseño gráfico publicitario",
+      "definicion": "El diseño gráfico publicitario es la disciplina que combina creatividad, comunicación visual y estrategia para transmitir un mensaje persuasivo a un público específico.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 3"
+    },
+    {
+      "termino": "Elementos del diseño",
+      "definicion": "Los elementos son las piezas con las que el diseñador construye el mensaje.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 7"
+    },
+    {
+      "termino": "La línea",
+      "definicion": "Elemento básico de todo grafismo formado por una linea de puntos.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 7"
+    },
+    {
+      "termino": "El objeto",
+      "definicion": "Forma con propiedades interdimensionales usando: luz, sombra y perspectiva.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 8"
+    },
+    {
+      "termino": "El espacio",
+      "definicion": "Distancia entre los elementos del diseño.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 8"
+    },
+    {
+      "termino": "Principios del diseño",
+      "definicion": "Son las reglas que organizan los elementos para lograr un diseño efectivo.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 12"
+    },
+    {
+      "termino": "Gestalt",
+      "definicion": "La Gestalt es una corriente de la psicología alemana (años 1920–30) que estudia cómo percibimos las formas y organizamos visualmente la información.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 16"
+    },
+    {
+      "termino": "Psicología del color",
+      "definicion": "La psicología del color estudia cómo los colores influyen en nuestras emociones, percepciones y decisiones de forma consciente e inconsciente.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 19"
+    },
+    {
+      "termino": "Tono (matiz)",
+      "definicion": "Es la identidad del color, lo que lo diferencia de otro: rojo, azul, verde, etc.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 19"
+    },
+    {
+      "termino": "Saturación (intensidad)",
+      "definicion": "Cuánto color “puro” hay frente a gris.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 19"
+    },
+    {
+      "termino": "Prompt",
+      "definicion": "Un prompt es el texto o instrucción que escribes para guiar a ChatGPT. Es tu briefing para la inteligencia artificial.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 34"
+    },
+    {
+      "termino": "Tipografía",
+      "definicion": "Tipografía es el arte y técnica de diseñar, organizar y disponer los caracteres para comunicar de forma visual.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 47"
+    },
+    {
+      "termino": "Tracking (interletrado)",
+      "definicion": "espacio entre todos los caracteres de un bloque de texto.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 48"
+    },
+    {
+      "termino": "Kerning",
+      "definicion": "ajuste del espacio entre dos letras concretas que chocan o quedan demasiado separadas visualmente.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 48"
+    },
+    {
+      "termino": "Composición publicitaria",
+      "definicion": "La composición es el arte de ordenar y ubicar los elementos visuales (imagen, texto, logotipo, espacio) en una pieza publicitaria (valla, cartel, anuncio digital, folleto) de modo que sea atractiva, coherente, legible y eficiente para comunicar el mensaje.",
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 54"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Principios de la Gestalt",
+      "columnas": [
+        "Principio",
+        "Descripción",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Proximidad",
+          "agrupamos elementos cercanos como si pertenecieran al mismo conjunto",
+          "flyers de supermercados"
+        ],
+        [
+          "Semejanza",
+          "agrupamos elementos que se parecen en forma, color, tipografía o estilo",
+          "Nivea"
+        ],
+        [
+          "Cierre",
+          "el cerebro completa mentalmente formas incompletas",
+          "logo de WWF"
+        ],
+        [
+          "Continuidad",
+          "seguimos naturalmente líneas, curvas o direcciones visuales",
+          "publicidad de perfumes"
+        ],
+        [
+          "Figura-fondo",
+          "distinguimos figura principal de su fondo",
+          "logo de FedEx"
+        ],
+        [
+          "Simplicidad",
+          "el cerebro prefiere formas simples, claras y fáciles de recordar",
+          "logo de Apple"
+        ],
+        [
+          "Simetría",
+          "lo simétrico se percibe como estable, equilibrado y agradable",
+          "arcos de McDonald's"
+        ]
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 16-17"
+    },
+    {
+      "titulo": "Psicología del color",
+      "columnas": [
+        "Color",
+        "Significado",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Rojo",
+          "energía, urgencia, pasión, venta/promoción, apetito",
+          "Coca-Cola"
+        ],
+        [
+          "Azul",
+          "confianza, seguridad, tecnología, profesionalidad",
+          "IBM, Facebook, Samsung"
+        ],
+        [
+          "Verde",
+          "naturaleza, salud, sostenibilidad, crecimiento, tranquilidad",
+          "marcas ecológicas"
+        ],
+        [
+          "Amarillo",
+          "optimismo, llamada de atención, juventud",
+          "McDonald's, Vueling"
+        ],
+        [
+          "Naranja",
+          "creatividad, acción, llamada a la compra",
+          "Basic Fit, ING"
+        ],
+        [
+          "Negro",
+          "lujo, elegancia, autoridad, premium, moda",
+          "marcas de lujo"
+        ],
+        [
+          "Blanco",
+          "pureza, simplicidad, minimalismo",
+          "Apple, Nike"
+        ],
+        [
+          "Rosa / Magenta",
+          "juventud y feminidad",
+          "Barbie"
+        ],
+        [
+          "Morado",
+          "realeza, calidad, misterio, espiritualidad, sabiduría, creatividad, lujo",
+          "Milka, Yahoo!"
+        ],
+        [
+          "Marrón / tierra",
+          "rusticidad, artesanía, producto natural",
+          "Nespresso"
+        ],
+        [
+          "Dorado / plateado",
+          "lujo, premium",
+          "Versace, Chevrolet"
+        ]
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 26-29"
+    },
+    {
+      "titulo": "Armonías de color",
+      "columnas": [
+        "Armonía",
+        "Definición",
+        "Efecto"
+      ],
+      "filas": [
+        [
+          "Monocromática",
+          "variaciones de la misma familia",
+          "elegancia, minimalismo"
+        ],
+        [
+          "Análoga",
+          "colores contiguos",
+          "suavidad, armonía"
+        ],
+        [
+          "Complementaria",
+          "colores opuestos",
+          "alto contraste, energía"
+        ],
+        [
+          "Triádica",
+          "tres colores equidistantes",
+          "variedad equilibrada"
+        ]
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 21-24"
+    },
+    {
+      "titulo": "Clasificación tipográfica",
+      "columnas": [
+        "Grupo",
+        "Rasgos",
+        "Sensación",
+        "Ejemplos"
+      ],
+      "filas": [
+        [
+          "Serif",
+          "remates en los extremos de los trazos",
+          "tradición, formalidad, autoridad",
+          "Times New Roman, Garamond, Georgia"
+        ],
+        [
+          "Sans Serif",
+          "sin remates, líneas limpias",
+          "modernidad, claridad, neutralidad",
+          "Helvetica, Arial, Futura"
+        ],
+        [
+          "Script / Handwriting",
+          "imitan escritura manual",
+          "cercanía, elegancia, arte",
+          "Coca-Cola"
+        ],
+        [
+          "Decorativa / Display",
+          "estilizadas, ornamentadas",
+          "impacto, originalidad",
+          "Disney"
+        ]
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 47, 49, 51"
+    },
+    {
+      "titulo": "Modelos de color",
+      "columnas": [
+        "Modelo",
+        "Uso"
+      ],
+      "filas": [
+        [
+          "RGB (Red Green Blue)",
+          "para pantallas"
+        ],
+        [
+          "CMYK (Cyan Magenta Yellow Black)",
+          "para impresión"
+        ]
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 19"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Proceso para diseñar una composición publicitaria eficaz",
+      "pasos": [
+        "1. Definir objetivo visual y mensaje clave",
+        "2. ¿Qué quiero que vean primero? ¿Qué deben recordar?",
+        "3. Elegir elemento focal",
+        "4. Establecer jerarquía visual",
+        "5. Diseñar retícula (regla de los tercios, proporción áurea, mallas simples)",
+        "6. Distribuir elementos según balance, ritmo, proximidad",
+        "7. Aplicar color / contraste / tipografía correcta",
+        "8. Dejar espacio negativo suficiente",
+        "9. Probar en escala real y distancia",
+        "10. Revisar simplicidad",
+        "11. Test de legibilidad / contraste"
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 59"
+    },
+    {
+      "titulo": "Cómo crear prompts eficaces en diseño",
+      "pasos": [
+        "Contexto: tipo de proyecto",
+        "Objetivo: qué quieres conseguir",
+        "Formato: tipo de resultado",
+        "Inspiración: estilo o referencias",
+        "Ajustes: tono y público"
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 42"
+    },
+    {
+      "titulo": "Funciones del diseño en marketing",
+      "pasos": [
+        "Atraer la atención en un entorno saturado",
+        "Comunicar valores de marca de manera inmediata",
+        "Transmitir emociones",
+        "Facilitar la comprensión del mensaje (3 segundos)",
+        "Generar recuerdo"
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 5"
+    },
+    {
+      "titulo": "Principios del diseño",
+      "pasos": [
+        "1. Énfasis o punto focal",
+        "2. Balance o equilibrio (simétrico / asimétrico)",
+        "3. Ritmo o movimiento (lineal o radial)",
+        "4. Proporción y escala",
+        "5. Unidad y armonía (repetición, sucesión, proximidad)",
+        "6. Simplicidad"
+      ],
+      "fuente": "Diseño Tema 1.pdf (Canvas 76033, file 8450870), p. 12-14"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Cuál es el objetivo principal del diseño publicitario?",
+      "respuesta": "Generar impacto, despertar emociones y provocar una acción (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué transmiten las líneas recta, curva y diagonal?",
+      "respuesta": "Estabilidad, dinamismo y tensión (p. 7)."
+    },
+    {
+      "pregunta": "Espacio positivo vs negativo; ejemplo.",
+      "respuesta": "Positivo: lo que ocupa el objeto; negativo: el vacío alrededor. FedEx oculta una flecha en el espacio negativo (p. 8)."
+    },
+    {
+      "pregunta": "¿Cuál es el elemento con mayor poder emocional?",
+      "respuesta": "El color (p. 9)."
+    },
+    {
+      "pregunta": "Equilibrio simétrico vs asimétrico.",
+      "respuesta": "Simétrico: ordenado, formal (publicidad bancaria). Asimétrico: dinámico, creativo (moda) (p. 12)."
+    },
+    {
+      "pregunta": "Diferencia entre Gestalt y principios del diseño.",
+      "respuesta": "Gestalt = percepción (cómo el cerebro interpreta); principios del diseño = composición (cómo se organizan los elementos) (p. 17)."
+    },
+    {
+      "pregunta": "¿Qué principio Gestalt usa el logo de WWF?",
+      "respuesta": "El cierre (p. 16)."
+    },
+    {
+      "pregunta": "¿Qué son colores primarios, secundarios y terciarios?",
+      "respuesta": "Primarios: rojo, azul, amarillo; secundarios: mezcla de dos primarios; terciarios: primario + secundario adyacente (p. 20)."
+    },
+    {
+      "pregunta": "¿RGB o CMYK para imprimir?",
+      "respuesta": "CMYK; RGB es para pantallas (p. 19)."
+    },
+    {
+      "pregunta": "¿Por qué el blanco requiere cuidado en Asia?",
+      "respuesta": "Es pureza en Occidente pero luto en partes de Asia (p. 30)."
+    },
+    {
+      "pregunta": "¿Qué es un prompt?",
+      "respuesta": "El texto o instrucción para guiar a ChatGPT; tu briefing para la IA (p. 34)."
+    },
+    {
+      "pregunta": "Diferencia entre tracking y kerning.",
+      "respuesta": "Tracking: espacio entre todos los caracteres de un bloque; kerning: ajuste entre dos letras concretas (p. 48)."
+    },
+    {
+      "pregunta": "¿Qué tipografía funciona mejor en pantalla?",
+      "respuesta": "Sans serif, porque los remates finos de la serif pueden perderse en píxeles (p. 48)."
+    },
+    {
+      "pregunta": "¿Cuántas familias tipográficas mezclar?",
+      "respuesta": "1 o 2 bien elegidas, con variaciones dentro de ellas (p. 48)."
+    },
+    {
+      "pregunta": "Tipos de balance en composición.",
+      "respuesta": "Simétrico, asimétrico y radial (p. 55)."
+    }
+  ],
+  "fuentes": [
+    "Diseño Tema 1.pdf (Canvas 76033, file 8450870) — 62 páginas, texto con pdftotext; p. 6, 11, 39, 41 y 62 son solo imagen (portadillas/ejemplos visuales sin texto teórico)"
+  ]
+}

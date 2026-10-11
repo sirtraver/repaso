@@ -1,0 +1,400 @@
+{
+  "asignatura": "ITINERARIO PERSONAL PARA LA EMPLEABILIDAD I(B)",
+  "tema": 2,
+  "titulo": "Prevención y protección frente a los riesgos laborales",
+  "resumen": "Una vez identificado el riesgo: prevenir → proteger → organizar → actuar; primero eliminar, luego evaluar y reducir, y proteger el riesgo residual (p. 3-5).\nLa Ley 31/1995 fija nueve principios de la acción preventiva en orden lógico (p. 5-6).\nTécnicas de prevención: seguridad en el trabajo, higiene industrial, ergonomía, psicosociología aplicada y medicina del trabajo (p. 7).\nLa protección colectiva tiene prioridad sobre la individual; la señalización es complementaria y los EPI son la última barrera (p. 8-11).\nLa evaluación de riesgos estima su magnitud y la planificación concreta medida, responsable, plazo, recursos y seguimiento (p. 11-12).\nModalidades de organización preventiva: asunción por el empresario, trabajadores designados, SPP, SPA y SPM (p. 13-15).\nDerechos de información, formación, consulta y participación, vigilancia de la salud, organismos (INSST, ITSS, CNSST, EU-OSHA) y emergencias (p. 15-21).",
+  "conceptos": [
+    {
+      "termino": "Prevención",
+      "definicion": "La prevención es el conjunto de actividades o medidas adoptadas o previstas en todas las fases de la actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 4 del PDF"
+    },
+    {
+      "termino": "Protección",
+      "definicion": "La protección comprende las medidas destinadas a evitar o disminuir las consecuencias que un riesgo puede producir sobre las personas cuando dicho riesgo no ha podido eliminarse por completo.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 4 del PDF"
+    },
+    {
+      "termino": "Riesgo residual",
+      "definicion": "Es el riesgo que permanece después de haber aplicado las medidas preventivas técnicamente posibles.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 5 del PDF"
+    },
+    {
+      "termino": "Técnicas preventivas",
+      "definicion": "Las técnicas preventivas son disciplinas especializadas que analizan distintos tipos de riesgos y proponen medidas para eliminarlos o reducirlos.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 7 del PDF"
+    },
+    {
+      "termino": "Protección colectiva",
+      "definicion": "La protección colectiva protege simultáneamente a varias personas frente a un riesgo.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 8 del PDF"
+    },
+    {
+      "termino": "Protección individual",
+      "definicion": "La protección individual actúa sobre una persona concreta.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 8 del PDF"
+    },
+    {
+      "termino": "Señalización de seguridad y salud",
+      "definicion": "La señalización de seguridad y salud proporciona una indicación, advertencia u obligación relacionada con un riesgo o una medida preventiva.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 9 del PDF"
+    },
+    {
+      "termino": "Equipo de Protección Individual (EPI)",
+      "definicion": "Un Equipo de Protección Individual es un equipo destinado a ser llevado o sujetado por la persona trabajadora para protegerla de uno o varios riesgos que puedan amenazar su seguridad o salud, así como cualquier complemento o accesorio destinado a tal fin.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 10 del PDF"
+    },
+    {
+      "termino": "Evaluación de riesgos",
+      "definicion": "Es el proceso dirigido a estimar la magnitud de los riesgos que no hayan podido evitarse, obteniendo la información necesaria para decidir si es preciso adoptar medidas preventivas y qué tipo de medidas deben aplicarse.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 11 del PDF"
+    },
+    {
+      "termino": "Servicio de Prevención Ajeno (SPA)",
+      "definicion": "Es una entidad especializada externa acreditada con la que la empresa concierta las actividades preventivas que no puede o no decide desarrollar con recursos propios.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 14 del PDF"
+    },
+    {
+      "termino": "Comité de Seguridad y Salud",
+      "definicion": "Órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en prevención, en los supuestos legalmente previstos.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 16 del PDF"
+    },
+    {
+      "termino": "Vigilancia de la salud",
+      "definicion": "La vigilancia de la salud permite comprobar cómo pueden afectar los riesgos laborales a la salud de las personas trabajadoras y detectar precozmente posibles alteraciones relacionadas con el trabajo.",
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 16 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Prevención vs protección",
+      "columnas": [
+        "Prevención",
+        "Protección"
+      ],
+      "filas": [
+        [
+          "Actúa antes de que se materialice el riesgo",
+          "Limita o reduce el daño si el riesgo persiste o se materializa"
+        ],
+        [
+          "Actúa sobre la causa o el origen",
+          "Puede actuar sobre el medio o sobre la persona"
+        ],
+        [
+          "Ej.: sustituir un producto peligroso",
+          "Ej.: resguardo, barandilla, pantalla o EPI"
+        ],
+        [
+          "Prioridad preventiva",
+          "Complementa la prevención"
+        ]
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 5 del PDF"
+    },
+    {
+      "titulo": "Principios de la acción preventiva (Ley 31/1995)",
+      "columnas": [
+        "Principio",
+        "Aplicación"
+      ],
+      "filas": [
+        [
+          "1. Evitar los riesgos",
+          "Eliminar el peligro cuando sea posible"
+        ],
+        [
+          "2. Evaluar los riesgos que no se puedan evitar",
+          "Conocer su magnitud y establecer prioridades"
+        ],
+        [
+          "3. Combatir los riesgos en su origen",
+          "Actuar donde nace el riesgo"
+        ],
+        [
+          "4. Adaptar el trabajo a la persona",
+          "Diseñar puestos, equipos y métodos considerando a las personas"
+        ],
+        [
+          "5. Tener en cuenta la evolución de la técnica",
+          "Incorporar mejoras técnicas"
+        ],
+        [
+          "6. Sustituir lo peligroso",
+          "Reemplazar por alternativas con poco o ningún peligro"
+        ],
+        [
+          "7. Planificar la prevención",
+          "Integrar técnica, organización, condiciones, relaciones sociales y factores ambientales"
+        ],
+        [
+          "8. Anteponer la protección colectiva a la individual",
+          "Proteger primero al conjunto"
+        ],
+        [
+          "9. Dar instrucciones adecuadas",
+          "Asegurar que las personas saben actuar de forma segura"
+        ]
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 6 del PDF"
+    },
+    {
+      "titulo": "Técnicas de prevención",
+      "columnas": [
+        "Técnica",
+        "Objeto principal"
+      ],
+      "filas": [
+        [
+          "Seguridad en el trabajo",
+          "Prevenir accidentes de trabajo ligados a lugares, equipos, instalaciones y procesos"
+        ],
+        [
+          "Higiene industrial",
+          "Prevenir enfermedades derivadas de la exposición a agentes físicos, químicos o biológicos"
+        ],
+        [
+          "Ergonomía",
+          "Adaptar el trabajo, los equipos y el entorno a las capacidades y limitaciones de la persona"
+        ],
+        [
+          "Psicosociología aplicada",
+          "Prevenir daños vinculados a la organización y a los factores psicosociales"
+        ],
+        [
+          "Medicina del trabajo",
+          "Vigilar y proteger la salud en relación con los riesgos laborales"
+        ]
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 7 del PDF"
+    },
+    {
+      "titulo": "Señalización según finalidad",
+      "columnas": [
+        "Tipo",
+        "Finalidad",
+        "Color"
+      ],
+      "filas": [
+        [
+          "Prohibición",
+          "Indica una conducta que no debe realizarse",
+          "Rojo"
+        ],
+        [
+          "Advertencia",
+          "Avisa de la existencia de un peligro",
+          "Amarillo"
+        ],
+        [
+          "Obligación",
+          "Indica una conducta o medida obligatoria",
+          "Azul"
+        ],
+        [
+          "Salvamento o socorro",
+          "Identifica salidas, vías de evacuación, primeros auxilios",
+          "Verde"
+        ],
+        [
+          "Equipos contra incendios",
+          "Localiza equipos de lucha contra incendios",
+          "Rojo"
+        ]
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 9 del PDF"
+    },
+    {
+      "titulo": "Modalidades de organización preventiva",
+      "columnas": [
+        "Modalidad",
+        "Cuándo"
+      ],
+      "filas": [
+        [
+          "Asunción personal por el empresario",
+          "hasta 10 trabajadores, o hasta 25 con un único centro; actividad no peligrosa (Anexo I RD 39/1997); no puede asumir la vigilancia de la salud"
+        ],
+        [
+          "Trabajadores designados",
+          "uno o varios trabajadores con formación, tiempo y medios"
+        ],
+        [
+          "Servicio de Prevención Propio (SPP)",
+          "obligatorio en empresas de más de 500 trabajadores, o de 250-500 con actividades del Anexo I"
+        ],
+        [
+          "Servicio de Prevención Ajeno (SPA)",
+          "entidad externa acreditada concertada"
+        ],
+        [
+          "Servicio de Prevención Mancomunado (SPM)",
+          "servicio común de varias empresas; consideración de servicio propio"
+        ]
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 13-14 del PDF"
+    },
+    {
+      "titulo": "Tipos de emergencia",
+      "columnas": [
+        "Situación",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Conato de emergencia",
+          "controlable de forma sencilla y rápida con los medios de la zona"
+        ],
+        [
+          "Emergencia parcial",
+          "requiere equipos internos; puede exigir evacuación parcial"
+        ],
+        [
+          "Emergencia general",
+          "movilización de todos los medios; evacuación general y apoyo externo"
+        ]
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 19 del PDF"
+    },
+    {
+      "titulo": "Organismos de seguridad y salud laboral",
+      "columnas": [
+        "Organismo",
+        "Función principal"
+      ],
+      "filas": [
+        [
+          "INSST",
+          "órgano científico-técnico de la Administración General del Estado: estudios, guías, documentación técnica"
+        ],
+        [
+          "ITSS",
+          "vigila y exige el cumplimiento; requerimientos y propuestas de sanción"
+        ],
+        [
+          "CNSST",
+          "órgano colegiado asesor y de participación institucional"
+        ],
+        [
+          "Organismos de las CC. AA.",
+          "promoción, asesoramiento técnico y apoyo preventivo"
+        ],
+        [
+          "EU-OSHA",
+          "información, campañas y buenas prácticas en la UE"
+        ]
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 17-18 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Prioridad de medidas",
+      "pasos": [
+        "Eliminar el riesgo",
+        "Reducirlo en origen",
+        "Protección colectiva",
+        "Medidas organizativas complementarias",
+        "EPI frente al riesgo residual"
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 9 del PDF"
+    },
+    {
+      "titulo": "Planificación de la actividad preventiva",
+      "pasos": [
+        "Medida preventiva: ¿qué actuación concreta?",
+        "Responsable: ¿quién la implanta o supervisa?",
+        "Plazo: ¿cuándo debe estar implantada?",
+        "Recursos: ¿qué medios necesita?",
+        "Seguimiento: ¿cómo se comprobará su eficacia?"
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 12 del PDF"
+    },
+    {
+      "titulo": "Actuación ante una evacuación",
+      "pasos": [
+        "Mantener la calma y seguir instrucciones",
+        "Interrumpir la actividad de forma segura y salir sin recoger objetos",
+        "Usar vías y salidas señalizadas; no ascensores en incendio",
+        "No retroceder ni obstaculizar las vías",
+        "Ir al punto de reunión y esperar instrucciones"
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 19 del PDF"
+    },
+    {
+      "titulo": "Organización de la respuesta a emergencias",
+      "pasos": [
+        "Identificar las emergencias previsibles",
+        "Designar y formar al personal encargado",
+        "Disponer de medios y comprobarlos periódicamente",
+        "Organizar alarma, evacuación y coordinación con servicios externos"
+      ],
+      "fuente": "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive), p. 18 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Diferencia entre prevenir y proteger.",
+      "respuesta": "Prevenir actúa sobre las causas antes del daño; proteger reduce las consecuencias cuando el riesgo no ha podido eliminarse (p. 4)."
+    },
+    {
+      "pregunta": "¿Cables sueltos en una zona de paso: primera medida?",
+      "respuesta": "Eliminar o recolocar los cables, no entregar un EPI (p. 3)."
+    },
+    {
+      "pregunta": "¿Cuál es el primer principio de la acción preventiva?",
+      "respuesta": "Evitar los riesgos (p. 6)."
+    },
+    {
+      "pregunta": "¿Qué técnica previene enfermedades por agentes físicos, químicos o biológicos?",
+      "respuesta": "La higiene industrial (p. 7)."
+    },
+    {
+      "pregunta": "¿Qué tiene prioridad, la protección colectiva o la individual?",
+      "respuesta": "La colectiva (p. 8)."
+    },
+    {
+      "pregunta": "¿La señalización elimina el riesgo?",
+      "respuesta": "No; tiene función complementaria (p. 9)."
+    },
+    {
+      "pregunta": "Color de las señales de obligación y de salvamento.",
+      "respuesta": "Azul y verde (p. 9)."
+    },
+    {
+      "pregunta": "Dos obligaciones de la empresa respecto a los EPI.",
+      "respuesta": "Elegir equipos adecuados, proporcionarlos gratuitamente, informar y formar, garantizar su reposición (p. 10)."
+    },
+    {
+      "pregunta": "¿Qué combina la estimación de un riesgo?",
+      "respuesta": "Probabilidad y consecuencias (gravedad) (p. 11)."
+    },
+    {
+      "pregunta": "Plan de prevención, evaluación y planificación: diferencia.",
+      "respuesta": "El plan integra la prevención en la gestión; la evaluación identifica y valora riesgos; la planificación programa las medidas (p. 12)."
+    },
+    {
+      "pregunta": "¿Cuándo es obligatorio un SPP?",
+      "respuesta": "En empresas de más de 500 trabajadores, o de 250 a 500 con actividades especialmente peligrosas (p. 13)."
+    },
+    {
+      "pregunta": "¿Puede el empresario asumir la vigilancia de la salud?",
+      "respuesta": "No (p. 13)."
+    },
+    {
+      "pregunta": "Informar vs formar.",
+      "respuesta": "Informar explica riesgos y medidas; formar desarrolla conocimientos y habilidades para actuar (p. 15)."
+    },
+    {
+      "pregunta": "¿Es voluntaria la vigilancia de la salud?",
+      "respuesta": "Con carácter general sí, con excepciones legales (p. 16)."
+    },
+    {
+      "pregunta": "¿Qué organismo vigila y puede proponer sanciones?",
+      "respuesta": "La Inspección de Trabajo y Seguridad Social (ITSS) (p. 17)."
+    }
+  ],
+  "fuentes": [
+    "UD.2 IPE I - Prevención y protección 2627.pdf (Canvas 75591, file 8457406; copia en Drive) — 23 páginas, texto con pdftotext (no requirió OCR)"
+  ]
+}

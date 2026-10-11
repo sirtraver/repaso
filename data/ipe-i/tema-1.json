@@ -1,0 +1,345 @@
+{
+  "asignatura": "ITINERARIO PERSONAL PARA LA EMPLEABILIDAD I(B)",
+  "tema": 1,
+  "titulo": "Seguridad y salud en el trabajo: riesgos laborales y sus consecuencias",
+  "resumen": "La PRL protege la seguridad y salud de los trabajadores siguiendo el recorrido trabajo → riesgo → daño → prevención → protección → organización → emergencia → primeros auxilios (p. 3-4).\nSegún la OMS la salud es un estado de completo bienestar físico, mental y social; trabajo y salud tienen una relación bidireccional (p. 4-5).\nConceptos clave: condición de trabajo, factor de riesgo, riesgo laboral (Ley 31/1995) y daño; gravedad = probabilidad × severidad (p. 5-6).\nLos factores de riesgo se agrupan en condiciones de seguridad, ambiente de trabajo, carga de trabajo y organización del trabajo (p. 7-9).\nLos daños son accidente de trabajo, enfermedad profesional y otras patologías (fatiga, estrés, burnout…) (p. 10-12).\nEl marco normativo establece obligaciones del empresario, derechos y obligaciones del trabajador y responsabilidades administrativa, civil y penal (p. 13-15).\nLos riesgos varían según sector y puesto; se identifican con la secuencia tareas → condiciones → factores → riesgos → daños (p. 16-21).",
+  "conceptos": [
+    {
+      "termino": "Prevención de Riesgos Laborales (PRL)",
+      "definicion": "La Prevención de Riesgos Laborales (PRL) tiene como finalidad proteger la seguridad y la salud de las personas trabajadoras, evitando o reduciendo los riesgos derivados del trabajo.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 3 del PDF"
+    },
+    {
+      "termino": "Salud (OMS)",
+      "definicion": "La salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 4 del PDF"
+    },
+    {
+      "termino": "Condición de trabajo",
+      "definicion": "cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud de la persona trabajadora.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 5 del PDF"
+    },
+    {
+      "termino": "Factor de riesgo",
+      "definicion": "Un factor de riesgo es una condición o característica del trabajo que puede aumentar la posibilidad de que se produzca un daño.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 6 del PDF"
+    },
+    {
+      "termino": "Riesgo laboral (Ley 31/1995)",
+      "definicion": "la posibilidad de que una persona trabajadora sufra un determinado daño derivado del trabajo.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 6 del PDF"
+    },
+    {
+      "termino": "Daños derivados del trabajo",
+      "definicion": "son las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 6 del PDF"
+    },
+    {
+      "termino": "Carga de trabajo",
+      "definicion": "La carga de trabajo comprende las exigencias físicas y mentales que debe afrontar una persona durante el desarrollo de su actividad.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 8 del PDF"
+    },
+    {
+      "termino": "Accidente de trabajo",
+      "definicion": "toda lesión corporal que la persona trabajadora sufra con ocasión o por consecuencia del trabajo.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 10 del PDF"
+    },
+    {
+      "termino": "Imprudencia temeraria",
+      "definicion": "se produce cuando la persona trabajadora, siendo consciente de un riesgo grave y evidente, se expone voluntariamente al mismo de forma injustificada.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 11 del PDF"
+    },
+    {
+      "termino": "Imprudencia profesional",
+      "definicion": "deriva de la confianza que genera el ejercicio habitual de una actividad o profesión y no impide, con carácter general, la consideración del accidente como accidente de trabajo.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 11 del PDF"
+    },
+    {
+      "termino": "Enfermedad profesional",
+      "definicion": "La enfermedad profesional es la contraída como consecuencia del trabajo realizado en las actividades establecidas legalmente y provocada por la acción de los agentes o sustancias previstos para cada enfermedad profesional.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 11 del PDF"
+    },
+    {
+      "termino": "Factores psicosociales (OIT/OMS 1984)",
+      "definicion": "aquellas condiciones presentes en una situación de trabajo, relacionadas con la organización, contenido y realización del trabajo susceptibles de afectar tanto al bienestar y la salud (física, psíquica o social) de los trabajadores como al desarrollo del trabajo.",
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 19 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Grupos de factores de riesgo",
+      "columnas": [
+        "Grupo",
+        "Ejemplos"
+      ],
+      "filas": [
+        [
+          "Condiciones de seguridad",
+          "suelos, escaleras, máquinas, herramientas, instalaciones eléctricas, inflamables, vehículos"
+        ],
+        [
+          "Ambiente de trabajo",
+          "agentes físicos (ruido, vibraciones, temperatura, radiaciones, iluminación), químicos y biológicos"
+        ],
+        [
+          "Carga de trabajo",
+          "carga física y carga mental"
+        ],
+        [
+          "Organización del trabajo",
+          "jornada, ritmo, sobrecarga, falta de autonomía, conflicto de rol, relaciones, estilo de dirección, inseguridad laboral"
+        ]
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 7-9 del PDF"
+    },
+    {
+      "titulo": "Riesgos derivados del ambiente de trabajo",
+      "columnas": [
+        "Tipo de agente",
+        "Factor de riesgo",
+        "Riesgo derivado",
+        "Posibles daños"
+      ],
+      "filas": [
+        [
+          "Físico",
+          "Ruido elevado",
+          "Exposición al ruido",
+          "Hipoacusia, fatiga, estrés"
+        ],
+        [
+          "Físico",
+          "Vibraciones",
+          "Exposición a vibraciones",
+          "Trastornos musculoesqueléticos, problemas circulatorios"
+        ],
+        [
+          "Físico",
+          "Temperaturas extremas",
+          "Exposición al frío o calor",
+          "Estrés térmico, golpe de calor, hipotermia"
+        ],
+        [
+          "Físico",
+          "Radiaciones",
+          "Exposición a radiaciones",
+          "Lesiones en tejidos, daños oculares"
+        ],
+        [
+          "Físico",
+          "Iluminación inadecuada",
+          "Fatiga o sobreesfuerzo visual",
+          "Fatiga visual, molestias oculares, cefaleas"
+        ],
+        [
+          "Químico",
+          "Sustancias o mezclas peligrosas",
+          "Exposición a agentes químicos",
+          "Irritación, intoxicación, alergias, enfermedades profesionales"
+        ],
+        [
+          "Biológico",
+          "Virus, bacterias, hongos o parásitos",
+          "Exposición a agentes biológicos",
+          "Infecciones, alergias y otras enfermedades"
+        ]
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 17 del PDF"
+    },
+    {
+      "titulo": "Responsabilidades por incumplimiento",
+      "columnas": [
+        "Responsabilidad",
+        "¿Cuándo puede producirse?",
+        "Consecuencia"
+      ],
+      "filas": [
+        [
+          "Administrativa",
+          "Incumplimiento de la normativa preventiva",
+          "Sanciones económicas y otras medidas"
+        ],
+        [
+          "Civil",
+          "Cuando se producen daños que deben ser reparados",
+          "Indemnización por daños y perjuicios"
+        ],
+        [
+          "Penal",
+          "Conductas especialmente graves que ponen en peligro la vida, salud o integridad",
+          "Multas y/o penas de prisión"
+        ]
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 15 del PDF"
+    },
+    {
+      "titulo": "Riesgos según sector",
+      "columnas": [
+        "Sector/puesto",
+        "Principales riesgos"
+      ],
+      "filas": [
+        [
+          "Construcción",
+          "Caídas, golpes, maquinaria, ruido, electricidad"
+        ],
+        [
+          "Sanitario",
+          "Biológicos, movilización de pacientes, carga mental"
+        ],
+        [
+          "Industria",
+          "Máquinas, ruido, sustancias químicas, atrapamientos"
+        ],
+        [
+          "Comercio",
+          "Caídas, manipulación de cargas, posturas, atención al público"
+        ],
+        [
+          "Administración",
+          "Pantallas, sedentarismo, posturas, carga mental"
+        ],
+        [
+          "Hostelería",
+          "Cortes, quemaduras, caídas, cargas, ritmos de trabajo"
+        ]
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 19-20 del PDF"
+    },
+    {
+      "titulo": "Límites de temperatura (RD 486/1997)",
+      "columnas": [
+        "Tipo de trabajo",
+        "Rango"
+      ],
+      "filas": [
+        [
+          "Sedentario",
+          "17º a 27º C"
+        ],
+        [
+          "Ligero",
+          "14º a 25º C"
+        ]
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 8 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Recorrido de la prevención",
+      "pasos": [
+        "TRABAJO",
+        "RIESGO",
+        "DAÑO",
+        "PREVENCIÓN",
+        "PROTECCIÓN",
+        "ORGANIZACIÓN PREVENTIVA",
+        "EMERGENCIA",
+        "PRIMEROS AUXILIOS"
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 3 del PDF"
+    },
+    {
+      "titulo": "De la condición al daño",
+      "pasos": [
+        "Condiciones de trabajo (seguridad, ambiente, carga, organización)",
+        "Factores de riesgo",
+        "Riesgos laborales",
+        "Daños"
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 9 del PDF"
+    },
+    {
+      "titulo": "Identificar riesgos de un puesto",
+      "pasos": [
+        "1. ¿Qué tareas realiza la persona?",
+        "2. ¿En qué condiciones las realiza?",
+        "3. ¿Qué factores de riesgo existen?",
+        "4. ¿Qué riesgos generan?",
+        "5. ¿Qué daños podrían producir?"
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 20 del PDF"
+    },
+    {
+      "titulo": "Obligaciones del empresario (selección)",
+      "pasos": [
+        "Evitar los riesgos siempre que sea posible",
+        "Evaluar los riesgos que no puedan evitarse",
+        "Planificar la actividad preventiva",
+        "Adoptar medidas de protección colectiva e individual",
+        "Proporcionar gratuitamente los EPI",
+        "Informar y formar",
+        "Consultar y permitir la participación",
+        "Adoptar medidas ante emergencias",
+        "Garantizar la vigilancia de la salud"
+      ],
+      "fuente": "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180), p. 14 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué significa prevenir?",
+      "respuesta": "Actuar antes de que el riesgo se convierta en daño (p. 3)."
+    },
+    {
+      "pregunta": "¿Cómo define la OMS la salud?",
+      "respuesta": "Estado de completo bienestar físico, mental y social, y no solo ausencia de enfermedad (p. 4)."
+    },
+    {
+      "pregunta": "Suelo mojado, posible caída y esguince: ¿qué es cada uno?",
+      "respuesta": "Factor de riesgo, riesgo y daño (p. 6)."
+    },
+    {
+      "pregunta": "Fórmula de la gravedad del riesgo.",
+      "respuesta": "Probabilidad × severidad del daño (p. 6)."
+    },
+    {
+      "pregunta": "¿En qué unidades se miden nivel y frecuencia del ruido?",
+      "respuesta": "Nivel en decibelios (dB), frecuencia en hercios (Hz); principal efecto: hipoacusia laboral (p. 7)."
+    },
+    {
+      "pregunta": "Radiaciones ionizantes vs no ionizantes.",
+      "respuesta": "Las ionizantes tienen energía para ionizar la materia y cambiar los átomos; las no ionizantes no (p. 8)."
+    },
+    {
+      "pregunta": "Tipos de accidente de trabajo citados.",
+      "respuesta": "En tiempo y lugar de trabajo, in itinere, en misión, en tareas distintas de las habituales y ciertas enfermedades (p. 10)."
+    },
+    {
+      "pregunta": "¿La imprudencia profesional impide el accidente de trabajo?",
+      "respuesta": "No con carácter general; la temeraria sí puede impedirlo (p. 11)."
+    },
+    {
+      "pregunta": "¿Toda enfermedad causada por el trabajo es enfermedad profesional?",
+      "respuesta": "No; debe cumplir los requisitos legales (actividades y agentes previstos) (p. 11)."
+    },
+    {
+      "pregunta": "Cita tres 'otras patologías' relacionadas con el trabajo.",
+      "respuesta": "Fatiga, estrés, insatisfacción, burnout, violencia y acoso, envejecimiento prematuro (p. 12)."
+    },
+    {
+      "pregunta": "¿Quién paga las medidas de seguridad?",
+      "respuesta": "Nunca el trabajador: no deben suponer ningún coste para él (p. 14)."
+    },
+    {
+      "pregunta": "¿Es obligatoria la vigilancia de la salud?",
+      "respuesta": "Con carácter general es voluntaria, salvo supuestos legales (p. 14)."
+    },
+    {
+      "pregunta": "Tres tipos de responsabilidad por incumplir la PRL.",
+      "respuesta": "Administrativa, civil y penal (p. 15)."
+    },
+    {
+      "pregunta": "Vías de entrada de agentes químicos.",
+      "respuesta": "Respiratoria, dérmica, digestiva y parenteral (p. 17)."
+    },
+    {
+      "pregunta": "¿A quién corresponde garantizar la seguridad y salud?",
+      "respuesta": "Al empresario, aunque la prevención es responsabilidad compartida (p. 15)."
+    }
+  ],
+  "fuentes": [
+    "UD.1 IPE I - Seguridad y salud en el trabajo 26-27.pdf (Canvas 75591, file 8417180) — 22 páginas, texto con pdftotext; la p. 22 está en blanco; esquemas en imagen de McGraw Hill (p. 5, 10, 12, 13) no extraídos"
+  ]
+}

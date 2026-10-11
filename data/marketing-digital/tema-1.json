@@ -1,0 +1,349 @@
+{
+  "asignatura": "INICIACIÓN A MARKETING DIGITAL(B)",
+  "tema": 1,
+  "titulo": "Introducción a Internet (+ taller de marca personal)",
+  "resumen": "El tema arranca con un taller de marca personal: qué es, para qué sirve y claves (autenticidad, coherencia, visibilidad), aplicado a LinkedIn e Instagram (diap. 2-11).\nInternet nace en 1969 como ARPANET, red militar de EE. UU.; después NSFNET y la World Wide Web del CERN (Tim Berners-Lee) (diap. 13-17).\nLas redes se clasifican en redes de difusión y redes punto a punto (diap. 14-15).\nInternet funciona mediante protocolos (sintaxis, semántica, sincronización), hoy organizados por capas (diap. 19-20).\nTCP/IP: IP lleva la información al destino y TCP controla que llegue bien; ISO creó el modelo OSI de 7 capas (diap. 21-25).\nArquitectura cliente-servidor, direcciones IP (IPv4/IPv6, DHCP), dominios y servidores DNS (diap. 27-32).\nModos de conexión (RTB, DSL, fibra, WiMax, 4G/5G, Ethernet, WiFi), ISP, intranets/extranets y cloud computing (diap. 33-38).",
+  "conceptos": [
+    {
+      "termino": "Marca personal",
+      "definicion": "Es tu reputación.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 2 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Protocolo",
+      "definicion": "Conjunto de reglas que codifican un mensaje con unas normas concretas e indican además quién origina dicha información y quién va a recibirla.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 19 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Sintaxis (protocolo)",
+      "definicion": "indica la estructura que se espera de un mensaje concreto y define la posición de cada elemento dentro de una disposición general.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 19 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Semántica (protocolo)",
+      "definicion": "proporciona un significado a las partes del mensaje.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 19 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Protocolo monolítico",
+      "definicion": "protocolo único que se encargaba de todas las áreas necesarias para la [comunicación] (texto parcialmente ilegible en OCR)",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 20 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Sistema de protocolo por capas",
+      "definicion": "se basa en separar las diversas funciones en distintas capas y dejar que cada una de esas capas ejerza una función definida y sencilla",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 20 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Protocolo IP",
+      "definicion": "protocolo de Internet (internet protocol), trata de llevar la información del modo más rápido posible del origen al destino.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 21 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "ISO",
+      "definicion": "significa Organización Internacional de Normalización (en inglés: International Organization for Standardization). Es un organismo que crea normas internacionales para que todo el mundo trabaje con los mismos criterios",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 23 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "OSI",
+      "definicion": "significa Modelo de Interconexión de Sistemas Abiertos (Open Systems Interconnection). Es un modelo teórico creado por la ISO para explicar cómo se comunican los ordenadores en una red.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 23 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Arquitectura cliente-servidor",
+      "definicion": "La arquitectura cliente-servidor es un modelo de software donde las tareas se reparten entre: cliente → quien pide un recurso o servicio. servidor → quien recibe esa petición y da la respuesta.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 27 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Dirección IP",
+      "definicion": "es el número asignado a cada dispositivo conectado en red que no puede repetirse en ningún otro y que identifica de manera única ese dispositivo",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 31 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Servidores DNS",
+      "definicion": "Los servidores DNS son servidores de nombres de dominio que se dedican a mantener la relación de la dirección IP con los nombres de dominio.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 32 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Intranet",
+      "definicion": "Es una red interna de la empresa o institución.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 37 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "Extranet",
+      "definicion": "Es una extensión de la Intranet, pero accesible desde cualquier lugar.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 37 (OCR; tildes restauradas)"
+    },
+    {
+      "termino": "ISP",
+      "definicion": "empresas de telecomunicaciones que ofrecen internet.",
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 36 (OCR; tildes restauradas)"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Redes de difusión vs punto a punto",
+      "columnas": [
+        "Tipo",
+        "Características"
+      ],
+      "filas": [
+        [
+          "Redes de difusión (Broadcast)",
+          "Un único canal de comunicación compartido por todas las máquinas; el mensaje llega a todas y todas lo procesan; suelen usarse en redes geográficamente pequeñas"
+        ],
+        [
+          "Redes punto a punto (Peer to Peer)",
+          "Muchas conexiones entre pares de máquinas; el paquete pasa por nodos intermedios; múltiples rutas posibles; propias de redes más grandes"
+        ]
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 14-15 (OCR; tildes restauradas)"
+    },
+    {
+      "titulo": "Pila OSI vs TCP/IP",
+      "columnas": [
+        "Capa OSI",
+        "Función",
+        "Equivalente TCP/IP"
+      ],
+      "filas": [
+        [
+          "Aplicación",
+          "Servicios de red a aplicaciones",
+          "Aplicación (HTTP, FTP, POP3, TELNET, SSH)"
+        ],
+        [
+          "Presentación",
+          "Representación de los datos",
+          "Aplicación"
+        ],
+        [
+          "Sesión",
+          "Comunicación entre dispositivos de la red",
+          "Aplicación"
+        ],
+        [
+          "Transporte",
+          "Conexión extremo a extremo y fiabilidad de los datos",
+          "Transporte (TCP, UDP)"
+        ],
+        [
+          "Red",
+          "Determinación de ruta e IP (direccionamiento lógico)",
+          "Red (ICMP, IP, ARP, RARP)"
+        ],
+        [
+          "Enlace de datos",
+          "Direccionamiento físico (MAC y LLC)",
+          "Enlace de datos"
+        ],
+        [
+          "Físico",
+          "Señal y transmisión binaria",
+          "Físico"
+        ]
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 25 (OCR; tildes restauradas) — asignación de columnas reconstruida del gráfico"
+    },
+    {
+      "titulo": "Cliente vs servidor",
+      "columnas": [
+        "Cliente",
+        "Servidor"
+      ],
+      "filas": [
+        [
+          "Inicia las peticiones → papel activo",
+          "Espera pasivamente a recibir peticiones"
+        ],
+        [
+          "Recibe respuestas del servidor",
+          "Procesa esas peticiones y responde"
+        ],
+        [
+          "Puede conectarse a varios servidores",
+          "Puede atender a muchos clientes a la vez (aunque tiene un límite)"
+        ]
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 28 (OCR; tildes restauradas)"
+    },
+    {
+      "titulo": "Modos de conexión",
+      "columnas": [
+        "Modo",
+        "Rasgos"
+      ],
+      "filas": [
+        [
+          "RTB",
+          "red telefónica básica; mala calidad, cortes y mucho tiempo de espera"
+        ],
+        [
+          "DSL",
+          "línea de suscripción digital; red más teléfono en bandas separadas"
+        ],
+        [
+          "Fibra óptica",
+          "el modo de conexión más rápido; FTTH (casa/oficina), FTTB (hasta el edificio), FTTN"
+        ],
+        [
+          "WiMax",
+          "inalámbrica para lugares remotos; antenas y repetidores a no más de 50 km"
+        ],
+        [
+          "5G/4G/3G",
+          "inalámbrica para smartphones y tabletas; más lenta y cara que las cableadas"
+        ],
+        [
+          "Ethernet",
+          "cable router-ordenador; hasta 100 metros; más estable"
+        ],
+        [
+          "WiFi",
+          "inalámbrica; tipos a, b, g o n (n el más avanzado)"
+        ]
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 33-36 (OCR; tildes restauradas)"
+    },
+    {
+      "titulo": "Intranet vs Extranet",
+      "columnas": [
+        "Red",
+        "Acceso",
+        "Uso"
+      ],
+      "filas": [
+        [
+          "Intranet",
+          "solo dentro de la propia red local",
+          "comunicación interna y acceso a información"
+        ],
+        [
+          "Extranet",
+          "desde cualquier lugar con usuario y contraseña",
+          "permite a externos (colaboradores, clientes, proveedores) acceder a cierta información"
+        ]
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 37 (OCR; tildes restauradas)"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Historia de Internet",
+      "pasos": [
+        "Años 60: guerra fría, EE. UU. crea una red militar",
+        "1969: ARPANET con 4 ordenadores en universidades",
+        "Funciones militares pasan a MILNET",
+        "NSFNET absorbe a ARPANET: embrión de Internet",
+        "1985: William Gibson crea el término 'ciberespacio'",
+        "1990: Tim Berners-Lee (CERN) llama al sistema World Wide Web",
+        "Navegador gráfico y Netscape (Andreessen) abren la red a los legos"
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 13-17 (OCR; tildes restauradas)"
+    },
+    {
+      "titulo": "Cómo trabajan TCP e IP juntos",
+      "pasos": [
+        "IP = la dirección del paquete → ¿dónde tiene que ir?",
+        "TCP = el servicio de envío → ¿ha llegado correctamente?",
+        "TCP controla que la información llegue correctamente y en el orden adecuado"
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 22 (OCR; tildes restauradas)"
+    },
+    {
+      "titulo": "Mensaje de WhatsApp según OSI",
+      "pasos": [
+        "1. El texto se traduce a datos",
+        "2. Esos datos se dividen en partes",
+        "3. Se mandan por la red (wifi, cable, etc.)",
+        "4. Se reconstruyen en el móvil de tu amigo",
+        "5. Todo se organiza siguiendo las capas del modelo OSI"
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 24 (OCR; tildes restauradas)"
+    },
+    {
+      "titulo": "Claves de una marca personal sólida",
+      "pasos": [
+        "Autenticidad: no fingir lo que no eres",
+        "Coherencia: que tu mensaje, acciones e imagen coincidan",
+        "Visibilidad: estar presente en los canales adecuados"
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 2 (OCR; tildes restauradas)"
+    },
+    {
+      "titulo": "Ventajas del cloud computing",
+      "pasos": [
+        "Ahorro de dinero",
+        "Acceso desde cualquier lugar",
+        "Flexibilidad",
+        "Menos espacio ocupado en el ordenador"
+      ],
+      "fuente": "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen), diap. 38 (OCR; tildes restauradas)"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué es la marca personal y para qué sirve?",
+      "respuesta": "Es tu reputación; sirve para diferenciarte, posicionarte como referente, generar confianza y comunicar quién eres (diap. 2)."
+    },
+    {
+      "pregunta": "¿Cuándo y cómo nace ARPANET?",
+      "respuesta": "En 1969, como red militar de EE. UU. con 4 ordenadores en universidades (diap. 13)."
+    },
+    {
+      "pregunta": "¿Quién creó el término 'ciberespacio'?",
+      "respuesta": "El autor William Gibson, en 1985 (diap. 16)."
+    },
+    {
+      "pregunta": "¿Qué es la World Wide Web y quién la impulsó?",
+      "respuesta": "El sistema de almacenamiento y recuperación de datos del CERN dirigido por Tim Berners-Lee, nombrado WWW en 1990 (diap. 16)."
+    },
+    {
+      "pregunta": "Partes de un protocolo y ejemplo del semáforo.",
+      "respuesta": "Sintaxis (orden de luces), semántica (significado de cada color) y sincronización (mirar el semáforo) (diap. 19)."
+    },
+    {
+      "pregunta": "¿Por qué hoy se usan protocolos por capas?",
+      "respuesta": "Separación de tareas más eficiente, modificación posterior más sencilla y análisis de errores más exhaustivo (diap. 20)."
+    },
+    {
+      "pregunta": "¿Garantiza IP que la información llegue bien?",
+      "respuesta": "No; eso es trabajo de TCP (diap. 21-22)."
+    },
+    {
+      "pregunta": "¿Cuántas capas tiene el modelo OSI?",
+      "respuesta": "7 (diap. 23, 25)."
+    },
+    {
+      "pregunta": "¿Qué es la arquitectura cliente-servidor?",
+      "respuesta": "Modelo en que el cliente pide un recurso y el servidor recibe la petición y responde (diap. 27)."
+    },
+    {
+      "pregunta": "¿Cómo es una dirección IPv4?",
+      "respuesta": "4 números separados por puntos, cada uno con valor entre 0 y 255 (diap. 31)."
+    },
+    {
+      "pregunta": "¿Qué hace el DHCP?",
+      "respuesta": "Asigna las direcciones IP a cada dispositivo según se conectan a la red (diap. 31)."
+    },
+    {
+      "pregunta": "¿Qué hacen los servidores DNS?",
+      "respuesta": "Mantienen la relación entre direcciones IP y nombres de dominio (diap. 32)."
+    },
+    {
+      "pregunta": "¿Cuál es el modo de conexión más rápido?",
+      "respuesta": "La fibra óptica (diap. 34)."
+    },
+    {
+      "pregunta": "Diferencia entre intranet y extranet.",
+      "respuesta": "La intranet solo es accesible desde dentro de la red de la empresa; la extranet también desde fuera con claves (diap. 37)."
+    },
+    {
+      "pregunta": "Ejemplo de cloud computing del tema.",
+      "respuesta": "Usar Google Docs o Microsoft 365 en la nube en lugar de instalar Office en cada ordenador (diap. 38)."
+    }
+  ],
+  "fuentes": [
+    "Marketing Digital Tema 1.pdf (Canvas 76017, file 8470517; PDF solo imagen) — 40 diapositivas, todas imagen: texto obtenido íntegramente por OCR (RapidOCR, 100 ppp); algunas líneas se perdieron en el OCR"
+  ]
+}

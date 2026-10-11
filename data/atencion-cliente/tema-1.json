@@ -1,0 +1,286 @@
+{
+  "asignatura": "INICIACIÓN A ATENCIÓN AL CLIENTE, CONSUMIDOR Y USUARIO(B)",
+  "tema": 1,
+  "titulo": "Organización del departamento Servicio de Atención al Cliente (SAC)",
+  "resumen": "La atención al cliente gestiona la relación con clientes actuales o potenciales para lograr la máxima satisfacción; se rige por principios básicos (Escudero, 2015) (p. 3-4).\nEl marketing relacional sitúa al cliente como motor de crecimiento: la fidelización se antepone a la captación (p. 5-7).\nLa identidad corporativa es el ADN de la empresa; la imagen corporativa es lo que se percibe; el posicionamiento es el lugar en la mente del consumidor (p. 8-10).\nEl objetivo principal del departamento de atención al cliente es generar confianza; influyen factores internos y externos (p. 11-14).\nSus funciones se dirigen hacia los clientes y hacia la dirección, en relación con otros departamentos y con un personal con competencias concretas (p. 15-18).\nLos servicios pueden ser presenciales, telefónicos o virtuales y el departamento se organiza por productos, clientes o zona geográfica (p. 18-20).\nLos contact center externalizan el servicio (BPO); se diferencian del call center en el medio de contacto (p. 21).",
+  "conceptos": [
+    {
+      "termino": "Atención al cliente",
+      "definicion": "conjunto de acciones interrelacionadas mediante las que la empresa gestiona la relación con sus clientes (actuales o potenciales) antes o después de la compra cuya finalidad es obtener el nivel más alto de satisfacción posible. Ariza & Ariza, (2015)",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 3 del PDF"
+    },
+    {
+      "termino": "Marketing relacional",
+      "definicion": "conjunto de estrategias desarrolladas por las organizaciones con objeto de establecer relaciones satisfactorias y duraderas con sus grupos de interés persiguiendo alcanzar un beneficio común. López Salas, (2020)",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 5 del PDF"
+    },
+    {
+      "termino": "Estrategia de crecimiento orgánico",
+      "definicion": "Se basa en un profundo conocimiento del cliente y sobre este conocimiento, va creciendo, mejorando sus productos, define nuevos productos y servicios, mejora el ratio de penetración en el mercado y diversifica y desarrolla nuevos mercados.",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 5 del PDF"
+    },
+    {
+      "termino": "Estrategia de crecimiento inorgánico",
+      "definicion": "Se basa en el crecimiento mediante la compra de otras empresas y competidores.",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 5 del PDF"
+    },
+    {
+      "termino": "Fidelización",
+      "definicion": "conjunto de acciones y estrategias que se realizan para que un cliente esporádico se convierta en habitual. López Salas, (2020)",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 6 del PDF"
+    },
+    {
+      "termino": "Imagen corporativa",
+      "definicion": "La imagen corporativa es lo que se percibe sobre la compañía.",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 8 del PDF"
+    },
+    {
+      "termino": "Identidad corporativa",
+      "definicion": "La identidad corporativa es el ADN de la empresa",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 8 del PDF"
+    },
+    {
+      "termino": "Benchmarking",
+      "definicion": "analizamos a la competencia de la compañía respecto a la atención al cliente y posicionamos nuestra compañía para detectar los posibles aspectos en los que estamos por encima o por debajo.",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 8 del PDF"
+    },
+    {
+      "termino": "Posicionamiento",
+      "definicion": "El posicionamiento es el puesto que ocupa en la mente del consumidor la marca respecto a la competencia. López Salas (2020)",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 10 del PDF"
+    },
+    {
+      "termino": "Mapa de posicionamiento",
+      "definicion": "El mapa de posicionamiento es una herramienta subjetiva que muestra la comparativa entre varias marcas",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 10 del PDF"
+    },
+    {
+      "termino": "Contact Center",
+      "definicion": "centros ubicados fuera de la empresa y que se organizan y realizan las funciones propias del departamento de atención al cliente",
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 21 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Funciones del departamento de atención al cliente",
+      "columnas": [
+        "Hacia los clientes",
+        "Hacia la dirección"
+      ],
+      "filas": [
+        [
+          "Resolver problemas y dudas",
+          "Crear bases de datos de clientes y analizarlos"
+        ],
+        [
+          "Atender, gestionar y resolver quejas y reclamaciones",
+          "Estudios y estadísticas de la competencia"
+        ],
+        [
+          "Recoger y analizar sugerencias",
+          "Gestionar impagos, cierres de ventas, pedidos"
+        ],
+        [
+          "Informar de procedimientos",
+          "Fidelizar y recuperar clientes perdidos"
+        ],
+        [
+          "Formar acerca del uso o consumo del producto",
+          "Seguimiento de quejas y comunicar acciones de mejora"
+        ]
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 15 del PDF"
+    },
+    {
+      "titulo": "Factores que influyen en la atención al cliente",
+      "columnas": [
+        "Internos",
+        "Externos"
+      ],
+      "filas": [
+        [
+          "Recursos financieros, materiales y humanos",
+          "Competencia (benchmarking)"
+        ],
+        [
+          "Filosofía y política de empresa",
+          "Consumidores y usuarios"
+        ],
+        [
+          "Inversión y mejora continua de las TIC",
+          "Normativa legal"
+        ]
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 12-13 del PDF"
+    },
+    {
+      "titulo": "Formas de ofrecer el servicio",
+      "columnas": [
+        "Forma",
+        "Rasgo"
+      ],
+      "filas": [
+        [
+          "Presencial",
+          "el contacto visual y el lenguaje no verbal adquieren gran importancia"
+        ],
+        [
+          "Telefónica",
+          "al no ver las reacciones requiere seguir una serie de pautas"
+        ],
+        [
+          "Virtual",
+          "e-mail, chat, redes sociales, vídeo tutoriales; interacción fluida, rápida y eficaz"
+        ]
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 18 del PDF"
+    },
+    {
+      "titulo": "Técnicas de fidelización",
+      "columnas": [
+        "Técnica",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Tarjetas o club de clientes",
+          "beneficios y ventajas, exclusividad"
+        ],
+        [
+          "Bonos",
+          "descuentos a partir de un mínimo de compra"
+        ],
+        [
+          "Cupones de descuento",
+          "ahorro concreto tras la compra para provocar una nueva"
+        ],
+        [
+          "Sorteos",
+          "regalos o descuentos de próximas compras"
+        ],
+        [
+          "Regalos",
+          "más producto, producto adicional, muestras"
+        ]
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 6-7 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Estrategias de marketing relacional en el tiempo (López Salas, 2020)",
+      "pasos": [
+        "Antes: conocer necesidades, expectativas y preferencias mediante bases de datos",
+        "Durante: apoyo y asesoramiento, oferta personalizada",
+        "Después: seguimiento, verificar satisfacción y solventar incidencias para fidelizar"
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 6 del PDF"
+    },
+    {
+      "titulo": "Crecimiento inorgánico",
+      "pasos": [
+        "Integración hacia atrás: sumando a la propuesta de valor (supermercado compra una marca que comercializa)",
+        "Integración hacia adelante: complementando la propuesta de valor (supermercado compra un operador logístico)"
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 6 del PDF"
+    },
+    {
+      "titulo": "Criterios de una buena imagen de empresa (Ariza & Ariza)",
+      "pasos": [
+        "Protocolo",
+        "Buena presentación",
+        "Diseño",
+        "Transparencia",
+        "Calidad",
+        "Relaciones empresariales",
+        "Atención al cliente"
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 9-10 del PDF"
+    },
+    {
+      "titulo": "Organización del departamento",
+      "pasos": [
+        "División por productos",
+        "División por clientes",
+        "División por zona geográfica"
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 20 del PDF"
+    },
+    {
+      "titulo": "Principios básicos de atención (Escudero, 2015)",
+      "pasos": [
+        "El cliente por encima de todas las cosas",
+        "No existe la palabra 'imposible'",
+        "Cumple tus promesas",
+        "Supera expectativas",
+        "El fallo en un eslabón estropea toda la cadena",
+        "El empleado insatisfecho genera clientes descontentos",
+        "El cliente es quien juzga la calidad del servicio",
+        "Todos somos un equipo"
+      ],
+      "fuente": "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165), p. 4 del PDF; resumido en tema1-accu.pptx (Canvas 76021, file 8331207, recurso complementario), diap. 5"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Define atención al cliente (Ariza & Ariza, 2015).",
+      "respuesta": "Acciones interrelacionadas para gestionar la relación con clientes actuales o potenciales antes o después de la compra buscando la máxima satisfacción (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué se antepone en marketing relacional, captar o fidelizar?",
+      "respuesta": "Fidelizar (p. 5)."
+    },
+    {
+      "pregunta": "¿En qué debe traducirse una buena estrategia de marketing relacional?",
+      "respuesta": "Incremento de ventas (ticket medio) y menos bajas o abandono de clientes (p. 5)."
+    },
+    {
+      "pregunta": "Crecimiento orgánico vs inorgánico.",
+      "respuesta": "Orgánico: crecer con el conocimiento del cliente; inorgánico: comprar otras empresas y competidores (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué es la fidelización?",
+      "respuesta": "Acciones para que un cliente esporádico se convierta en habitual (p. 6)."
+    },
+    {
+      "pregunta": "¿Qué cuesta más, captar o fidelizar?",
+      "respuesta": "Captar nuevos clientes y repescar insatisfechos cuesta más que fidelizar (p. 6)."
+    },
+    {
+      "pregunta": "Identidad vs imagen corporativa.",
+      "respuesta": "Identidad: el ADN de la empresa; imagen: lo que se percibe sobre la compañía (p. 8)."
+    },
+    {
+      "pregunta": "Herramientas para conocer la orientación al cliente.",
+      "respuesta": "DAFO y benchmarking (p. 8)."
+    },
+    {
+      "pregunta": "¿Qué es el posicionamiento?",
+      "respuesta": "El puesto que ocupa la marca en la mente del consumidor respecto a la competencia (p. 10)."
+    },
+    {
+      "pregunta": "Objetivo principal del departamento de atención al cliente.",
+      "respuesta": "Generar confianza en los clientes (p. 14)."
+    },
+    {
+      "pregunta": "Normativas con las que se familiariza el departamento.",
+      "respuesta": "LOCM, RGPD, LSSI-CE y Ley General para la Defensa de los Consumidores y Usuarios (p. 14)."
+    },
+    {
+      "pregunta": "Cita tres competencias del personal de atención al cliente.",
+      "respuesta": "Conocimiento técnico y normativo, inteligencia emocional/empatía, trabajo bajo presión, resolución, trabajo en equipo (p. 17)."
+    },
+    {
+      "pregunta": "Diferencia entre call center y contact center.",
+      "respuesta": "El call center solo usa el teléfono; el contact center varios medios (p. 21)."
+    },
+    {
+      "pregunta": "¿Qué es BPO?",
+      "respuesta": "Business Process Outsourcing: subcontratación del servicio a empresas externas (p. 21)."
+    }
+  ],
+  "fuentes": [
+    "Ud1 ACCU Organización del departamento Servicio de.pdf (Canvas 76021, file 8331165) — 23 páginas, texto con pdftotext; gráficos y organigramas de 'elaboración propia' sin texto extraíble; p. 23 en blanco",
+    "tema1-accu.pptx (Canvas 76021, file 8331207, recurso complementario) — resumen de la unidad (python-pptx); diap. 3, 7, 9 y 12 solo imagen"
+  ]
+}

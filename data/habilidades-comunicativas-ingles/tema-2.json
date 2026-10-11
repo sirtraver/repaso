@@ -1,0 +1,135 @@
+{
+  "asignatura": "INICIACIÓN A HABILIDADES COMUNICATIVAS EN INGLÉS(B)",
+  "tema": 2,
+  "titulo": "Unit 2: Oral Skill",
+  "resumen": "Public speaking is crucial, professionally relevant and can be learnt (slide 2).\nReasons: boost self-esteem, confidence, assertiveness, leadership, writing skills, think on your feet (p. 6; slide 3).\nHot tips: focus on the message, believe it, prepare, breathe and move, don't memorise, eye contact, have fun (p. 8-9).\nEye contact may be one of the most difficult aspects of giving a presentation (p. 10).\nPresentations are planned with a chart: aim, topic, outline, timing, visual aids, audience's attention (p. 11; slide 6).",
+  "conceptos": [
+    {
+      "termino": "Eye contact (difficulty)",
+      "definicion": "Making eye contact while speaking to a group may be one of the most difficult aspects of giving a presentation.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 10"
+    },
+    {
+      "termino": "Impromptu speaking",
+      "definicion": "Impromptu speaking is one of the most difficult things in the world to do.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 8"
+    },
+    {
+      "termino": "Eye contact as intimacy",
+      "definicion": "To many people, eye contact is an intimate act - almost like touching someone.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 10"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Presentation planning chart",
+      "columnas": [
+        "Element",
+        "Questions"
+      ],
+      "filas": [
+        [
+          "Aim",
+          "Why are you talking? What do you want to achieve?"
+        ],
+        [
+          "Topic",
+          "What are you talking about? What is the message?"
+        ],
+        [
+          "Outline",
+          "What's the structure? How are its parts connected?"
+        ],
+        [
+          "Timing",
+          "—"
+        ],
+        [
+          "Visual aids",
+          "Which ones (ppt, cards, flipcharts)? Will they help?"
+        ],
+        [
+          "Audience's attention",
+          "What do you know about the audience? Eye contact, body language"
+        ]
+      ],
+      "fuente": "Unit 2 - Oral Skill.pptx (Canvas 75868, file 8319188), slide 6; HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 11"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Hot tips for public speaking",
+      "pasos": [
+        "1. Focus on the topic: your message",
+        "2. Believe it! Be energetic!",
+        "3. Prepare to survive",
+        "4. Breathe and move",
+        "5. Don't memorise",
+        "6. Connect with eye contact",
+        "Have fun!"
+      ],
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 8-9"
+    },
+    {
+      "titulo": "Reasons why public speaking is important",
+      "pasos": [
+        "Boost your self-esteem",
+        "Feel more confident",
+        "Speak proper English",
+        "Become more assertive",
+        "Better leadership skills",
+        "Learn about yourself",
+        "Improve your writing skills",
+        "Think on your feet"
+      ],
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 6"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Is public speaking innate?",
+      "respuesta": "No, it can be learnt (slide 2)."
+    },
+    {
+      "pregunta": "Name three reasons for public speaking.",
+      "respuesta": "Self-esteem, confidence, assertiveness, leadership, thinking on your feet (p. 6)."
+    },
+    {
+      "pregunta": "Why shouldn't you memorise your speech?",
+      "respuesta": "It puts too much pressure on you; if you go blank you won't know what to do (p. 8)."
+    },
+    {
+      "pregunta": "What to have instead of a memorised speech?",
+      "respuesta": "A short punchy opening and a few points as memory joggers (p. 8)."
+    },
+    {
+      "pregunta": "Why move while speaking?",
+      "respuesta": "Your brain works better, it dissipates nervous energy and connects with the audience (p. 8)."
+    },
+    {
+      "pregunta": "Who should you make eye contact with first?",
+      "respuesta": "Someone at the back of the room, so your voice carries (p. 8)."
+    },
+    {
+      "pregunta": "How to show sincerity?",
+      "respuesta": "Smile through your eyes (p. 9)."
+    },
+    {
+      "pregunta": "Why is eye contact hard?",
+      "respuesta": "For many it is an intimate act, almost like touching someone (p. 10)."
+    },
+    {
+      "pregunta": "Elements of the planning chart.",
+      "respuesta": "Aim, topic, outline, timing, visual aids, audience's attention (slide 6)."
+    },
+    {
+      "pregunta": "Should you worry about grammar when speaking?",
+      "respuesta": "No; speak normally and from the heart (p. 8)."
+    }
+  ],
+  "fuentes": [
+    "Unit 2 - Oral Skill.pptx (Canvas 75868, file 8319188) — python-pptx",
+    "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191) — pp. 6-11, pdftotext",
+    "Material en inglés: definiciones literales en inglés"
+  ]
+}

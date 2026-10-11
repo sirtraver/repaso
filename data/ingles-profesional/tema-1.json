@@ -1,0 +1,251 @@
+{
+  "asignatura": "INGLÉS PROFESIONAL (Canvas 75655)",
+  "tema": 1,
+  "titulo": "Advertising and Marketing vocabulary + Making presentations (temario 1er cuatrimestre)",
+  "resumen": "Advertising is the activity or profession of producing information for promoting the sale of commercial products (p. 1).\nMarketing is the management process through which goods and services move from concept to the customer, coordinating the 4 P's (p. 2-3).\nKey vocabulary: advertisement, advertiser, campaign, billboard, brand, buyer, commercial, consumer, logo, purchase, slogan (p. 16).\nAdvertising strategies: ideal kids or families, family fun, excitement, star power, repetition, sounds good, cartoon characters, 'are you cool enough?' (p. 21-22).\nMaking presentations: six hot tips for public speaking, eye contact and a planning chart (Making presentations.docx).\nOral skill practice: design your own product (name, price, target audience, slogan, uniqueness) and present it (Design your own product).",
+  "conceptos": [
+    {
+      "termino": "Advertising",
+      "definicion": "The activity or profession of producing information for promoting the sale of comercial products or sales",
+      "fuente": "ADVERTISING VOCABULARY Pow Point.pdf / advertising-and-marketing Pow Point.pdf (Canvas 75655, file 8299011), p. 1"
+    },
+    {
+      "termino": "Marketing",
+      "definicion": "The management process through which goods and services move from concept to the customer. It includes the coordination of four elements called the 4 P's of marketing",
+      "fuente": "ADVERTISING VOCABULARY Pow Point.pdf / advertising-and-marketing Pow Point.pdf (Canvas 75655, file 8299011), p. 2"
+    },
+    {
+      "termino": "Eye contact (difficulty)",
+      "definicion": "Making eye contact while speaking to a group may be one of the most difficult aspects of giving a presentation.",
+      "fuente": "Making presentations.docx (Canvas 75655, file 8299043), sección 2.2"
+    },
+    {
+      "termino": "Impromptu speaking",
+      "definicion": "Impromptu speaking is one of the most difficult things in the world to do.",
+      "fuente": "Making presentations.docx (Canvas 75655, file 8299043), tip 3"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "The four P's",
+      "columnas": [
+        "P"
+      ],
+      "filas": [
+        [
+          "Product"
+        ],
+        [
+          "Price"
+        ],
+        [
+          "Place"
+        ],
+        [
+          "Promotional strategy"
+        ]
+      ],
+      "fuente": "ADVERTISING VOCABULARY Pow Point.pdf / advertising-and-marketing Pow Point.pdf (Canvas 75655, file 8299011), p. 3"
+    },
+    {
+      "titulo": "Advertising vocabulary",
+      "columnas": [
+        "Word"
+      ],
+      "filas": [
+        [
+          "Advertisement"
+        ],
+        [
+          "Advertiser"
+        ],
+        [
+          "Advertising"
+        ],
+        [
+          "Campaign"
+        ],
+        [
+          "Billboard"
+        ],
+        [
+          "Brand"
+        ],
+        [
+          "Buyer"
+        ],
+        [
+          "Commercial"
+        ],
+        [
+          "Consumer"
+        ],
+        [
+          "Logo"
+        ],
+        [
+          "Purchase"
+        ],
+        [
+          "Sale"
+        ],
+        [
+          "Seller"
+        ],
+        [
+          "Slogan"
+        ]
+      ],
+      "fuente": "ADVERTISING VOCABULARY Pow Point.pdf / advertising-and-marketing Pow Point.pdf (Canvas 75655, file 8299011), p. 16"
+    },
+    {
+      "titulo": "Slogans to match with brands",
+      "columnas": [
+        "Slogan"
+      ],
+      "filas": [
+        [
+          "Just do it"
+        ],
+        [
+          "Power to you"
+        ],
+        [
+          "Let your fingers do the walking"
+        ],
+        [
+          "I'm lovin' it"
+        ],
+        [
+          "Connecting people"
+        ],
+        [
+          "Jump ahead"
+        ],
+        [
+          "It's the real thing"
+        ],
+        [
+          "Fluent in finance"
+        ]
+      ],
+      "fuente": "ADVERTISING VOCABULARY Pow Point.pdf / advertising-and-marketing Pow Point.pdf (Canvas 75655, file 8299011), p. 11 (la correspondencia con marcas aparece solo en imágenes, no en el texto)"
+    },
+    {
+      "titulo": "Presentation planning chart",
+      "columnas": [
+        "Element",
+        "Questions"
+      ],
+      "filas": [
+        [
+          "Aim",
+          "Why are you talking? What do you want to achieve?"
+        ],
+        [
+          "Topic",
+          "What are you talking about? What is the MESSAGE?"
+        ],
+        [
+          "Outline",
+          "How will you structure your presentation? ABA and timing"
+        ],
+        [
+          "Visual aids",
+          "What will you use? Will it enrich your presentation?"
+        ],
+        [
+          "Audience",
+          "How will you catch the attention? Eye contact and body language"
+        ]
+      ],
+      "fuente": "Making presentations.docx (Canvas 75655, file 8299043), sección 2.3"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Advertising strategies",
+      "pasos": [
+        "Ideal kids or families",
+        "Family fun",
+        "Excitement",
+        "Star power",
+        "Repetition",
+        "Sounds good",
+        "Cartoon characters",
+        "Are you cool enough?"
+      ],
+      "fuente": "ADVERTISING VOCABULARY Pow Point.pdf / advertising-and-marketing Pow Point.pdf (Canvas 75655, file 8299011), p. 21-22"
+    },
+    {
+      "titulo": "6 hot tips for public speaking",
+      "pasos": [
+        "1. Focus on the topic: your message",
+        "2. Believe it! Be energetic!",
+        "3. Prepare to survive",
+        "4. Breathe and move",
+        "5. Don't memorise",
+        "6. Connect with eye contact"
+      ],
+      "fuente": "Making presentations.docx (Canvas 75655, file 8299043), sección 2.1"
+    },
+    {
+      "titulo": "Design your own product (guion)",
+      "pasos": [
+        "What is your product? Name, price, description, slogan",
+        "Who is your target audience and age range? Why?",
+        "How much will it cost? Compare similar prices",
+        "Why is it necessary and unique? (minimum 100 words)"
+      ],
+      "fuente": "DESIGN YOUR OWN PRODUCT: ORAL SKILL PRACTICE (design-your-own-product.docx, Canvas 75655, file 8299032)"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Define advertising.",
+      "respuesta": "The activity or profession of producing information for promoting the sale of commercial products (p. 1)."
+    },
+    {
+      "pregunta": "Define marketing.",
+      "respuesta": "The management process through which goods and services move from concept to the customer (p. 2)."
+    },
+    {
+      "pregunta": "What are the 4 P's?",
+      "respuesta": "Product, price, place and promotional strategy (p. 3)."
+    },
+    {
+      "pregunta": "Brand vs logo vs slogan (vocabulary list).",
+      "respuesta": "All three appear in the advertising vocabulary list (p. 16)."
+    },
+    {
+      "pregunta": "Name four advertising strategies.",
+      "respuesta": "Ideal kids or families, family fun, excitement, star power, repetition (p. 21)."
+    },
+    {
+      "pregunta": "Which strategy uses famous people?",
+      "respuesta": "Star power (p. 21)."
+    },
+    {
+      "pregunta": "Elements of the group work ad project.",
+      "respuesta": "Product, target public, advertising strategies, slogan, PowerPoint presentation (p. 26)."
+    },
+    {
+      "pregunta": "Why shouldn't you memorise a speech?",
+      "respuesta": "Too much pressure; if you go blank you won't know what to do (Making presentations, tip 5)."
+    },
+    {
+      "pregunta": "Who should you look at first for eye contact?",
+      "respuesta": "Someone at the back of the room (Making presentations, tip 6)."
+    },
+    {
+      "pregunta": "What must the product description include in the oral practice?",
+      "respuesta": "Why it is necessary and unique, in at least 100 words (Design your own product)."
+    }
+  ],
+  "fuentes": [
+    "ADVERTISING VOCABULARY Pow Point.pdf / advertising-and-marketing Pow Point.pdf (Canvas 75655, file 8299011) — 26 páginas, pdftotext; p. 8-9 solo imagen (OCR sin texto)",
+    "Making presentations.docx (Canvas 75655, file 8299043) — python-docx",
+    "DESIGN YOUR OWN PRODUCT: ORAL SKILL PRACTICE (design-your-own-product.docx, Canvas 75655, file 8299032) — python-docx",
+    "Nota: los módulos de este curso están rotulados '1º MYP A'"
+  ]
+}

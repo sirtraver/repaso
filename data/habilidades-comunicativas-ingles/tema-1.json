@@ -1,0 +1,157 @@
+{
+  "asignatura": "INICIACIÓN A HABILIDADES COMUNICATIVAS EN INGLÉS(B)",
+  "tema": 1,
+  "titulo": "Unit 1: Why English Communication Matters",
+  "resumen": "More than 1.5 billion people speak English; it matters for career, education and personal development (coursepack p. 2).\nGlobalisation (fast travel, fast markets, 'uniform' culture) has made a global language real (slide 3).\nA strong command of English means proficiency in four skills: speaking, listening, reading and writing (p. 2-4).\nEach skill is defined: speaking articulates ideas verbally, reading interprets text, writing expresses thoughts clearly, listening receives and interprets messages (p. 3-4).\nPractical steps: speak clearly and slowly, focus on pronunciation, read aloud, learn useful sentences, practise with a friend (p. 4-5; slide 7).\nBonus chart: generations X, Y, Z, Alpha and future Beta… (McCrindle and Fell, 2021) (slide 8).",
+  "conceptos": [
+    {
+      "termino": "Speaking",
+      "definicion": "Speaking involves articulating ideas and information verbally in a clear, concise manner.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 3"
+    },
+    {
+      "termino": "Reading",
+      "definicion": "Reading involves understanding and interpreting text and enhancing knowledge and vocabulary.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 3"
+    },
+    {
+      "termino": "Writing",
+      "definicion": "it is about expressing thoughts clearly and coherently, which is critical for conveying messages and formulating thoughts.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 3"
+    },
+    {
+      "termino": "Listening",
+      "definicion": "Listening, on the other hand, is the ability to receive and interpret messages accurately, which is crucial for effective interaction and learning.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 4"
+    },
+    {
+      "termino": "Strong command of English",
+      "definicion": "A strong command of English means proficiency in four primary skills: speaking, listening, reading, and writing.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 2"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Generation Alpha model (McCrindle and Fell, 2021)",
+      "columnas": [
+        "Generation",
+        "Years",
+        "Age range (2024)"
+      ],
+      "filas": [
+        [
+          "Gen. X",
+          "1965-1979",
+          "45-59"
+        ],
+        [
+          "Gen. Y (millennials)",
+          "1980-1994",
+          "30-44"
+        ],
+        [
+          "Gen. Z",
+          "1994-2009",
+          "15-29"
+        ],
+        [
+          "Gen. α (Alpha)",
+          "2010-2024",
+          "0-14"
+        ],
+        [
+          "Gen. β (Beta)",
+          "2025-2039",
+          "1-15 years away"
+        ]
+      ],
+      "fuente": "Unit 1.1 - Why English Communication Matters.pptx (Canvas 75868, file 8319192), slide 8"
+    },
+    {
+      "titulo": "Basic communication skills (slide)",
+      "columnas": [
+        "Skill",
+        "Key idea"
+      ],
+      "filas": [
+        [
+          "Speaking",
+          "concision; shyness, hesitancy"
+        ],
+        [
+          "Reading",
+          "interpreting, critical thinking, personal interests"
+        ],
+        [
+          "Writing",
+          "essential for expression and profession"
+        ],
+        [
+          "Listening",
+          "necessary for learning, interaction and integration"
+        ]
+      ],
+      "fuente": "Unit 1.1 - Why English Communication Matters.pptx (Canvas 75868, file 8319192), slide 6"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Practical steps to improve communication skills",
+      "pasos": [
+        "Speak clearly and slowly",
+        "Focus on pronunciation (TV series/films, mirror practice)",
+        "Read aloud for better fluency",
+        "Learn useful sentences",
+        "Practice with a friend"
+      ],
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 4-5; Unit 1.1 - Why English Communication Matters.pptx (Canvas 75868, file 8319192), slide 7"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "How many people speak English?",
+      "respuesta": "More than 1.5 billion (p. 2; slide 3)."
+    },
+    {
+      "pregunta": "Why does English matter?",
+      "respuesta": "Career, education and personal development (p. 2)."
+    },
+    {
+      "pregunta": "What has made a global language real?",
+      "respuesta": "Globalisation: fast travel, fast markets, 'uniform' culture (slide 3)."
+    },
+    {
+      "pregunta": "What are the four primary skills?",
+      "respuesta": "Speaking, listening, reading and writing (p. 2)."
+    },
+    {
+      "pregunta": "Define speaking.",
+      "respuesta": "Articulating ideas and information verbally in a clear, concise manner (p. 3)."
+    },
+    {
+      "pregunta": "Easiest way to practise reading?",
+      "respuesta": "Reading online articles on topics you are interested in (p. 3)."
+    },
+    {
+      "pregunta": "Easy way to practise writing?",
+      "respuesta": "Journaling about your experiences, thoughts or reflections (p. 3)."
+    },
+    {
+      "pregunta": "Why speak slowly and clearly?",
+      "respuesta": "Thoughts are properly translated into words, avoiding mispronunciations and enhancing understanding (p. 4)."
+    },
+    {
+      "pregunta": "Why read aloud?",
+      "respuesta": "You engage with the text in sight and sound, correct yourself and build fluency (p. 5)."
+    },
+    {
+      "pregunta": "Which generation are people born 2010-2024?",
+      "respuesta": "Generation Alpha (slide 8)."
+    }
+  ],
+  "fuentes": [
+    "Unit 1.1 - Why English Communication Matters.pptx (Canvas 75868, file 8319192) — python-pptx",
+    "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191) — pp. 2-5, pdftotext",
+    "Material en inglés: definiciones literales en inglés"
+  ]
+}

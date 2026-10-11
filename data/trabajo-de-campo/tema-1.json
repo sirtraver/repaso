@@ -1,0 +1,256 @@
+{
+  "asignatura": "INICIACIÓN A TRABAJO DE CAMPO EN LA INVESTIGACIÓN COMERCIAL(B)",
+  "tema": 1,
+  "titulo": "Planificación del trabajo de campo",
+  "resumen": "Kotler define la investigación comercial; el trabajo de campo es su fase de recogida de datos y se planifica en el plan de trabajo de campo (p. 3).\nTodo trabajo de campo tiene cuatro fases comunes, sea la metodología cualitativa o cuantitativa (p. 4).\nLos objetivos se fijan con el cliente y se asignan al equipo mediante un briefing según número de personas, complejidad y destrezas (p. 5-6).\nLa programación planifica en el tiempo recursos humanos, materiales y económicos y se recoge en la propuesta; el cronograma organiza las tareas (p. 7-9).\nEl número de personas depende del tipo de investigación, el presupuesto y el timing (p. 7).\nLa muestra se selecciona a partir del público objetivo y del buyer persona (y el buyer persona negativo), con diversas fuentes (p. 10-13).\nEl presupuesto forma parte de la propuesta: criterios de precio y contenido mínimo (p. 14).",
+  "conceptos": [
+    {
+      "termino": "Investigación comercial (Kotler)",
+      "definicion": "El diseño de la misma, la recogida de datos e información relevante, y su posterior análisis, que se utilizarán para resolver un problema concreto de marketing con el que se enfrenta la empresa",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 3 del PDF"
+    },
+    {
+      "termino": "Trabajo de campo",
+      "definicion": "El trabajo de campo es la fase de la investigación comercial que se dedica a la recogida de datos",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 3 del PDF"
+    },
+    {
+      "termino": "Plan de trabajo de campo",
+      "definicion": "Antes de empezar con la recogida de datos, se elabora un documento denominado Plan de trabajo de campo donde se planifican todas las actividades que se van a llevar a cabo en este proceso.",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 3 del PDF"
+    },
+    {
+      "termino": "Programación del trabajo de campo",
+      "definicion": "La programación del trabajo de campo hace referencia a la planificación en el tiempo de los recursos humanos, materiales y económicos, necesarios para conseguir los objetivos planificados en la investigación.",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 7 del PDF"
+    },
+    {
+      "termino": "Propuesta",
+      "definicion": "un contrato o documento escrito formal",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 7 del PDF"
+    },
+    {
+      "termino": "Cronogramas",
+      "definicion": "calendarios de actividades o trabajos que se llevarán a cabo un periodo de tiempo determinado.",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 8 del PDF"
+    },
+    {
+      "termino": "Público objetivo o target",
+      "definicion": "El público objetivo o target de una empresa es la descripción demográfica y conductual de un conjunto de personas que consume o que serán futuros consumidores de un determinado producto o servicio.",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 10 del PDF"
+    },
+    {
+      "termino": "Buyer persona",
+      "definicion": "El buyer persona es el arquetipo o representación ficticia del cliente ideal de un determinado producto o servicio.",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 10 del PDF"
+    },
+    {
+      "termino": "Buyer persona negativo",
+      "definicion": "el cliente al que no se quiere atraer, el que no debería estar interesado en los productos o servicios de la empresa.",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 10 del PDF"
+    },
+    {
+      "termino": "IAB",
+      "definicion": "Interactive Advertising Bureau es la asociación que agrupa a las empresas de la publicidad interactiva de los principales mercados del mundo",
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 11 del PDF"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Factores para el número de personas del equipo",
+      "columnas": [
+        "Factor",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Tipo de investigación",
+          "más personal para 1500 entrevistas telefónicas que para un focus group de 15"
+        ],
+        [
+          "Presupuesto",
+          "determina cuánto personal y su cualificación"
+        ],
+        [
+          "Timing",
+          "1500 entrevistas en una semana o en un mes cambia el número de encuestadores"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 7 del PDF"
+    },
+    {
+      "titulo": "Fuentes para crear el buyer persona",
+      "columnas": [
+        "Fuente",
+        "Detalle"
+      ],
+      "filas": [
+        [
+          "Investigación de datos demográficos",
+          "redes sociales, Think with Google, IAB, EGM, INE"
+        ],
+        [
+          "Entrevista al equipo de ventas",
+          "conoce demandas, necesidades y miedos del cliente"
+        ],
+        [
+          "Encuestas directas a clientes",
+          "la mejor información"
+        ],
+        [
+          "Investigación de palabras clave",
+          "Planificador de Palabras Clave de Google, Keywordtool.io, Übersuggest, SemRush, Sistrix"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 11-12 del PDF"
+    },
+    {
+      "titulo": "Metodologías",
+      "columnas": [
+        "Metodología",
+        "Ejemplos"
+      ],
+      "filas": [
+        [
+          "Cualitativa",
+          "entrevistas personales, focus group, Mistery Shopper"
+        ],
+        [
+          "Cuantitativa",
+          "encuestas, paneles"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 4 del PDF"
+    },
+    {
+      "titulo": "Contenido del presupuesto",
+      "columnas": [
+        "Elemento"
+      ],
+      "filas": [
+        [
+          "Datos de la empresa, del cliente"
+        ],
+        [
+          "Concepto"
+        ],
+        [
+          "Modo de pago"
+        ],
+        [
+          "Plazo de entrega"
+        ],
+        [
+          "Garantías"
+        ],
+        [
+          "Condiciones legales"
+        ],
+        [
+          "Formato de entrega"
+        ]
+      ],
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 14 del PDF"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Fases del trabajo de campo",
+      "pasos": [
+        "Fase 1: Determinación y asignación de los objetivos al equipo",
+        "Fase 2: Programación y planificación (cronograma, lista de contactos, selección del equipo, presupuesto)",
+        "Fase 3: Desarrollo (pretest, permisos, ejecución y registro de la información)",
+        "Fase 4: Informe de conclusiones (ordenar, analizar, redactar y presentar)"
+      ],
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 4 del PDF"
+    },
+    {
+      "titulo": "Pautas para hacer un cronograma",
+      "pasos": [
+        "Establecer las actividades o tareas",
+        "Comprobar su realización o dividirlas en actividades menores",
+        "Concretar los medios para cada tarea",
+        "Establecer la unidad de medida (horas, días, jornadas)",
+        "Determinar el tiempo necesario para cada tarea"
+      ],
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 8 del PDF"
+    },
+    {
+      "titulo": "Criterios básicos para fijar el precio",
+      "pasos": [
+        "Cubrir costes (materiales, mano de obra, desplazamientos, dietas)",
+        "Margen de beneficio sobre los costes",
+        "Precio de mercado (competencia, máximo y mínimo del cliente)",
+        "Promociones"
+      ],
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 14 del PDF"
+    },
+    {
+      "titulo": "Asignación de objetivos al equipo",
+      "pasos": [
+        "Número de personas del equipo",
+        "Importancia y complejidad de las tareas",
+        "Destrezas y competencias de cada trabajador"
+      ],
+      "fuente": "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460), p. 5-6 del PDF"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "¿Qué es el trabajo de campo?",
+      "respuesta": "La fase de la investigación comercial dedicada a la recogida de datos (p. 3)."
+    },
+    {
+      "pregunta": "¿Qué documento se elabora antes de recoger datos?",
+      "respuesta": "El plan de trabajo de campo (p. 3)."
+    },
+    {
+      "pregunta": "Información interna vs externa.",
+      "respuesta": "Interna: la que ya tiene la empresa (pedidos, ventas); externa: del macroentorno (competencia, demografía) (p. 3)."
+    },
+    {
+      "pregunta": "Cuatro fases comunes del trabajo de campo.",
+      "respuesta": "Objetivos; programación y planificación; desarrollo; informe (p. 4)."
+    },
+    {
+      "pregunta": "Cita tres objetivos de una investigación de mercado.",
+      "respuesta": "Perfil del público objetivo, producto ideal, cuota de mercado, preferencias, anticiparse a la competencia (p. 5)."
+    },
+    {
+      "pregunta": "¿Con qué documento se asignan objetivos a cada trabajador?",
+      "respuesta": "Con un documento de trabajo o briefing (p. 5)."
+    },
+    {
+      "pregunta": "¿Qué especifica la propuesta?",
+      "respuesta": "Número de personas, formación de encuestadores, materiales y cronograma (p. 7)."
+    },
+    {
+      "pregunta": "¿Cuándo comienza el trabajo de campo externalizado?",
+      "respuesta": "Con la aceptación de la propuesta por el cliente (p. 7)."
+    },
+    {
+      "pregunta": "Público objetivo vs buyer persona.",
+      "respuesta": "Target: descripción demográfica y conductual de un conjunto; buyer persona: arquetipo ficticio del cliente ideal (p. 10)."
+    },
+    {
+      "pregunta": "¿Puede haber más de un buyer persona?",
+      "respuesta": "Sí (p. 10)."
+    },
+    {
+      "pregunta": "Ejemplo de público objetivo del tema.",
+      "respuesta": "Shiseido Vital Perfection: mujeres mayores de 50, clase media-alta, altos ingresos, fieles a su marca (p. 10)."
+    },
+    {
+      "pregunta": "¿Qué es la IAB?",
+      "respuesta": "Interactive Advertising Bureau, asociación de empresas de publicidad interactiva (p. 11)."
+    },
+    {
+      "pregunta": "Riesgo de un precio demasiado bajo o alto.",
+      "respuesta": "Bajo: no cubrir gastos; alto: perder al cliente antes de negociar (p. 14)."
+    }
+  ],
+  "fuentes": [
+    "TCICO-MYP-UD1-Planificacion del trabajo de campo.pdf (Canvas 75802, file 8341460) — 16 páginas, texto con pdftotext; ejemplos de cronograma (p. 9) y buyer persona (p. 13) en imagen; p. 16 en blanco",
+    "UD1. Planificacion del trabajo de campo-presentacion.pptx (Canvas 75802, file 8341461) revisada como apoyo; no citada ítem a ítem"
+  ]
+}

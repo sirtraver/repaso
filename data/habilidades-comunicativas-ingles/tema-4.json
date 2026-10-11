@@ -1,0 +1,152 @@
+{
+  "asignatura": "INICIACIÓN A HABILIDADES COMUNICATIVAS EN INGLÉS(B)",
+  "tema": 4,
+  "titulo": "Unit 4: Writing Skill",
+  "resumen": "Writing is one of the most important skills: it leaves a lasting record and mistakes are immediately evident (p. 14).\nPoor writing can lower marks or make people judge you as lazy or untrustworthy (p. 14).\nStrategy use transfers: strong writers in L1 tend to be strong in English (p. 14).\nWriting works by translating ideas into language, revising wording and correcting errors (p. 15; slide 3).\nTop tips: mind-map, outline, touch-type, revise, checkers, productive vocabulary, read, text types; basic structure connectors (p. 15-17).",
+  "conceptos": [
+    {
+      "termino": "Writing vs reading",
+      "definicion": "Reading is a receptive skill that requires an individual to make meaning from the language input to which they are exposed. In writing, learners must actually create meaning and produce their own language.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 15"
+    },
+    {
+      "termino": "Productive vocabulary",
+      "definicion": "Most English language learners have a larger receptive vocabulary than a productive one. This means you may understand a word when you see it but it won't necessarily show up in your writing.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 16"
+    },
+    {
+      "termino": "Strategy transfer",
+      "definicion": "if you are a strong writer in your first language, chances are you will also be a strong writer in English. That's because strategy use transfers.",
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 14"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "How writing works",
+      "columnas": [
+        "Trait",
+        "Strategy or goal"
+      ],
+      "filas": [
+        [
+          "Translating ideas",
+          "Planning a theme"
+        ],
+        [
+          "Writing down notes",
+          "Creating main points"
+        ],
+        [
+          "Planning the text",
+          "Order? Structure?"
+        ],
+        [
+          "Writing the text",
+          "Preliminary version"
+        ],
+        [
+          "Revising wording",
+          "Precision, clarity"
+        ],
+        [
+          "Revising errors",
+          "Correction, elegance"
+        ],
+        [
+          "Proof-reading",
+          "more corrections, possibly by others"
+        ],
+        [
+          "Final touches",
+          "Editing, font, layout"
+        ]
+      ],
+      "fuente": "Unit 4 - Writing Skill.pptx (Canvas 75868, file 8319194), slide 3"
+    },
+    {
+      "titulo": "Basic structure connectors",
+      "columnas": [
+        "Function",
+        "Expressions"
+      ],
+      "filas": [
+        [
+          "Introduce",
+          "According to; It is clear that; It can be argued that; …presents/depicts/supports"
+        ],
+        [
+          "Develop",
+          "The reasons for… are; This is because…; This is characterised by…; Consequently/therefore/due to; As a result/hence/thus/since; Though/although/however"
+        ],
+        [
+          "Conclude",
+          "To conclude; To summarise; In conclusion; In summary; Overall"
+        ]
+      ],
+      "fuente": "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 17; Unit 4 - Writing Skill.pptx (Canvas 75868, file 8319194), slide 5"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Top tips to improve English writing",
+      "pasos": [
+        "(1) Start with a mind map",
+        "(2) Use an outline",
+        "(3) Learn how to touch-type",
+        "(4) Revise, revise, revise",
+        "(5) Use spelling/grammar checks",
+        "(6) Build productive vocabulary",
+        "(7) Read, read, read",
+        "(8) Look at many text types"
+      ],
+      "fuente": "Unit 4 - Writing Skill.pptx (Canvas 75868, file 8319194), slide 4; HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191), p. 15-16"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Why is writing harder than speaking regarding mistakes?",
+      "respuesta": "It leaves a lasting record and mistakes are immediately evident (p. 14)."
+    },
+    {
+      "pregunta": "What may people think of poorly written emails?",
+      "respuesta": "That you are lazy or untrustworthy (p. 14)."
+    },
+    {
+      "pregunta": "What does 'strategy use transfers' mean?",
+      "respuesta": "Strong L1 writers tend to be strong English writers (p. 14)."
+    },
+    {
+      "pregunta": "Reading vs writing.",
+      "respuesta": "Reading is receptive (make meaning from input); writing creates meaning and produces language (p. 15)."
+    },
+    {
+      "pregunta": "First tip for writing?",
+      "respuesta": "Start with a mind-map (p. 15)."
+    },
+    {
+      "pregunta": "Why learn to touch-type?",
+      "respuesta": "We think faster than we write; it lets thoughts flow freely (p. 15)."
+    },
+    {
+      "pregunta": "Are grammar checkers cheating?",
+      "respuesta": "No; they call attention to problems and are a learning experience (p. 16)."
+    },
+    {
+      "pregunta": "How to build productive vocabulary?",
+      "respuesta": "Purposefully use recently learned words; use a thesaurus (p. 16)."
+    },
+    {
+      "pregunta": "Give three concluding expressions.",
+      "respuesta": "To conclude, in summary, overall (p. 17)."
+    },
+    {
+      "pregunta": "What was the unit activity?",
+      "respuesta": "An essay of 150-200 words on a topic from your branch of studies (p. 18)."
+    }
+  ],
+  "fuentes": [
+    "Unit 4 - Writing Skill.pptx (Canvas 75868, file 8319194) — python-pptx",
+    "HABILIDADES COMUNICATIVAS EN INGLÉS COURSEPACK.pdf (Canvas 75868, file 8319191) — pp. 14-18, pdftotext",
+    "Material en inglés: definiciones literales en inglés"
+  ]
+}

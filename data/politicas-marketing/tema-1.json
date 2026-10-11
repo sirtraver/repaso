@@ -1,0 +1,461 @@
+{
+  "asignatura": "INICIACIÓN A POLÍTICAS DE MARKETING(B)",
+  "tema": 1,
+  "titulo": "Evaluación de las oportunidades de mercado de la empresa (+ anexos Viaje del Héroe y E-commerce)",
+  "resumen": "El marketing es el plan estratégico global de la empresa; la publicidad es una parte que comunica de forma persuasiva (diap. 4-5).\nEl marketing es una ciencia económica centrada en el consumidor; las empresas pueden orientarse a la producción, la venta o el marketing (diap. 8-11).\nExisten tipos de marketing (estratégico, operativo, externo, interno, relacional, emocional, social) y el marketing mix de las 4 P (diap. 13-14).\nSegmentar es dividir el mercado en grupos homogéneos; los segmentos deben ser medibles, accesibles, sustanciales, estables, diferenciables y accionables (diap. 16-21).\nMercado, tipos de mercado según competencia, entorno micro/macro, niveles de competencia y cinco fuerzas de Porter (diap. 27-35).\nEstrategias: DAFO-CAME, curva de valor (océano rojo/azul), matriz ERIC, estrategias básicas de Porter, de inversión y del líder/aspirante/seguidora (diap. 38-53).\nAnexos: el viaje del héroe como estructura narrativa (el cliente es el héroe) y estrategias y modelos de negocio de e-commerce (Viaje del Héroe; Anexo E-commerce).",
+  "conceptos": [
+    {
+      "termino": "Marketing",
+      "definicion": "El marketing es el plan estratégico global de una empresa para estudiar el mercado, definir su producto, fijar los precios y fidelizar clientes.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 4"
+    },
+    {
+      "termino": "Publicidad",
+      "definicion": "La publicidad es una parte específica del marketing, encargada de comunicar y promocionar de forma persuasiva (usualmente pagada) la existencia de ese producto a través de diferentes medios.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 4"
+    },
+    {
+      "termino": "Marketing como ciencia",
+      "definicion": "una ciencia económica que estudia los procesos de comercialización y consumo de bienes y servicio, partiendo de un análisis profundo de los consumidores.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 9"
+    },
+    {
+      "termino": "Marketing mix",
+      "definicion": "El marketing mix, o las cuatro pes: producto, precio, distribución y comunicación, implica una serie de estrategias esenciales para las empresas.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 14"
+    },
+    {
+      "termino": "Segmentar",
+      "definicion": "Segmentar es dividir el mercado en grupos homogéneos de clientes, atendiendo a ciertos criterios.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 16"
+    },
+    {
+      "termino": "Cliente potencial",
+      "definicion": "Grupo de personas que se adaptan al perfil definido por la empresa",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 21"
+    },
+    {
+      "termino": "Cliente objetivo",
+      "definicion": "Los interesados en el producto",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 21"
+    },
+    {
+      "termino": "Cliente real",
+      "definicion": "Los que adquieren nuestro producto",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 21"
+    },
+    {
+      "termino": "Microentorno",
+      "definicion": "El microentorno se refiere a las variables directamente relacionadas con la empresa y que pueden ser influenciadas por sus acciones.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 22"
+    },
+    {
+      "termino": "Macroentorno",
+      "definicion": "El macroentorno incluye variables externas a la empresa sobre las que esta no puede influir.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 22"
+    },
+    {
+      "termino": "Mercado en Marketing",
+      "definicion": "Conjunto de personas, que necesitan un producto o servicio, que desean comprarlo y que tienen capacidad para hacerlo.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 27"
+    },
+    {
+      "termino": "Ventaja competitiva",
+      "definicion": "Una ventaja competitiva es una actividad que la empresa hace mejor que los competidores",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 38"
+    },
+    {
+      "termino": "Curva de valor",
+      "definicion": "La curva de valor da una visión global de en que variables se centra la competencia, generando un océano rojo e intentar buscar un océano azul donde existe menos competencia.",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 45"
+    },
+    {
+      "termino": "Matriz ERIC",
+      "definicion": "La Matriz ERIC es un acrónimo de las palabras Eliminar, Reducir, Incrementar y Crear que se plantean para modificar la curva de valor y generar una ventaja competitiva",
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 47"
+    },
+    {
+      "termino": "Viaje del héroe",
+      "definicion": "El viaje del héroe (o monomito, popularizado por Joseph Campbell) es una estructura narrativa universal que resuena profundamente en la psicología humana.",
+      "fuente": "UNIDAD 01 .-PM. El viaje del Héroe.pptx (Canvas 75855, file 8414543), diap. 2"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Marketing vs Comercio",
+      "columnas": [
+        "Aspecto",
+        "Marketing (Estrategia)",
+        "Comercio (Acción)"
+      ],
+      "filas": [
+        [
+          "Objetivo",
+          "Atraer al cliente y crear valor de marca",
+          "Cerrar la venta y entregar el producto"
+        ],
+        [
+          "Foco",
+          "Las necesidades del consumidor y el mercado",
+          "La distribución y la transacción económica"
+        ],
+        [
+          "Tiempo",
+          "medio y largo plazo",
+          "corto plazo e inmediatos"
+        ],
+        [
+          "Acciones",
+          "Investigación, publicidad y precios",
+          "Logística, ventas y transporte"
+        ]
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 8"
+    },
+    {
+      "titulo": "Tipos de marketing",
+      "columnas": [
+        "Tipo",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Estratégico",
+          "Identificar nuevos mercados, valorar su potencial y orientar a la empresa"
+        ],
+        [
+          "Operativo",
+          "Tácticas sobre las variables del marketing mix"
+        ],
+        [
+          "Externo",
+          "Actuaciones dirigidas hacia el exterior"
+        ],
+        [
+          "Interno",
+          "Orientado a los trabajadores"
+        ],
+        [
+          "Relacional",
+          "Relaciones estables con los clientes"
+        ],
+        [
+          "Emocional",
+          "Captar la emoción y sentimientos"
+        ],
+        [
+          "Social",
+          "Aceptación de una idea social"
+        ]
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 13"
+    },
+    {
+      "titulo": "Estructuras de mercado",
+      "columnas": [
+        "Rasgo",
+        "Competencia perfecta",
+        "Competencia monopolística",
+        "Oligopolio",
+        "Monopolio"
+      ],
+      "filas": [
+        [
+          "Número de empresas",
+          "Muchas",
+          "Muchas",
+          "Pocas",
+          "Una"
+        ],
+        [
+          "Producto",
+          "Bienes homogéneos",
+          "Diferenciados",
+          "Homogéneos o diferenciados",
+          "Solo un bien"
+        ],
+        [
+          "Información",
+          "Perfecta",
+          "Imperfecta",
+          "Imperfecta",
+          "Imperfecta"
+        ]
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 28 (OCR de imagen; asignación de columnas reconstruida)"
+    },
+    {
+      "titulo": "Niveles de competencia",
+      "columnas": [
+        "Nivel",
+        "Definición",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "Mercado",
+          "Productos que satisfacen una misma necesidad",
+          "AVE y puente aéreo Madrid-Barcelona"
+        ],
+        [
+          "Industria",
+          "Los que fabrican un mismo producto",
+          "Impresoras láser"
+        ],
+        [
+          "Producto-mercado",
+          "Mismo producto y mismo cliente",
+          "Ford, Seat, Citroën, Renault"
+        ]
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 32"
+    },
+    {
+      "titulo": "Perfiles de reacción de la competencia (Kotler)",
+      "columnas": [
+        "Perfil",
+        "Reacción"
+      ],
+      "filas": [
+        [
+          "Selectivo",
+          "Solo reacciona ante determinados ataques"
+        ],
+        [
+          "Tigre",
+          "Reacciona a todo"
+        ],
+        [
+          "Aposentado",
+          "No reacciona"
+        ],
+        [
+          "Estocástico",
+          "Reacciona aleatoriamente"
+        ]
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 39"
+    },
+    {
+      "titulo": "Estrategias básicas de Porter",
+      "columnas": [
+        "Estrategia",
+        "Descripción"
+      ],
+      "filas": [
+        [
+          "Diferenciación",
+          "Producto diferente, único y exclusivo (real o percibido)"
+        ],
+        [
+          "Liderazgo en costes",
+          "Fabricar a menor coste"
+        ],
+        [
+          "Especialización",
+          "Centrarse en un área o grupo de clientes"
+        ]
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 49"
+    },
+    {
+      "titulo": "Viaje del héroe en marketing (8 etapas)",
+      "columnas": [
+        "Etapa",
+        "En Políticas de Marketing"
+      ],
+      "filas": [
+        [
+          "1. Mundo Ordinario",
+          "El cliente tiene un problema o necesidad sin resolver"
+        ],
+        [
+          "2. Llamado a la Aventura",
+          "Descubre un punto de dolor o una oportunidad"
+        ],
+        [
+          "3. Rechazo del Llamado",
+          "Desconfía, pone objeciones o pospone la compra"
+        ],
+        [
+          "4. Encuentro con el Mentor",
+          "La marca aparece con información, empatía y una solución"
+        ],
+        [
+          "5. Cruce del Umbral",
+          "Decide comprar o probar"
+        ],
+        [
+          "6. Pruebas y Enemigos",
+          "Experimenta con la marca y compara"
+        ],
+        [
+          "7. Recompensa",
+          "Obtiene beneficios y resultados"
+        ],
+        [
+          "8. Regreso Transformado",
+          "Satisfecho, se convierte en promotor"
+        ]
+      ],
+      "fuente": "UNIDAD 01 .-PM. El viaje del Héroe.pptx (Canvas 75855, file 8414543), diap. 4"
+    },
+    {
+      "titulo": "Modelos de negocio online",
+      "columnas": [
+        "Modelo",
+        "Ejemplo"
+      ],
+      "filas": [
+        [
+          "B2C (Business to Customer)",
+          "Zara online"
+        ],
+        [
+          "B2B (Business to Business)",
+          "BYD a Tesla"
+        ],
+        [
+          "B2G (Business to Government)",
+          "Amazon Web Service"
+        ],
+        [
+          "C2C (Customer to Customer)",
+          "Vinted"
+        ],
+        [
+          "C2B (Customer to Business)",
+          "freelance"
+        ],
+        [
+          "D2C (Direct to Consumer)",
+          "agricultor que vende naranjas online"
+        ]
+      ],
+      "fuente": "ANEXO E-COMMERCE UNIDAD 1-1.pptx (Canvas 75855, file 8414311), diap. 5"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Cinco fuerzas de Porter",
+      "pasos": [
+        "Rivalidad entre empresas del sector (barreras de salida)",
+        "Competidores potenciales (barreras de entrada)",
+        "Fabricantes de sustitutivos (marcan un límite al precio)",
+        "Poder negociador de los proveedores",
+        "Poder negociador de los clientes"
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 34"
+    },
+    {
+      "titulo": "Orientaciones de la empresa",
+      "pasos": [
+        "1. Orientación a la producción: papel limitado y pasivo",
+        "2. Orientación a la venta: obtención de cifras de venta",
+        "3. Orientación al marketing: dedicada a las necesidades del consumidor"
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 11"
+    },
+    {
+      "titulo": "Estrategias según la decisión de inversión",
+      "pasos": [
+        "Desinvertir",
+        "Cosechar u ordeñar",
+        "Mantener",
+        "Invertir o crecer"
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 50"
+    },
+    {
+      "titulo": "Estrategias del líder (Kotler)",
+      "pasos": [
+        "Aumentar la demanda global (frecuencia de uso, nuevos usuarios, nuevos usos)",
+        "Defenderse de los ataques de la competencia",
+        "Aumentar cuota de mercado en mercados estancados"
+      ],
+      "fuente": "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive), diap. 51"
+    },
+    {
+      "titulo": "Estrategias digitales para e-commerce",
+      "pasos": [
+        "SEO y palabras clave",
+        "Redes sociales",
+        "Email marketing",
+        "Marketing de contenidos",
+        "Mejorar la experiencia de compra",
+        "Testimonios y reseñas",
+        "Publicidad",
+        "Personalización"
+      ],
+      "fuente": "ANEXO E-COMMERCE UNIDAD 1-1.pptx (Canvas 75855, file 8414311), diap. 3-4"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Marketing vs publicidad.",
+      "respuesta": "Marketing: plan estratégico global; publicidad: parte del marketing que comunica de forma persuasiva, normalmente pagada (diap. 4)."
+    },
+    {
+      "pregunta": "¿Desde cuándo se usa masivamente el marketing?",
+      "respuesta": "Desde la segunda mitad del siglo XX, cuando los mercados empiezan a saturarse (diap. 9)."
+    },
+    {
+      "pregunta": "Tres orientaciones posibles de la empresa.",
+      "respuesta": "Producción, venta y marketing (diap. 11)."
+    },
+    {
+      "pregunta": "¿Qué aporta el marketing al sistema económico?",
+      "respuesta": "Ajusta flujos de producción y consumo, mejora la logística, crea utilidad, activa la economía y fomenta la innovación (diap. 12)."
+    },
+    {
+      "pregunta": "Condiciones de una segmentación útil.",
+      "respuesta": "Segmentos medibles, accesibles, sustanciales, estables, diferenciables y sobre los que se pueda actuar (diap. 19)."
+    },
+    {
+      "pregunta": "Cliente potencial, objetivo y real.",
+      "respuesta": "Potencial: encaja en el perfil; objetivo: interesado; real: el que compra (diap. 21)."
+    },
+    {
+      "pregunta": "¿Qué identifica el DAFO?",
+      "respuesta": "Factores internos (fortalezas, debilidades) y externos (oportunidades, amenazas) (diap. 24)."
+    },
+    {
+      "pregunta": "Clases de mercado según nivel de competencia.",
+      "respuesta": "Competencia perfecta, oligopolio, competencia monopolística y monopolio (diap. 27)."
+    },
+    {
+      "pregunta": "Ejemplo de oligopolio diferenciado.",
+      "respuesta": "Apple, Samsung, Xiaomi (diap. 30)."
+    },
+    {
+      "pregunta": "Cita barreras de entrada.",
+      "respuesta": "Economías de escala, diferenciación, costes de cambio, capital, normativa, saturación de canales, efecto experiencia (diap. 34)."
+    },
+    {
+      "pregunta": "¿Qué es el competidor 'tigre' según Kotler?",
+      "respuesta": "El que reacciona a todo (diap. 39)."
+    },
+    {
+      "pregunta": "¿Qué significa ERIC?",
+      "respuesta": "Eliminar, Reducir, Incrementar y Crear (diap. 47)."
+    },
+    {
+      "pregunta": "Océano rojo vs azul.",
+      "respuesta": "Rojo: donde se centra la competencia; azul: espacio con menos competencia (diap. 45)."
+    },
+    {
+      "pregunta": "¿Quién es el héroe en el marketing estratégico?",
+      "respuesta": "El cliente; la marca es el guía o mentor (Viaje del Héroe, diap. 3)."
+    },
+    {
+      "pregunta": "Ejemplo de C2C.",
+      "respuesta": "Vinted (Anexo E-commerce, diap. 5)."
+    }
+  ],
+  "fuentes": [
+    "UNIDAD 1. -PM. Evaluación mercado.pptx (Canvas 75855, file 8414493; copia en Drive) — 55 diapositivas; texto con python-pptx y OCR en diap. 7, 28, 35, 37, 44, 46, 48 (37 y 44 solo logos/plantillas sin texto aprovechable)",
+    "UNIDAD 01 .-PM. El viaje del Héroe.pptx (Canvas 75855, file 8414543) — texto con python-pptx",
+    "ANEXO E-COMMERCE UNIDAD 1-1.pptx (Canvas 75855, file 8414311) — texto con python-pptx",
+    "No usado: vídeo 'Storytelling' (mp4, file 8414300), sin texto"
+  ]
+}
