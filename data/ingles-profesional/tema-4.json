@@ -1,0 +1,150 @@
+{
+  "asignatura": "INGLÉS PROFESIONAL (Canvas 75655)",
+  "tema": 4,
+  "titulo": "Persuasion Marketing & Persuasion Advertising",
+  "resumen": "Persuasion marketing applies human psychology to promotions and builds on impulsive behaviour (A).\nSalespeople use it and now translate it to the web; it helps e-commerce convert visits to sales (A).\nCustomers are more sensitive in a 'persuasion window'; e.g. offers on 'thank you' pages convert at 39% (A).\nElements: structured communication, storytelling, copywriting and neuromarketing (A).\nPersuasion advertising uses negative, humor, sex, fear and comparative appeals (B.1).",
+  "conceptos": [
+    {
+      "termino": "Persuasion marketing",
+      "definicion": "Persuasion marketing applies what we know about human psychology to develop techniques to market products or services.",
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), A"
+    },
+    {
+      "termino": "Structured communication",
+      "definicion": "like the “planned conversation” of interpersonal sales, is about controlling the order of the dialogue, or how information is presented to the consumer.",
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), A"
+    },
+    {
+      "termino": "Storytelling",
+      "definicion": "uses a narrative framework to invoke a customer's emotional and subconscious responses",
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), A"
+    },
+    {
+      "termino": "Copywriting",
+      "definicion": "is using the right words and phrases for headings, captions, product descriptions, and other text.",
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), A"
+    },
+    {
+      "termino": "Neuromarketing",
+      "definicion": "is perhaps the most important component of persuasion marketing, applying psychology to the marketing message.",
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), A"
+    },
+    {
+      "termino": "Fear Appeal",
+      "definicion": "Reminds you of natural fears, and suggests a product or service will somehow protect you.",
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), B.1"
+    },
+    {
+      "termino": "Negative Appeal",
+      "definicion": "An ad that says something is dangerous so it arouses your curiosity.",
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), B.1"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Forms of persuasion in advertising",
+      "columnas": [
+        "Appeal",
+        "Description"
+      ],
+      "filas": [
+        [
+          "Negative",
+          "says something is dangerous, arouses curiosity"
+        ],
+        [
+          "Humor",
+          "meant to stick in your mind (Etrade)"
+        ],
+        [
+          "Sex",
+          "plays on your desire to be attractive (Cashew)"
+        ],
+        [
+          "Fear",
+          "reminds you of natural fears"
+        ],
+        [
+          "Comparative",
+          "two competing products are used"
+        ]
+      ],
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), B.1"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Elements of storytelling",
+      "pasos": [
+        "Passion",
+        "Hero (the customer)",
+        "Antagonist (or bogey, like the fear of loss)",
+        "Moment of awareness",
+        "Transformation"
+      ],
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), A"
+    },
+    {
+      "titulo": "Examples of persuasive windows",
+      "pasos": [
+        "When in a good mood",
+        "When the world doesn't make sense",
+        "When indebted to a favor",
+        "Can (or must) take immediate action",
+        "Right after a mistake",
+        "Right after being denied a request"
+      ],
+      "fuente": "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047), A"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "What does persuasion marketing apply?",
+      "respuesta": "Human psychology to market products (A)."
+    },
+    {
+      "pregunta": "Which part of the marketing mix does it apply to?",
+      "respuesta": "Promotions (A)."
+    },
+    {
+      "pregunta": "Who spoke about it at SES San Francisco 2011?",
+      "respuesta": "Susan Bratton (A)."
+    },
+    {
+      "pregunta": "What is a 'persuasion window'?",
+      "respuesta": "A moment when the customer is more sensitive to persuasion (A)."
+    },
+    {
+      "pregunta": "Conversion rate of offers on 'thank you' pages.",
+      "respuesta": "39% (A)."
+    },
+    {
+      "pregunta": "What is 'alarm clocking' a website?",
+      "respuesta": "Designing it so people check regularly to avoid missing offers (A)."
+    },
+    {
+      "pregunta": "Four elements of persuasion marketing.",
+      "respuesta": "Structured communication, storytelling, copywriting, neuromarketing (A)."
+    },
+    {
+      "pregunta": "Who is the hero in storytelling?",
+      "respuesta": "The customer (A)."
+    },
+    {
+      "pregunta": "How much of decision-making is beyond conscious reasoning?",
+      "respuesta": "As much as 90 percent (A)."
+    },
+    {
+      "pregunta": "Why do grocery stores put flowers at the front?",
+      "respuesta": "To 'prime' customers with freshness (A)."
+    },
+    {
+      "pregunta": "Comparative appeal.",
+      "respuesta": "Two competing products are used (B.1)."
+    }
+  ],
+  "fuentes": [
+    "SEMANA 2- TEMA 2.docx — 'Tema 2: Persuasion Marketing & Persuasion Advertising' (Canvas 75655, file 8299047) — python-docx (sin paginación: se cita por apartado)",
+    "En Canvas: '3. PERSUASION MARKETING AND PERSUASION ADVERTISING'"
+  ]
+}

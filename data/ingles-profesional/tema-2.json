@@ -1,0 +1,229 @@
+{
+  "asignatura": "INGLÉS PROFESIONAL (Canvas 75655)",
+  "tema": 2,
+  "titulo": "Basics of Marketing (Second Term)",
+  "resumen": "The marketing concept: success depends on identifying and satisfying consumer needs and wants (slide 2-3).\nNeeds vs wants and the exchange process (two parties, communication, freedom to accept or decline) (slide 4-5).\nThe marketing mix (product, price, place, promotion) and target markets that must be sizeable, reachable, measurable and behavioral (slide 7-11).\nNiche marketing, market segmentation and its five bases (slide 14-40).\nPositioning, positioning maps, product differentiation, re-positioning and types of advertising (slide 41-74).",
+  "conceptos": [
+    {
+      "termino": "The Marketing Concept",
+      "definicion": "philosophy that a company's success is ultimately dependent upon efficient identification of consumer needs and wants and the ability to satisfy them",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 2"
+    },
+    {
+      "termino": "Want",
+      "definicion": "A want is simply something you would like to have",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 4"
+    },
+    {
+      "termino": "Need",
+      "definicion": "A need is something you have to have and that you cannot do without",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 4"
+    },
+    {
+      "termino": "Marketing Mix",
+      "definicion": "Consists of variables controlled by marketing professionals in an effort to satisfy the target market",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 7"
+    },
+    {
+      "termino": "Target market",
+      "definicion": "A target market refers to people with a defining set of characteristics that set them apart as a group",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 10"
+    },
+    {
+      "termino": "Niche Marketing",
+      "definicion": "Process of carving out a relatively tiny part of a market that has a very special need not currently being filled",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 14"
+    },
+    {
+      "termino": "Market Segmentation",
+      "definicion": "the process of identifying groups of consumers based on their common needs",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 24"
+    },
+    {
+      "termino": "Positioning map",
+      "definicion": "Products or services are grouped together on a positioning map where they are compared and contrasted in relation to one another",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 47"
+    },
+    {
+      "termino": "Product Differentiation",
+      "definicion": "Refers to a positioning strategy that some firms use to distinguish their products from those of competitors",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 55"
+    },
+    {
+      "termino": "Re-Positioning",
+      "definicion": "A marketer's plan for changing consumers' perceptions of a brand in comparison to competing brands",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 57"
+    },
+    {
+      "termino": "Advertising",
+      "definicion": "Any paid, non-personal form of communication by an identified company promoting goods and services.",
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 61"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Five bases for market segmentation",
+      "columnas": [
+        "Base",
+        "Definition"
+      ],
+      "filas": [
+        [
+          "Demographic",
+          "Focuses on information that can be measured (age, income, occupation, gender, education)"
+        ],
+        [
+          "Product usage",
+          "Reflects what products consumers use, how often they use them, and why"
+        ],
+        [
+          "Psychographic",
+          "Grouping consumers based on personality traits and lifestyle"
+        ],
+        [
+          "Benefits",
+          "Refers to a perceived value consumers receive from the product or service"
+        ],
+        [
+          "Geographic",
+          "Dividing of markets into physical locations"
+        ]
+      ],
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 26, 28, 36-39"
+    },
+    {
+      "titulo": "The marketing mix",
+      "columnas": [
+        "P",
+        "Meaning"
+      ],
+      "filas": [
+        [
+          "Product",
+          "goods, services, or ideas used to satisfy consumer needs"
+        ],
+        [
+          "Price",
+          "determined by what customers are willing to pay and production costs"
+        ],
+        [
+          "Place",
+          "making the product available to the customer"
+        ],
+        [
+          "Promotion",
+          "how the goods or services are communicated to the consumer"
+        ]
+      ],
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 8"
+    },
+    {
+      "titulo": "Types of advertising",
+      "columnas": [
+        "Type",
+        "Key idea"
+      ],
+      "filas": [
+        [
+          "Print media",
+          "written form to inform, persuade or remind"
+        ],
+        [
+          "Outdoor",
+          "signs and billboards; high visibility, 24-hour"
+        ],
+        [
+          "Mass transit",
+          "buses, bus stands, taxicabs, subways"
+        ],
+        [
+          "Broadcast (radio, TV)",
+          "visual and/or auditory; TV is the most expensive"
+        ],
+        [
+          "Online/Digital",
+          "banners, pop-ups, social media"
+        ]
+      ],
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 63-74"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Positioning strategy",
+      "pasos": [
+        "Identify all possible competitive advantages",
+        "Choose the right competitive advantage (how many differences; unique selling proposition)",
+        "Avoid positioning errors (which differences? are they legitimate?)"
+      ],
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 50-53"
+    },
+    {
+      "titulo": "Target markets must be",
+      "pasos": [
+        "Sizeable",
+        "Reachable",
+        "Measurable",
+        "Behavioral"
+      ],
+      "fuente": "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx), slide 11"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "What is the marketing concept?",
+      "respuesta": "Success depends on identifying and satisfying consumer needs and wants (slide 2)."
+    },
+    {
+      "pregunta": "Need vs want.",
+      "respuesta": "A need you cannot do without; a want you would like to have (slide 4)."
+    },
+    {
+      "pregunta": "Conditions of the exchange process.",
+      "respuesta": "Two parties, communication, freedom to accept or decline (slide 5)."
+    },
+    {
+      "pregunta": "What does the marketing mix consist of?",
+      "respuesta": "Variables controlled by marketers to satisfy the target market (slide 7)."
+    },
+    {
+      "pregunta": "Define niche marketing.",
+      "respuesta": "Carving out a tiny part of a market with an unfilled special need (slide 14)."
+    },
+    {
+      "pregunta": "Niche brand example in the slides.",
+      "respuesta": "Lululemon Athletica, yoga apparel for female athletes (slide 18)."
+    },
+    {
+      "pregunta": "Five bases of segmentation.",
+      "respuesta": "Demographic, product, psychographic, benefits, geographic (slide 26)."
+    },
+    {
+      "pregunta": "Psychographic segmentation.",
+      "respuesta": "Grouping by personality traits and lifestyle (slide 37)."
+    },
+    {
+      "pregunta": "Positioning is all about…",
+      "respuesta": "Perception, relative to competitor products (slide 41)."
+    },
+    {
+      "pregunta": "Wheaties' positioning slogan.",
+      "respuesta": "'The breakfast of champions' (slide 45)."
+    },
+    {
+      "pregunta": "Define re-positioning.",
+      "respuesta": "Changing consumers' perceptions of a brand versus competitors (slide 57)."
+    },
+    {
+      "pregunta": "Define advertising.",
+      "respuesta": "Any paid, non-personal communication by an identified company promoting goods and services (slide 61)."
+    },
+    {
+      "pregunta": "Most expensive broadcast media.",
+      "respuesta": "Television (slide 71)."
+    }
+  ],
+  "fuentes": [
+    "1. Basics of Marketing Second Term.ppt (Canvas 75655, file 8299045; convertido a pptx) — 74+ diapositivas (python-pptx tras convertir .ppt); diap. 16, 22 y otras son solo imagen; ejemplos de marcas estadounidenses (Sports Career Consulting, 2014)"
+  ]
+}

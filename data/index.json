@@ -1,5 +1,5 @@
 {
- "version": "20261011092846",
+ "version": "20261011093313",
  "real": true,
  "asignaturas": [
   {
@@ -31,6 +31,34 @@
      "titulo": "Advertising and Marketing vocabulary + Making presentations (temario 1er cuatrimestre)",
      "file": "data/ingles-profesional/tema-1.json",
      "tarjetas": 10,
+     "ejemplo": false
+    },
+    {
+     "tema": 2,
+     "titulo": "Basics of Marketing (Second Term)",
+     "file": "data/ingles-profesional/tema-2.json",
+     "tarjetas": 13,
+     "ejemplo": false
+    },
+    {
+     "tema": 3,
+     "titulo": "Advertising: Forms of Persuasion & Advertising Techniques (Aristotle's modes)",
+     "file": "data/ingles-profesional/tema-3.json",
+     "tarjetas": 10,
+     "ejemplo": false
+    },
+    {
+     "tema": 4,
+     "titulo": "Persuasion Marketing & Persuasion Advertising",
+     "file": "data/ingles-profesional/tema-4.json",
+     "tarjetas": 11,
+     "ejemplo": false
+    },
+    {
+     "tema": 5,
+     "titulo": "Art and Advertising Techniques I & II (visual advertising)",
+     "file": "data/ingles-profesional/tema-5.json",
+     "tarjetas": 12,
      "ejemplo": false
     }
    ]

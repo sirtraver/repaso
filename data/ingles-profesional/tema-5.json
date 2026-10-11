@@ -1,0 +1,183 @@
+{
+  "asignatura": "INGLÉS PROFESIONAL (Canvas 75655)",
+  "tema": 5,
+  "titulo": "Art and Advertising Techniques I & II (visual advertising)",
+  "resumen": "Classic advertising techniques: testimonial, endorsement, problem solving, scientific, demonstration, life-style and bandwagon (Unit 4, 1).\nVisual advertising sells products, ideas or fantasies and relies on psychology (Unit 4, 2).\nTechniques: color psychology, composition (Gestalt), rule of thirds and golden mean (Unit 4).\nContinued: focal point, visual path (Z and F), typography, repetition (Unit 5).\nCharacter techniques: body language, direct gaze and three-quarter gaze (Unit 5).",
+  "conceptos": [
+    {
+      "termino": "Testimonial",
+      "definicion": "Shows people saying how good a product is",
+      "fuente": "UNIT 4.docx — 'Art and Advertising Techniques I' (Canvas 75655, file 8299054), 1"
+    },
+    {
+      "termino": "Endorsement",
+      "definicion": "A “famous” person saying how good a product is",
+      "fuente": "UNIT 4.docx — 'Art and Advertising Techniques I' (Canvas 75655, file 8299054), 1"
+    },
+    {
+      "termino": "Bandwagon",
+      "definicion": "Shows lots of people using the product",
+      "fuente": "UNIT 4.docx — 'Art and Advertising Techniques I' (Canvas 75655, file 8299054), 1"
+    },
+    {
+      "termino": "Composition",
+      "definicion": "Composition is how all the elements are placed in a visual space.",
+      "fuente": "UNIT 4.docx — 'Art and Advertising Techniques I' (Canvas 75655, file 8299054), 2.2"
+    },
+    {
+      "termino": "Rule of thirds",
+      "definicion": "The rule of thirds separates the canvas into six equal rectangles – two rows and three columns.",
+      "fuente": "UNIT 4.docx — 'Art and Advertising Techniques I' (Canvas 75655, file 8299054), 2.3"
+    },
+    {
+      "termino": "Visual path",
+      "definicion": "a visual path is a technique that takes the viewer's gaze to a specific element.",
+      "fuente": "UNIT 5.docx — 'Art and Advertising Techniques II' (Canvas 75655, file 8299055), 5"
+    },
+    {
+      "termino": "Body language",
+      "definicion": "Body language is a nonverbal language that a person transmits by how they stand, sit, smile and move.",
+      "fuente": "UNIT 5.docx — 'Art and Advertising Techniques II' (Canvas 75655, file 8299055), 8"
+    },
+    {
+      "termino": "Direct gaze",
+      "definicion": "Direct gaze is when someone looks you straight in the eye without looking away.",
+      "fuente": "UNIT 5.docx — 'Art and Advertising Techniques II' (Canvas 75655, file 8299055), 9"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Advertising techniques",
+      "columnas": [
+        "Technique",
+        "Description"
+      ],
+      "filas": [
+        [
+          "Testimonial",
+          "people saying how good a product is"
+        ],
+        [
+          "Endorsement",
+          "a famous person saying it"
+        ],
+        [
+          "Problem solving",
+          "provide a solution to some difficulty"
+        ],
+        [
+          "Scientific ad",
+          "favorable results from a test"
+        ],
+        [
+          "Demonstration ad",
+          "how a product works"
+        ],
+        [
+          "Life-style ad",
+          "product + glamorous way of life"
+        ],
+        [
+          "Bandwagon",
+          "lots of people using the product"
+        ]
+      ],
+      "fuente": "UNIT 4.docx — 'Art and Advertising Techniques I' (Canvas 75655, file 8299054), 1"
+    },
+    {
+      "titulo": "Ways to create a focal point",
+      "columnas": [
+        "Technique",
+        "How"
+      ],
+      "filas": [
+        [
+          "Selective focus",
+          "focal point focused, background blurry or vice versa"
+        ],
+        [
+          "Exposure",
+          "manipulate dark and light areas"
+        ],
+        [
+          "Light source",
+          "illuminate the focal point exclusively"
+        ]
+      ],
+      "fuente": "UNIT 5.docx — 'Art and Advertising Techniques II' (Canvas 75655, file 8299055), 4"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Visual advertising techniques (10)",
+      "pasos": [
+        "1 Color psychology",
+        "2 Composition",
+        "3 Rule of thirds and golden mean",
+        "4 Focal point",
+        "5 Visual path (Z / F)",
+        "6 Typography",
+        "7 Repetition",
+        "8 Body language",
+        "9 Direct gaze",
+        "10 Three-quarter gaze"
+      ],
+      "fuente": "UNIT 4.docx — 'Art and Advertising Techniques I' (Canvas 75655, file 8299054) (1-3) y UNIT 5.docx — 'Art and Advertising Techniques II' (Canvas 75655, file 8299055) (4-10)"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Testimonial vs endorsement.",
+      "respuesta": "Ordinary people vs a famous person saying the product is good (Unit 4, 1)."
+    },
+    {
+      "pregunta": "Life-style ad.",
+      "respuesta": "Connects a product with a glamorous way of life (Unit 4, 1)."
+    },
+    {
+      "pregunta": "Does visual advertising always sell a product directly?",
+      "respuesta": "No; sometimes an idea, vision or fantasy (Unit 4, 2)."
+    },
+    {
+      "pregunta": "Brand color in the color psychology example.",
+      "respuesta": "Tiffany Blue (Unit 4, 2.1)."
+    },
+    {
+      "pregunta": "Basic rules for composition.",
+      "respuesta": "Gestalt principles: simplicity, synchrony, association (Unit 4, 2.2)."
+    },
+    {
+      "pregunta": "How does the rule of thirds divide the canvas?",
+      "respuesta": "Six equal rectangles: two rows, three columns (Unit 4, 2.3)."
+    },
+    {
+      "pregunta": "Two visual path shapes.",
+      "respuesta": "Z and F (Unit 5, 5)."
+    },
+    {
+      "pregunta": "What is font pairing?",
+      "respuesta": "The combination of fonts used (Unit 5, 6)."
+    },
+    {
+      "pregunta": "When does repetition work best?",
+      "respuesta": "For new products or campaigns to raise brand awareness (Unit 5, 7)."
+    },
+    {
+      "pregunta": "Official name of the direct gaze technique.",
+      "respuesta": "'Gaze induction technique', from hypnosis (Unit 5, 9)."
+    },
+    {
+      "pregunta": "Where is direct gaze common?",
+      "respuesta": "Magazine ads for wristwatches and perfumes (Unit 5, 9)."
+    },
+    {
+      "pregunta": "How does D&G achieve the three-quarter gaze?",
+      "respuesta": "Using a mirror (Unit 5, 10)."
+    }
+  ],
+  "fuentes": [
+    "UNIT 4.docx — 'Art and Advertising Techniques I' (Canvas 75655, file 8299054) — python-docx; los ejemplos visuales (Tiffany, Cadbury, Renault, McDonald's…) son imágenes no extraídas",
+    "UNIT 5.docx — 'Art and Advertising Techniques II' (Canvas 75655, file 8299055) — python-docx; continuación del tema anterior",
+    "En Canvas: '4. ART AND ADVERTISING TECHNIQUES I' y 'ART AND ADVERTISING TECHNIQUES II'"
+  ]
+}

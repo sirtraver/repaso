@@ -1,0 +1,149 @@
+{
+  "asignatura": "INGLÉS PROFESIONAL (Canvas 75655)",
+  "tema": 3,
+  "titulo": "Advertising: Forms of Persuasion & Advertising Techniques (Aristotle's modes)",
+  "resumen": "Ads appear on TV, radio, magazines, billboards, flyers and the Internet (sección 1.1).\nThe company targets a customer by age, gender, student, marital status and special interest (sección 1.2).\nTypes of advertising: brand (slogans & jingles), informative and persuasive (sección 1.3).\nForms of persuasion: rational, emotional and positive appeal (sección 1.3).\nAristotle's three modes of persuasion in Rhetoric — logos, ethos and pathos — are used in advertising (sección 1.2 Aristotle).",
+  "conceptos": [
+    {
+      "termino": "Logos",
+      "definicion": "Persuasion based on the argument being made to the audience.",
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), Aristotle"
+    },
+    {
+      "termino": "Ethos",
+      "definicion": "Persuasion based on the audience's impression of the speaker's character when hearing the argument.",
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), Aristotle"
+    },
+    {
+      "termino": "Pathos",
+      "definicion": "Persuasion based on the audience's emotional state when hearing the speaker's argument.",
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), Aristotle"
+    },
+    {
+      "termino": "Rational Appeal",
+      "definicion": "Uses facts and knowledge",
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), 1.3"
+    },
+    {
+      "termino": "Emotional Appeal",
+      "definicion": "Play on emotional desires and needs",
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), 1.3"
+    },
+    {
+      "termino": "Positive Appeal",
+      "definicion": "An ad that says a product is wonderful (tells good but not the bad).",
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), 1.3"
+    },
+    {
+      "termino": "Slogans & Jingles",
+      "definicion": "Catchy tunes &phrases entertain you and help you remember a brand.",
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), 1.3 B"
+    }
+  ],
+  "tablas": [
+    {
+      "titulo": "Types of advertising",
+      "columnas": [
+        "Type",
+        "Idea"
+      ],
+      "filas": [
+        [
+          "Brand",
+          "if you remember the brand name you will buy it; usually more expensive"
+        ],
+        [
+          "Informative",
+          "educate/inform you about the product (e.g. car features)"
+        ],
+        [
+          "Persuasive",
+          "persuade buyers through forms of persuasion"
+        ]
+      ],
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), 1.3"
+    },
+    {
+      "titulo": "Target market variables",
+      "columnas": [
+        "Variable"
+      ],
+      "filas": [
+        [
+          "Age group"
+        ],
+        [
+          "Male/Female"
+        ],
+        [
+          "Student"
+        ],
+        [
+          "Single/Married"
+        ],
+        [
+          "Special interest: music, sports, fashion, food"
+        ]
+      ],
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), 1.2"
+    }
+  ],
+  "esquemas": [
+    {
+      "titulo": "Using the three modes in an ad",
+      "pasos": [
+        "Logos: the selling proposition, a clear statement + call to action",
+        "Ethos: build credibility (testimonials, experts, celebrities, company history)",
+        "Pathos: influence emotions (including humor)",
+        "Combine modes so they complement each other; image, design, casting and sound also persuade"
+      ],
+      "fuente": "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046), Aristotle"
+    }
+  ],
+  "tarjetas": [
+    {
+      "pregunta": "Where do you see/hear ads?",
+      "respuesta": "TV, radio, magazines, billboards, flyers, Internet (1.1)."
+    },
+    {
+      "pregunta": "Why is brand advertising usually more expensive?",
+      "respuesta": "You pay the cost of advertising (1.3)."
+    },
+    {
+      "pregunta": "Example of a jingle in the material.",
+      "respuesta": "'Who lives in a pineapple under the sea?' (1.3)."
+    },
+    {
+      "pregunta": "What does informative advertising do?",
+      "respuesta": "Educates/informs you about the product (1.3)."
+    },
+    {
+      "pregunta": "Rational vs emotional appeal.",
+      "respuesta": "Facts and knowledge vs emotional desires and needs (1.3)."
+    },
+    {
+      "pregunta": "Who wrote Rhetoric?",
+      "respuesta": "Aristotle (Aristotle section)."
+    },
+    {
+      "pregunta": "What is logos in an ad?",
+      "respuesta": "The selling proposition or main idea (Aristotle section)."
+    },
+    {
+      "pregunta": "Classic ethos techniques.",
+      "respuesta": "Testimonials, expert recommendations, celebrity endorsements (Aristotle section)."
+    },
+    {
+      "pregunta": "Does pathos have to be serious?",
+      "respuesta": "No; humor also influences emotions (Aristotle section)."
+    },
+    {
+      "pregunta": "How many modes does every ad use?",
+      "respuesta": "At least one; most use two, some all three (Aristotle section)."
+    }
+  ],
+  "fuentes": [
+    "3ª Evaluación.docx — '1. Forms of Persuasion & Advertising Techniques' (Canvas 75655, file 8299046) — python-docx (sin paginación: se cita por sección)",
+    "El nombre del archivo es '3ª Evaluación.docx'; en Canvas aparece como '2. FORMS OF PERSUASION AND ADVERTISING TECHNIQUES'"
+  ]
+}
